@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-03",
+  "source": "user_specified_watchlist",
+  "defaultTier": "A",
+  "principles": [
+    "User-specified competitors are treated as A-level monitored entities.",
+    "One enterprise profile may belong to multiple analysis modules.",
+    "Parent-child relationships are stored once and reused by all modules.",
+    "Amorepacific is managed at group level; priority skincare brands should be checked during 90-day baseline building."
+  ],
+  "modules": {
+    "health-food-competitors": {
+      "label": "健食竞品",
+      "priority": 1,
+      "entities": [
+        "by-health",
+        "whealthfields",
+        "perfect-china",
+        "sirio-pharma",
+        "tong-ren-tang",
+        "dong-e-e-jiao",
+        "hh-group"
+      ]
+    },
+    "womens-health-competitors": {
+      "label": "女性健康竞品",
+      "priority": 2,
+      "entities": [
+        "moonflow",
+        "biocare",
+        "inbison",
+        "swisse",
+        "amway",
+        "by-health",
+        "laife"
+      ]
+    },
+    "beauty-competitors": {
+      "label": "美妆竞品",
+      "priority": 3,
+      "entities": [
+        "loreal-group",
+        "unilever",
+        "pg-group",
+        "olay",
+        "sk-ii",
+        "isdin",
+        "amorepacific-group"
+      ]
+    }
+  },
+  "entities": [
+    {
+      "id": "by-health",
+      "displayName": "汤臣倍健",
+      "aliases": ["BY-HEALTH", "汤臣倍健股份有限公司"],
+      "tier": "A",
+      "moduleIds": ["health-food-competitors", "womens-health-competitors"],
+      "profilePolicy": "single_profile_multi_module"
+    },
+    {
+      "id": "whealthfields",
+      "displayName": "万益蓝",
+      "aliases": ["Whealthfields", "万益蓝健康科技"],
+      "tier": "A",
+      "moduleIds": ["health-food-competitors"]
+    },
+    {
+      "id": "perfect-china",
+      "displayName": "完美",
+      "aliases": ["Perfect China", "完美中国"],
+      "tier": "A",
+      "moduleIds": ["health-food-competitors"]
+    },
+    {
+      "id": "sirio-pharma",
+      "displayName": "仙乐健康",
+      "aliases": ["Sirio Pharma", "仙乐健康科技股份有限公司"],
+      "tier": "A",
+      "moduleIds": ["health-food-competitors"]
+    },
+    {
+      "id": "tong-ren-tang",
+      "displayName": "同仁堂",
+      "aliases": ["Tong Ren Tang", "北京同仁堂"],
+      "tier": "A",
+      "moduleIds": ["health-food-competitors"]
+    },
+    {
+      "id": "dong-e-e-jiao",
+      "displayName": "东阿阿胶",
+      "aliases": ["Dong-E-E-Jiao", "DEEJ"],
+      "tier": "A",
+      "moduleIds": ["health-food-competitors"]
+    },
+    {
+      "id": "hh-group",
+      "displayName": "健合",
+      "aliases": ["H&H Group", "Health and Happiness Group"],
+      "tier": "A",
+      "moduleIds": ["health-food-competitors"],
+      "children": ["swisse"]
+    },
+    {
+      "id": "moonflow",
+      "displayName": "月神",
+      "aliases": ["月神"],
+      "tier": "A",
+      "moduleIds": ["womens-health-competitors"]
+    },
+    {
+      "id": "biocare",
+      "displayName": "BIOCARE",
+      "aliases": ["BioCare", "BIOCARE"],
+      "tier": "A",
+      "moduleIds": ["womens-health-competitors"]
+    },
+    {
+      "id": "inbison",
+      "displayName": "因贝森",
+      "aliases": ["因贝森", "Inbison"],
+      "tier": "A",
+      "moduleIds": ["womens-health-competitors"]
+    },
+    {
+      "id": "swisse",
+      "displayName": "斯维诗",
+      "aliases": ["Swisse", "斯维诗"],
+      "tier": "A",
+      "moduleIds": ["womens-health-competitors"],
+      "parentId": "hh-group"
+    },
+    {
+      "id": "amway",
+      "displayName": "安利",
+      "aliases": ["Amway", "Nutrilite", "安利纽崔莱"],
+      "tier": "A",
+      "moduleIds": ["womens-health-competitors"]
+    },
+    {
+      "id": "laife",
+      "displayName": "laife",
+      "aliases": ["laife", "Laife"],
+      "tier": "A",
+      "moduleIds": ["womens-health-competitors"]
+    },
+    {
+      "id": "loreal-group",
+      "displayName": "L'Oréal",
+      "aliases": ["L'Oreal", "欧莱雅", "L'Oréal Groupe"],
+      "tier": "A",
+      "moduleIds": ["beauty-competitors"]
+    },
+    {
+      "id": "unilever",
+      "displayName": "Unilever",
+      "aliases": ["联合利华", "Unilever Prestige"],
+      "tier": "A",
+      "moduleIds": ["beauty-competitors"]
+    },
+    {
+      "id": "pg-group",
+      "displayName": "P&G",
+      "aliases": ["Procter & Gamble", "宝洁"],
+      "tier": "A",
+      "moduleIds": ["beauty-competitors"],
+      "children": ["olay", "sk-ii"]
+    },
+    {
+      "id": "olay",
+      "displayName": "Olay",
+      "aliases": ["OLAY", "玉兰油"],
+      "tier": "A",
+      "moduleIds": ["beauty-competitors"],
+      "parentId": "pg-group"
+    },
+    {
+      "id": "sk-ii",
+      "displayName": "SK-II",
+      "aliases": ["SKII", "SK-II"],
+      "tier": "A",
+      "moduleIds": ["beauty-competitors"],
+      "parentId": "pg-group"
+    },
+    {
+      "id": "isdin",
+      "displayName": "ISDIN",
+      "aliases": ["ISDIN"],
+      "tier": "A",
+      "moduleIds": ["beauty-competitors"]
+    },
+    {
+      "id": "amorepacific-group",
+      "displayName": "爱茉莉太平洋",
+      "aliases": ["Amorepacific", "Amorepacific Group", "Amorepacific Corporation"],
+      "tier": "A",
+      "moduleIds": ["beauty-competitors"],
+      "profilePolicy": "group_level",
+      "baselineTasks": ["check_priority_skincare_brands_in_90d_baseline"]
+    }
+  ],
+  "relationships": [
+    {
+      "parentId": "pg-group",
+      "childIds": ["olay", "sk-ii"],
+      "type": "parent_child"
+    },
+    {
+      "parentId": "hh-group",
+      "childIds": ["swisse"],
+      "type": "parent_child"
+    }
+  ]
+}
