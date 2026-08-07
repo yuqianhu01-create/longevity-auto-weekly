@@ -1,0 +1,28 @@
+name: validate-weekly
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate JSON configuration
+        run: |
+          python -m json.tool docs/automation/run-plan.json > /dev/null
+          python -m json.tool docs/automation/classification-rules.json > /dev/null
+          python -m json.tool docs/automation/source-registry.json > /dev/null
+          python -m json.tool docs/watchlists/competitor-watchlist.json > /dev/null
+      - name: Refresh module assignment status
+        run: python scripts/assign_primary_modules.py
+      - name: Validate public report data
+        run: python scripts/validate_reports.py
+      - name: Ensure generated status is committed
+        run: git diff --exit-code docs/reports.json docs/automation/module-fill-status.json

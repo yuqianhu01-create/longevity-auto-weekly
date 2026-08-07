@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-04",
+  "minimumUniqueItemsPerModule": 5,
+  "reports": [
+    {
+      "week": "2026-W31",
+      "itemCount": 21,
+      "moduleCounts": {
+        "academic-frontier": 5,
+        "industry-progress": 4,
+        "health-food-competitors": 5,
+        "food-ingredients": 3,
+        "ai-applications": 4
+      },
+      "belowMinimum": {
+        "industry-progress": 1,
+        "food-ingredients": 2,
+        "ai-applications": 1
+      }
+    },
+    {
+      "week": "2026-W31",
+      "itemCount": 2,
+      "moduleCounts": {
+        "academic-frontier": 0,
+        "industry-progress": 1,
+        "health-food-competitors": 0,
+        "food-ingredients": 0,
+        "ai-applications": 1
+      },
+      "belowMinimum": {
+        "academic-frontier": 5,
+        "industry-progress": 4,
+        "health-food-competitors": 5,
+        "food-ingredients": 5,
+        "ai-applications": 4
+      }
+    },
+    {
+      "week": "2026-W31",
+      "itemCount": 11,
+      "moduleCounts": {
+        "academic-frontier": 4,
+        "industry-progress": 3,
+        "health-food-competitors": 1,
+        "food-ingredients": 0,
+        "ai-applications": 3
+      },
+      "belowMinimum": {
+        "academic-frontier": 1,
+        "industry-progress": 2,
+        "health-food-competitors": 4,
+        "food-ingredients": 5,
+        "ai-applications": 2
+      }
+    },
+    {
+      "week": "2026-W31",
+      "itemCount": 21,
+      "moduleCounts": {
+        "academic-frontier": 5,
+        "industry-progress": 4,
+        "health-food-competitors": 5,
+        "food-ingredients": 3,
+        "ai-applications": 4
+      },
+      "belowMinimum": {
+        "industry-progress": 1,
+        "food-ingredients": 2,
+        "ai-applications": 1
+      }
+    }
+  ]
+}

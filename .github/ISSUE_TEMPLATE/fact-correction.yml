@@ -1,0 +1,24 @@
+name: 事实纠错
+description: 报告失效链接、日期、标识符或事实问题
+title: "[纠错] "
+labels: ["fact-check"]
+body:
+  - type: input
+    id: week
+    attributes:
+      label: 周次或条目
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: 原始来源
+      description: 请提供可核验的原始链接
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: 问题与建议修改
+    validations:
+      required: true

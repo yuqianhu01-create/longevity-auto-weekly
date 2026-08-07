@@ -1,0 +1,71 @@
+name: auto-publish-weekly
+
+on:
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Lookback window in days"
+        required: false
+        default: "14"
+      max_per_query:
+        description: "Max candidates per source query"
+        required: false
+        default: "5"
+  schedule:
+    - cron: "30 1 * * 1"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: auto-publish-weekly
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Collect candidates
+        run: |
+          python scripts/collect_weekly_candidates.py \
+            --days "${{ inputs.days || '14' }}" \
+            --max-per-query "${{ inputs.max_per_query || '5' }}" \
+            --timeout 18
+      - name: Build search plan and quality report
+        run: |
+          python scripts/build_search_plan.py
+          python scripts/evaluate_search_plan.py
+      - name: Promote candidates into public report
+        run: |
+          python scripts/promote_candidates_to_report.py \
+            --days "${{ inputs.days || '14' }}" \
+            --replace-current-week
+      - name: Validate generated public report
+        run: |
+          python scripts/assign_primary_modules.py
+          python scripts/validate_reports.py
+      - name: Commit automated weekly report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/reports.json docs/automation/module-fill-status.json docs/staging/weekly-candidates.json docs/staging/search-plan.json docs/staging/search-quality-report.json
+          if git diff --cached --quiet; then
+            echo "No weekly changes to commit."
+          else
+            git commit -m "Auto publish weekly longevity report"
+            git push
+          fi
+      - name: Upload automation artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: automated-weekly-publication
+          path: |
+            docs/staging/weekly-candidates.json
+            docs/staging/search-plan.json
+            docs/staging/search-quality-report.json
