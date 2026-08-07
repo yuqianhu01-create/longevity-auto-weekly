@@ -1,0 +1,235 @@
+{
+  "schemaVersion": 3,
+  "updatedAt": "2026-08-06",
+  "goal": "Run automated weekly discovery and publish only unique, date-stamped items with clickable source links into docs/reports.json.",
+  "principles": [
+    "Do not publish the same article in more than one module; assign each item to the single best-fit module.",
+    "Each module should target at least five unique items; prefer recency over quota filling.",
+    "If the latest 14 days do not provide enough strong items, expand to 30 days, then 90 days, and keep the published date visible.",
+    "Academic discovery should not be US-only; prioritize strong research countries and domain leaders, including France, Germany, Japan, South Korea, the EU, UK, Singapore, Switzerland, and Nordic countries when topic fit is strong.",
+    "Industry and policy discovery should overweight China, especially government, regulator, standards, filing, raw-material specification, and official policy releases.",
+    "Competitor searches must start from the A-level watchlist and prioritize official sites, official accounts, regulatory records, clinical registrations, patents, product evidence pages, credible commercial observation, and authoritative science communication.",
+    "AI industry discovery should include OpenAI, Anthropic, DeepMind, NVIDIA, Microsoft, research labs, investor/news releases, developer blogs, technical magazines, institution reports, and founder/developer interviews.",
+    "Books, documentaries, films, long interviews, and podcasts can enter a recommendation card only when author/director/speaker, country or region, date, focus section, excerpt or key moment, inspiration, and clickable source are available.",
+    "Marketing-only reposts, unsourced commentary, broken links, and duplicate syndications must not enter docs/reports.json."
+  ],
+  "publicApiSources": [
+    "pubmed",
+    "crossref",
+    "clinicaltrials-gov",
+    "arxiv"
+  ],
+  "globalResearchFocus": [
+    "France cosmetics skin aging L'Oreal research",
+    "Germany aging biomarker skin microbiome nutrition",
+    "South Korea cosmetics skin aging Amorepacific bioactive",
+    "Japan Shiseido skin aging senescence nutrition",
+    "EU EFSA novel food healthy aging ingredient",
+    "UK biological age cohort longevity",
+    "Singapore AI biology aging biomarker",
+    "Switzerland nutrition dermatology longevity"
+  ],
+  "domesticGovernmentSources": [
+    {
+      "id": "samr",
+      "label": "国家市场监督管理总局",
+      "searchTemplate": "site:samr.gov.cn {query}"
+    },
+    {
+      "id": "nmpa",
+      "label": "国家药监局",
+      "searchTemplate": "site:nmpa.gov.cn {query}"
+    },
+    {
+      "id": "nhc",
+      "label": "国家卫健委",
+      "searchTemplate": "site:nhc.gov.cn {query}"
+    },
+    {
+      "id": "cfsa",
+      "label": "国家食品安全风险评估中心",
+      "searchTemplate": "site:cfsa.net.cn {query}"
+    },
+    {
+      "id": "std-samr",
+      "label": "国家标准/团体标准线索",
+      "searchTemplate": "{query} 标准 规范 原料 保健食品"
+    }
+  ],
+  "domesticLiteratureSources": [
+    {
+      "id": "cnki",
+      "label": "知网",
+      "mode": "metadata_search",
+      "searchTemplate": "site:cnki.net {query}"
+    },
+    {
+      "id": "wanfang",
+      "label": "万方",
+      "mode": "metadata_search",
+      "searchTemplate": "site:wanfangdata.com.cn {query}"
+    },
+    {
+      "id": "cqvip",
+      "label": "维普",
+      "mode": "metadata_search",
+      "searchTemplate": "site:cqvip.com {query}"
+    }
+  ],
+  "commercialObservationSources": [
+    {
+      "id": "nutraingredients",
+      "label": "NutraIngredients",
+      "searchTemplate": "site:nutraingredients.com {query}"
+    },
+    {
+      "id": "nutritional-outlook",
+      "label": "Nutritional Outlook",
+      "searchTemplate": "site:nutritionaloutlook.com {query}"
+    },
+    {
+      "id": "pr-newswire",
+      "label": "PR Newswire",
+      "searchTemplate": "site:prnewswire.com {query}"
+    },
+    {
+      "id": "36kr",
+      "label": "36氪",
+      "searchTemplate": "site:36kr.com {query}"
+    },
+    {
+      "id": "vbdata",
+      "label": "动脉网",
+      "searchTemplate": "site:vbdata.cn {query}"
+    },
+    {
+      "id": "cosmetics-observation",
+      "label": "化妆品观察/品观",
+      "searchTemplate": "{query} 化妆品观察 OR 品观"
+    },
+    {
+      "id": "qingyan",
+      "label": "青眼",
+      "searchTemplate": "{query} 青眼"
+    },
+    {
+      "id": "jumeili",
+      "label": "聚美丽",
+      "searchTemplate": "{query} 聚美丽"
+    }
+  ],
+  "aiIndustrySources": [
+    {
+      "id": "openai",
+      "label": "OpenAI",
+      "searchTemplate": "site:openai.com {query}"
+    },
+    {
+      "id": "anthropic",
+      "label": "Anthropic",
+      "searchTemplate": "site:anthropic.com {query}"
+    },
+    {
+      "id": "deepmind",
+      "label": "Google DeepMind",
+      "searchTemplate": "site:deepmind.google {query}"
+    },
+    {
+      "id": "nvidia",
+      "label": "NVIDIA",
+      "searchTemplate": "site:nvidia.com {query}"
+    },
+    {
+      "id": "microsoft-ai",
+      "label": "Microsoft AI",
+      "searchTemplate": "site:microsoft.com/en-us/ai {query}"
+    },
+    {
+      "id": "technology-review",
+      "label": "MIT Technology Review",
+      "searchTemplate": "site:technologyreview.com {query}"
+    },
+    {
+      "id": "nature-news-ai",
+      "label": "Nature News AI",
+      "searchTemplate": "site:nature.com {query} AI"
+    },
+    {
+      "id": "the-decoder",
+      "label": "The Decoder",
+      "searchTemplate": "site:the-decoder.com {query}"
+    }
+  ],
+  "mediaRecommendationSources": [
+    {
+      "id": "books",
+      "label": "书籍",
+      "queryTerms": [
+        "longevity book",
+        "aging science book",
+        "AI biography book",
+        "beauty industry book"
+      ]
+    },
+    {
+      "id": "documentary",
+      "label": "纪录片",
+      "queryTerms": [
+        "longevity documentary",
+        "aging documentary",
+        "AI documentary",
+        "beauty industry documentary"
+      ]
+    },
+    {
+      "id": "film",
+      "label": "电影",
+      "queryTerms": [
+        "AI film interview",
+        "biotech film documentary",
+        "beauty industry film"
+      ]
+    },
+    {
+      "id": "founder-interview",
+      "label": "创始人/开发者访谈",
+      "queryTerms": [
+        "OpenAI founder interview",
+        "Anthropic founder interview",
+        "AI developer interview",
+        "longevity founder interview"
+      ]
+    }
+  ],
+  "competitorSpecialSearch": {
+    "sourcePriority": [
+      "official-company",
+      "official-account",
+      "regulatory",
+      "clinicaltrials",
+      "patent",
+      "commercial-observation",
+      "authoritative-popular-science",
+      "domestic-literature"
+    ],
+    "queryTerms": [
+      "研发",
+      "临床",
+      "专利",
+      "注册",
+      "备案",
+      "新品",
+      "功效",
+      "原料",
+      "合作",
+      "发布",
+      "抗衰",
+      "女性健康",
+      "美妆",
+      "营养",
+      "保健食品"
+    ],
+    "searchTemplate": "({entityAliases}) ({queryTerms})"
+  },
+  "searchUrlTemplate": "https://www.bing.com/search?q={encodedQuery}"
+}

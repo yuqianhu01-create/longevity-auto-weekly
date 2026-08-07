@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-06T08:20:05.869787+00:00",
+  "searchTaskCount": 348,
+  "candidateCount": 16,
+  "discoveryWindowDays": 14,
+  "searchPlanQuality": {
+    "missingSearchUrls": [],
+    "sourceGroupCounts": {
+      "ai-industry": 40,
+      "commercial-observation": 176,
+      "domestic-government": 20,
+      "domestic-literature": 75,
+      "media-recommendation": 15,
+      "official-company": 22
+    },
+    "cardTypeCounts": {
+      "evidence": 333,
+      "interview": 5,
+      "media": 10
+    },
+    "moduleCounts": {
+      "academic-frontier": 8,
+      "ai-applications": 47,
+      "food-ingredients": 9,
+      "health-food-competitors": 264,
+      "industry-progress": 20
+    }
+  },
+  "candidateRecency": {
+    "datedCandidateCount": 16,
+    "staleCandidateCount": 7,
+    "staleCandidates": [
+      {
+        "id": "clinicaltrials-gov-impact-of-pre-operative-sarcopenia-on-functional-recovery-after-hip-ar",
+        "publishedAt": "2026-02-24",
+        "ageDays": 163,
+        "title": "Impact of Pre-operative Sarcopenia on Functional Recovery After Hip Arthroplasty in Older Adults",
+        "url": "https://clinicaltrials.gov/study/NCT07429955"
+      },
+      {
+        "id": "clinicaltrials-gov-an-applied-study-on-the-use-of-stone-needles-therapy-to-assist-the-reh",
+        "publishedAt": "2024-08-13",
+        "ageDays": 723,
+        "title": "An Applied Study on the Use of Stone Needles Therapy to Assist the Rehabilitation of Maternal Diastasis Rectus Abdominis Based on the Theory of Belt Channel",
+        "url": "https://clinicaltrials.gov/study/NCT06552143"
+      },
+      {
+        "id": "clinicaltrials-gov-effects-of-inspiratory-muscle-training-after-lung-cancer-surgery-a-ra",
+        "publishedAt": "2015-01-21",
+        "ageDays": 4215,
+        "title": "Effects of Inspiratory Muscle Training After Lung Cancer Surgery, a Randomized Controlled Trial",
+        "url": "https://clinicaltrials.gov/study/NCT01793155"
+      },
+      {
+        "id": "clinicaltrials-gov-randomized-trial-to-evaluate-the-effectiveness-of-x-22-as-a-smoking-ce",
+        "publishedAt": "2021-11-19",
+        "ageDays": 1721,
+        "title": "Randomized Trial to Evaluate the Effectiveness of X-22 as a Smoking Cessation Aid",
+        "url": "https://clinicaltrials.gov/study/NCT01400815"
+      },
+      {
+        "id": "clinicaltrials-gov-artificial-intelligence-triage-of-patients-requiring-emergency-or-unsc",
+        "publishedAt": "2026-02-23",
+        "ageDays": 164,
+        "title": "Artificial Intelligence Triage of Patients Requiring Emergency or Unscheduled Care Who Need to be Referred to Hospital",
+        "url": "https://clinicaltrials.gov/study/NCT07428109"
+      },
+      {
+        "id": "clinicaltrials-gov-phase-iii-study-to-investigate-the-safety-and-efficacy-of-fermagate-an",
+        "publishedAt": "2010-10-19",
+        "ageDays": 5770,
+        "title": "Phase III Study to Investigate the Safety and Efficacy of Fermagate and Lanthanum Carbonate",
+        "url": "https://clinicaltrials.gov/study/NCT00841126"
+      },
+      {
+        "id": "clinicaltrials-gov-study-of-6-s-5-mthf-among-selective-serotonin-reuptake-inhibitor-resi",
+        "publishedAt": "2017-04-28",
+        "ageDays": 3387,
+        "title": "Study of 6(S)-5-MTHF Among Selective Serotonin Reuptake Inhibitor-Resistant Outpatients With Major Depressive Disorder",
+        "url": "https://clinicaltrials.gov/study/NCT00955955"
+      }
+    ]
+  },
+  "automatedPublicationRules": [
+    "Publish only records with a clickable source URL, source ID, title, publication date, and dedupe key.",
+    "Extract the key signal from the source record itself: fact, why it matters, and recommended action.",
+    "Assign exactly one best-fit module; do not duplicate the same item across modules.",
+    "Prefer the latest 14 days. Expand to 30 or 90 days only when a module has too few strong items.",
+    "Readers only review the final website; no manual candidate queue is required."
+  ],
+  "websiteImportPath": [
+    "GitHub Actions runs collect_weekly_candidates.py.",
+    "GitHub Actions runs promote_candidates_to_report.py to write docs/reports.json.",
+    "GitHub Actions runs assign_primary_modules.py and validate_reports.py.",
+    "GitHub Actions commits docs/reports.json and staging reports back to main.",
+    "GitHub Pages deploys the updated docs folder; the reader only opens the final website."
+  ]
+}

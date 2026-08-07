@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-04",
+  "principles": [
+    "Each article must have exactly one primary module for display.",
+    "relatedModuleIds may preserve context, but must not create duplicate rendered cards.",
+    "If a title, fact, tags, source, or recommendation matches a subgroup definition, assign it to the most specific matching subgroup.",
+    "Do not fill module quotas with weak or duplicate items. If verified unique items are insufficient, mark the module as below minimum and continue searching."
+  ],
+  "minimumUniqueItemsPerModule": 5,
+  "modules": {
+    "academic-frontier": {
+      "label": "学术追踪｜机制与人体证据",
+      "definition": "Peer-reviewed papers, preprints, clinical studies, cohort analyses, omics atlases, mechanisms, biomarkers, and human/animal/cell evidence that primarily advances scientific understanding of aging, healthspan, or intervention biology.",
+      "subgroups": []
+    },
+    "industry-progress": {
+      "label": "转化产业/政策｜上市、监管、合作",
+      "definition": "Commercial, regulatory, launch, registration, partnership, financing, and market-access moves related to TCM, health foods, enhanced health foods, beauty, healthy lifestyle, and diet categories.",
+      "subgroups": [
+        {
+          "id": "translation-industry",
+          "label": "转化产业动态｜上市、合作与商业化",
+          "definition": "Company launches, channel moves, partnerships, financing, manufacturing, supply-chain, and commercialization signals."
+        },
+        {
+          "id": "policy-regulatory",
+          "label": "政策监管｜法规、注册与合规边界",
+          "definition": "Regulatory approvals, registrations, novel food decisions, official policies, compliance boundaries, guidelines, and regulator notices."
+        }
+      ]
+    },
+    "health-food-competitors": {
+      "label": "竞品研发｜企业与品牌池",
+      "definition": "R&D, clinical, patent, product-evidence, formulation, ingredient, regulatory, and launch signals from the monitored competitor enterprise/brand pool.",
+      "subgroups": [
+        {
+          "id": "health-food",
+          "label": "健食竞品｜企业",
+          "definition": "Health food, supplement, functional nutrition, Chinese tonic, sleep, probiotic, cognition, vision, joint, energy, and evidence signals tied to monitored health-food competitors."
+        },
+        {
+          "id": "womens-health",
+          "label": "女性健康竞品｜企业",
+          "definition": "Menstrual, menopause, urinary, reproductive, sleep, mood, fertility, and female life-stage product/evidence signals tied to monitored women's-health competitors."
+        },
+        {
+          "id": "beauty",
+          "label": "美妆竞品｜集团/品牌池",
+          "definition": "Skin aging, cosmetics, skincare, personalization, beauty retail, collagen, dermis, facial, lip, and beauty technology signals tied to monitored beauty groups or brands."
+        },
+        {
+          "id": "by-health",
+          "label": "汤臣倍健企业档案｜健食 + 女性健康共用",
+          "definition": "Only items explicitly about BY-HEALTH/Tomson By-Health. The enterprise profile is stored once and may be referenced from health-food and women's-health analysis."
+        }
+      ]
+    },
+    "food-ingredients": {
+      "label": "中草药/保健食品｜原料与证据设计",
+      "definition": "Ingredient, botanical, TCM, novel food, dosage, specification, safety, efficacy-claim, and human-evidence design signals that are more about raw material or evidence architecture than a specific competitor.",
+      "subgroups": [
+        {
+          "id": "ingredient-dynamics",
+          "label": "原料动态｜新原料、活性成分与供应合作",
+          "definition": "New ingredients, active compounds, botanical extracts, specifications, suppliers, supply partnerships, and formulation inputs."
+        },
+        {
+          "id": "evidence-design",
+          "label": "证据设计｜人体试验、功效宣称与剂量机制",
+          "definition": "Human trials, claim substantiation, dosage design, safety boundaries, mechanism readouts, and evidence plans for ingredients or health foods."
+        }
+      ]
+    },
+    "ai-applications": {
+      "label": "AI｜产业应用与抗衰研究",
+      "definition": "AI tools, platforms, products, commercialization, aging models, biological-age clocks, biomarkers, omics interpretation, and mechanism discovery related to longevity or health products.",
+      "subgroups": [
+        {
+          "id": "ai-industry",
+          "label": "AI产业应用｜研发平台、产品工具与商业化动作",
+          "definition": "AI used in R&D platforms, product tools, personalized recommendation, diagnostics, retail, customer workflow, and commercialization."
+        },
+        {
+          "id": "ai-aging",
+          "label": "AI与抗衰老｜年龄模型、标志物与机制发现",
+          "definition": "AI for biological age, aging clocks, biomarkers, disease-state shifts, single-cell or multi-omics interpretation, and aging mechanism discovery."
+        }
+      ]
+    }
+  }
+}

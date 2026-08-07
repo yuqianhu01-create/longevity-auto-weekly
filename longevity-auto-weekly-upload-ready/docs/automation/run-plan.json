@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 3,
+  "updatedAt": "2026-08-06",
+  "goal": "Run a compact five-module 延衰技术周报 with automated discovery, dedupe, classification, publication, and GitHub Pages deployment.",
+  "globalRules": {
+    "discoveryWindowDays": 14,
+    "fallbackWindowDays": [30, 90],
+    "baselineWindowDays": 90,
+    "minimumItemsPerModule": 5,
+    "doNotBackfillWeakItems": true,
+    "doNotRenderDuplicateItems": true,
+    "primaryModuleRequired": true,
+    "publishOnlyAutomatedSourceDateLinkGate": true,
+    "sourceRegistryPath": "/automation/source-registry.json"
+  },
+  "batches": [
+    {
+      "id": "batch-1-science",
+      "order": 1,
+      "moduleIds": ["academic-frontier"],
+      "preferredSources": ["pubmed", "crossref", "domestic-literature", "journal-pages", "clinicaltrials"],
+      "queryStrategy": "Mechanisms, human evidence, biomarkers, and review-worthy recent studies; include non-US domain leaders such as French cosmetics research, German biomarkers, Korean and Japanese skin-aging research, EU novel-food evidence, UK cohorts, Singapore AI-biology, Swiss nutrition and dermatology.",
+      "reason": "Build the evidence base before interpreting market or competitor signals."
+    },
+    {
+      "id": "batch-2-industry-policy",
+      "order": 2,
+      "moduleIds": ["industry-progress"],
+      "preferredSources": ["domestic-government", "official-company", "regulators", "clinicaltrials", "professional-media", "domestic-business-media"],
+      "queryStrategy": "China-first for industry and policy: government rules, raw-material standards, filings, health-food registration, cosmetics efficacy claim rules, product launch, partnership, financing, and market access.",
+      "reason": "Separate factual market movement and domestic regulatory requirements from scientific evidence."
+    },
+    {
+      "id": "batch-3-competitor-rd",
+      "order": 3,
+      "moduleIds": ["health-food-competitors"],
+      "preferredSources": ["competitor-watchlist", "official-company", "official-account", "product-pages", "clinicaltrials", "regulators", "professional-media", "domestic-literature", "commercial-observation", "authoritative-popular-science"],
+      "queryStrategy": "A-level entity aliases first; for each company or brand search official sites, official accounts, clinical and regulatory records, patents, commercial observation, authoritative science communication, and domestic literature candidates.",
+      "reason": "Keep entity-level competitor monitoring clear."
+    },
+    {
+      "id": "batch-4-ingredients",
+      "order": 4,
+      "moduleIds": ["food-ingredients"],
+      "preferredSources": ["domestic-government", "regulators", "ingredient-suppliers", "clinicaltrials", "professional-media", "domestic-literature", "journal-pages"],
+      "queryStrategy": "New ingredient, botanical, TCM, dosage, specification, safety, raw-material standard, filing route, efficacy-claim evidence, and human evidence terms.",
+      "reason": "Make the ingredient and technology frontier explicit for product screening."
+    },
+    {
+      "id": "batch-5-ai-rd-applications",
+      "order": 5,
+      "moduleIds": ["ai-applications"],
+      "preferredSources": ["official-ai-company", "research-lab", "developer-blog", "technical-magazine", "institution-report", "founder-interview", "pubmed", "arxiv", "clinicaltrials", "professional-media"],
+      "queryStrategy": "AI giants and applied AI: OpenAI, Anthropic, DeepMind, NVIDIA, Microsoft, research labs, financing, developer/founder interviews, AI aging model, biological age, R&D workflow, product tools, diagnostics, and commercialization.",
+      "reason": "AI is monitored as both industry infrastructure and anti-aging research capability."
+    },
+    {
+      "id": "batch-6-media-recommendations",
+      "order": 6,
+      "moduleIds": ["ai-applications", "academic-frontier", "industry-progress"],
+      "preferredSources": ["book", "documentary", "film", "long-interview", "podcast"],
+      "queryStrategy": "Recommend books, documentaries, films, long interviews, and podcasts only when author/director/speaker, country, date, focus chapters/segments, excerpt, inspiration, and clickable source are available.",
+      "reason": "Add a distinct recommendation card type for broader learning signals."
+    }
+  ],
+  "searchNarrowing": {
+    "competitorFirst": true,
+    "watchlistPath": "/watchlists/competitor-watchlist.json",
+    "entityQueryTemplate": "(\"{alias}\" OR \"{displayName}\") ({moduleTerms}) (研发 OR 临床 OR 专利 OR 注册 OR 备案 OR 新品 OR 功效 OR 原料 OR 合作 OR 发布 OR 抗衰 OR 女性健康 OR 美妆 OR 营养 OR 保健食品 OR launch OR clinical trial OR patent OR ingredient OR evidence OR AI OR partnership OR regulatory)",
+    "moduleTerms": {
+      "academic-frontier": [
+        "aging biomarker human intervention",
+        "biological age cohort France Germany Korea Japan Europe",
+        "cellular senescence mechanism",
+        "mitochondrial aging",
+        "reproductive aging",
+        "skin aging cosmetics France Korea Japan",
+        "muscle aging epigenetic age"
+      ],
+      "health-food-competitors": [
+        "supplement",
+        "functional food",
+        "nutrition",
+        "sleep",
+        "NAD",
+        "probiotic",
+        "women health",
+        "skin aging",
+        "cosmetics",
+        "AI",
+        "clinical trial",
+        "regulatory"
+      ],
+      "industry-progress": [
+        "中国 保健食品 原料 规范",
+        "国家市场监督管理总局 保健食品 注册 备案",
+        "国家药监局 化妆品 功效 宣称",
+        "国家卫健委 新食品原料",
+        "健康食品 上市 合作 商业化",
+        "中草药 转化 政策 监管"
+      ],
+      "food-ingredients": [
+        "botanical",
+        "traditional Chinese medicine",
+        "new ingredient",
+        "novel food",
+        "raw material standard",
+        "dosage",
+        "specification",
+        "safety",
+        "human trial"
+      ],
+      "ai-applications": [
+        "OpenAI Anthropic DeepMind biology",
+        "AI founder interview developer interview",
+        "AI aging model",
+        "biological age",
+        "aging clock",
+        "R&D workflow",
+        "wearable",
+        "diagnostic",
+        "decision support"
+      ]
+    }
+  },
+  "handoffs": {
+    "literatureMdStagingDir": "staging/literature-md",
+    "literatureMdImportOutput": "staging/literature-md-candidates.json",
+    "searchQualityReport": "staging/search-quality-report.json",
+    "searchPlanOutput": "staging/search-plan.json",
+    "publicationScript": "scripts/promote_candidates_to_report.py"
+  }
+}
