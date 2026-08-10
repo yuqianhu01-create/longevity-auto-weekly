@@ -70,6 +70,23 @@
         "food-ingredients": 2,
         "ai-applications": 1
       }
+    },
+    {
+      "week": "2026-W33",
+      "itemCount": 20,
+      "moduleCounts": {
+        "academic-frontier": 0,
+        "industry-progress": 2,
+        "health-food-competitors": 2,
+        "food-ingredients": 0,
+        "ai-applications": 16
+      },
+      "belowMinimum": {
+        "academic-frontier": 5,
+        "industry-progress": 3,
+        "health-food-competitors": 3,
+        "food-ingredients": 5
+      }
     }
   ]
 }

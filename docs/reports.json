@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T08:21:00.098228+00:00",
+  "generatedAt": "2026-08-10T03:27:10.941179+00:00",
   "reports": [
     {
       "entry": {
@@ -4235,6 +4235,1188 @@
           }
         ],
         "publishedAt": "2026-07-27T01:47:51.302Z"
+      }
+    },
+    {
+      "entry": {
+        "id": "2026-W33-auto-202608100327",
+        "week": "2026-W33",
+        "issue": 33,
+        "issueLabel": "第33期",
+        "status": "published",
+        "path": "published/2026-W33-auto-202608100327.json",
+        "generatedAt": "2026-08-10T03:27:10.941179+00:00",
+        "publishedAt": "2026-08-10T03:27:10.941179+00:00"
+      },
+      "report": {
+        "schemaVersion": 1,
+        "week": "2026-W33",
+        "issue": 33,
+        "issueLabel": "第33期",
+        "status": "published",
+        "period": {
+          "from": "2026-08-10",
+          "to": "2026-08-16"
+        },
+        "generatedAt": "2026-08-10T03:27:10.941179+00:00",
+        "judgement": "自动采集、自动去重、自动分类和自动发布；读者只需浏览正式周报并提取有用信息。",
+        "opportunities": [],
+        "risks": [],
+        "actions": [],
+        "moduleOrder": [
+          "academic-frontier",
+          "industry-progress",
+          "health-food-competitors",
+          "food-ingredients",
+          "ai-applications"
+        ],
+        "items": [
+          {
+            "id": "crossref-cx-beyond-borders",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "CX Beyond Borders",
+            "titleZh": "CX Beyond Borders",
+            "url": "https://doi.org/10.1108/978-1-80686-137-820261006",
+            "publishedAt": "2026-08-10T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1108/978-1-80686-137-820261006"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-10 收录/发布：CX Beyond Borders",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：CX Beyond Borders",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1108/978-1-80686-137-820261006",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-10T03:27:10.952175+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-decoding-customer-whispers-unearthing-stories-hidden-in-the-data",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Decoding Customer Whispers: Unearthing Stories Hidden in the Data",
+            "titleZh": "Decoding Customer Whispers: Unearthing Stories Hidden in the Data",
+            "url": "https://doi.org/10.1108/978-1-80686-137-820261010",
+            "publishedAt": "2026-08-10T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1108/978-1-80686-137-820261010"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-10 收录/发布：Decoding Customer Whispers: Unearthing Stories Hidden in the Data",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Decoding Customer Whispers: Unearthing Stories Hidden in the Data",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1108/978-1-80686-137-820261010",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-10T03:27:10.952231+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-digital-harmony",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Digital Harmony",
+            "titleZh": "Digital Harmony",
+            "url": "https://doi.org/10.1108/978-1-80686-137-8",
+            "publishedAt": "2026-08-10T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1108/978-1-80686-137-8"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-10 收录/发布：Digital Harmony",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Digital Harmony",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1108/978-1-80686-137-8",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-10T03:27:10.952268+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-enhancing-reliability-excellence-in-aging-oil-and-gas-processing-facil",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Enhancing Reliability Excellence in Aging Oil and Gas Processing Facilities - A Case Study of Xeno Asset",
+            "titleZh": "Enhancing Reliability Excellence in Aging Oil and Gas Processing Facilities - A Case Study of Xeno Asset",
+            "url": "https://doi.org/10.2118/234991-ms",
+            "publishedAt": "2026-08-10T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.2118/234991-ms"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-10 收录/发布：Enhancing Reliability Excellence in Aging Oil and Gas Processing Facilities - A Case Study of Xeno Asset",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Enhancing Reliability Excellence in Aging Oil and Gas Processing Facilities - A Case Study of Xeno Asset",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.2118/234991-ms",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-10T03:27:10.952307+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-culturally-adapted-wearable-mobile-health-intervention-for-physical-ac",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Culturally adapted wearable mobile health intervention for physical activity and cognitive function in middle-aged Koreans: a pilot feasibility study",
+            "titleZh": "Culturally adapted wearable mobile health intervention for physical activity and cognitive function in middle-aged Koreans: a pilot feasibility study",
+            "url": "https://doi.org/10.12701/jyms.2026.43.53",
+            "publishedAt": "2026-08-10T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.12701/jyms.2026.43.53"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-10 收录/发布：Culturally adapted wearable mobile health intervention for physical activity and cognitive function in middle-aged Koreans: a pilot feasibility study",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Culturally adapted wearable mobile health intervention for physical activity and cognitive function in middle-aged Koreans: a pilot feasibility study",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.12701/jyms.2026.43.53",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-10T03:27:10.952368+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-age-dependent-health-risk-assessment-and-excess-lifetime-cancer-risk-f",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Age-dependent health risk assessment and excess lifetime cancer risk from radon in groundwater of northeastern Iraq",
+            "titleZh": "Age-dependent health risk assessment and excess lifetime cancer risk from radon in groundwater of northeastern Iraq",
+            "url": "https://doi.org/10.1515/ract-2025-0103",
+            "publishedAt": "2026-08-10T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1515/ract-2025-0103"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-10 收录/发布：Age-dependent health risk assessment and excess lifetime cancer risk from radon in groundwater of northeastern Iraq",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Age-dependent health risk assessment and excess lifetime cancer risk from radon in groundwater of northeastern Iraq",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1515/ract-2025-0103",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-10T03:27:10.952555+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-regional-intensity-of-outpatient-cardiovascular-testing-and-cardiac-or",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Regional Intensity of Outpatient Cardiovascular Testing and Cardiac-Origin Out-of-Hospital Cardiac Arrest　― A 10-Year Nationwide Ecological Study Using the All-Japan Utstein Registry ―",
+            "titleZh": "Regional Intensity of Outpatient Cardiovascular Testing and Cardiac-Origin Out-of-Hospital Cardiac Arrest　― A 10-Year Nationwide Ecological Study Using the All-Japan Utstein Registry ―",
+            "url": "https://doi.org/10.1253/circrep.cr-26-0152",
+            "publishedAt": "2026-08-10T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1253/circrep.cr-26-0152"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-10 收录/发布：Regional Intensity of Outpatient Cardiovascular Testing and Cardiac-Origin Out-of-Hospital Cardiac Arrest　― A 10-Year Nationwide Ecological Study Using the All-Japan Utstein Registry ―",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Regional Intensity of Outpatient Cardiovascular Testing and Cardiac-Origin Out-of-Hospital Cardiac Arrest　― A 10-Year Nationwide Ecological Study Using the All-Japan Utstein Registry ―",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1253/circrep.cr-26-0152",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-10T03:27:10.952609+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-rate-programmable-interfacial-resistive-switching-with-tunable-volatil",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Rate-Programmable Interfacial Resistive Switching with Tunable Volatility in CuCrP2S6",
+            "titleZh": "Rate-Programmable Interfacial Resistive Switching with Tunable Volatility in CuCrP2S6",
+            "url": "https://doi.org/10.1021/acsami.6c04417",
+            "publishedAt": "2026-08-10T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1021/acsami.6c04417"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-10 收录/发布：Rate-Programmable Interfacial Resistive Switching with Tunable Volatility in CuCrP2S6",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Rate-Programmable Interfacial Resistive Switching with Tunable Volatility in CuCrP2S6",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1021/acsami.6c04417",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-10T03:27:10.952645+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-study-of-families-with-twins-or-siblings-discordant-for-rheumatic-diso",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "health-food-competitors"
+            ],
+            "primaryModuleId": "health-food-competitors",
+            "titleOriginal": "Study of Families With Twins or Siblings Discordant for Rheumatic Disorders",
+            "titleZh": "Study of Families With Twins or Siblings Discordant for Rheumatic Disorders",
+            "url": "https://clinicaltrials.gov/study/NCT00055055",
+            "publishedAt": "2026-08-07T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT00055055"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-08-07 收录/发布：Study of Families With Twins or Siblings Discordant for Rheumatic Disorders",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "更新企业/品牌池，记录产品、原料、功效宣称、证据与渠道动作：Study of Families With Twins or Siblings Discordant for Rheumatic Disorders",
+            "recommendedAction": "更新企业档案，记录品牌、产品、成分、功效宣称、证据等级和商业动作。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT00055055",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-10T03:27:10.952411+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-double-blind-placebo-controlled-study-to-evaluate-the-effect-of-nad-b",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "health-food-competitors"
+            ],
+            "primaryModuleId": "health-food-competitors",
+            "titleOriginal": "Double-blind Placebo Controlled Study to Evaluate the Effect of NAD+ Boosting With Nicotinamide Riboside on Immunometabolism and Immunity in Systemic Lupus Erythematosus",
+            "titleZh": "Double-blind Placebo Controlled Study to Evaluate the Effect of NAD+ Boosting With Nicotinamide Riboside on Immunometabolism and Immunity in Systemic Lupus Erythematosus",
+            "url": "https://clinicaltrials.gov/study/NCT06032923",
+            "publishedAt": "2026-07-31T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT06032923"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-07-31 收录/发布：Double-blind Placebo Controlled Study to Evaluate the Effect of NAD+ Boosting With Nicotinamide Riboside on Immunometabolism and Immunity in Systemic Lupus Erythematosus",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.5,
+              "actionability": 8.4
+            },
+            "significance": "更新企业/品牌池，记录产品、原料、功效宣称、证据与渠道动作：Double-blind Placebo Controlled Study to Evaluate the Effect of NAD+ Boosting With Nicotinamide Riboside on Immunometabolism and Immunity in Systemic Lupus Erythematosus",
+            "recommendedAction": "更新企业档案，记录品牌、产品、成分、功效宣称、证据等级和商业动作。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT06032923",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-10T03:27:10.953433+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-a-study-of-gc203-til-in-pdca-rj",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "industry-progress"
+            ],
+            "primaryModuleId": "industry-progress",
+            "titleOriginal": "A Study of GC203 TIL in PDCA (RJ)",
+            "titleZh": "A Study of GC203 TIL in PDCA (RJ)",
+            "url": "https://clinicaltrials.gov/study/NCT06828328",
+            "publishedAt": "2026-08-05T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT06828328"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-08-05 收录/发布：A Study of GC203 TIL in PDCA (RJ)",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.9,
+              "actionability": 8.4
+            },
+            "significance": "提取原料名称、剂量、规范、安全性和人体证据设计，判断是否值得进入原料库：A Study of GC203 TIL in PDCA (RJ)",
+            "recommendedAction": "整理原料名、适用人群、剂量、法规状态和证据设计，标注是否可进入后续深挖。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT06828328",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-10T03:27:10.953563+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "food-ingredients"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-posterosuperior-bundle-pacing-for-prevention-of-atrial-fibrillation-in",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "industry-progress"
+            ],
+            "primaryModuleId": "industry-progress",
+            "titleOriginal": "Posterosuperior Bundle Pacing for Prevention of Atrial Fibrillation in Patients With Sinus Node Dysfunction",
+            "titleZh": "Posterosuperior Bundle Pacing for Prevention of Atrial Fibrillation in Patients With Sinus Node Dysfunction",
+            "url": "https://clinicaltrials.gov/study/NCT07645066",
+            "publishedAt": "2026-08-04T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07645066"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-08-04 收录/发布：Posterosuperior Bundle Pacing for Prevention of Atrial Fibrillation in Patients With Sinus Node Dysfunction",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.8,
+              "actionability": 8.4
+            },
+            "significance": "提取原料名称、剂量、规范、安全性和人体证据设计，判断是否值得进入原料库：Posterosuperior Bundle Pacing for Prevention of Atrial Fibrillation in Patients With Sinus Node Dysfunction",
+            "recommendedAction": "整理原料名、适用人群、剂量、法规状态和证据设计，标注是否可进入后续深挖。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07645066",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-10T03:27:10.952749+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "food-ingredients"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-ai-dbt-for-serious-illness",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "AI-DBT For Serious Illness",
+            "titleZh": "AI-DBT For Serious Illness",
+            "url": "https://clinicaltrials.gov/study/NCT07748312",
+            "publishedAt": "2026-08-05T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07748312"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-08-05 收录/发布：AI-DBT For Serious Illness",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.9,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：AI-DBT For Serious Illness",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07748312",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-10T03:27:10.953175+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-motivating-activity-through-text-communications-helping-adults-incre",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Motivating Activity Through Text Communications - Helping Adults Increase Movement",
+            "titleZh": "Motivating Activity Through Text Communications - Helping Adults Increase Movement",
+            "url": "https://clinicaltrials.gov/study/NCT07593677",
+            "publishedAt": "2026-07-31T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07593677"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-07-31 收录/发布：Motivating Activity Through Text Communications - Helping Adults Increase Movement",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.5,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Motivating Activity Through Text Communications - Helping Adults Increase Movement",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07593677",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-10T03:27:10.953220+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-blast-radius",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Blast Radius",
+            "titleZh": "Blast Radius",
+            "url": "http://arxiv.org/abs/2608.07440v1",
+            "publishedAt": "2026-08-07T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.07440v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-07 收录/发布：Blast Radius",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Blast Radius",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.07440v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-10T03:27:10.952435+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-fisher-r1-training-llm-agents-for-reliable-hypothesis-testing",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
+            "titleZh": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
+            "url": "http://arxiv.org/abs/2608.07437v1",
+            "publishedAt": "2026-08-07T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.07437v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-07 收录/发布：Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.07437v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-10T03:27:10.952456+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-feddose-federated-learning-framework-decomposing-site-effects-for-mod",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "FedDOSE: Federated Learning Framework Decomposing Site Effects for Modeling Brain Dynamic Functional Connectivity",
+            "titleZh": "FedDOSE: Federated Learning Framework Decomposing Site Effects for Modeling Brain Dynamic Functional Connectivity",
+            "url": "http://arxiv.org/abs/2608.07393v1",
+            "publishedAt": "2026-08-07T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.07393v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-07 收录/发布：FedDOSE: Federated Learning Framework Decomposing Site Effects for Modeling Brain Dynamic Functional Connectivity",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：FedDOSE: Federated Learning Framework Decomposing Site Effects for Modeling Brain Dynamic Functional Connectivity",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.07393v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-10T03:27:10.952475+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-muxvizpy-a-python-library-for-the-analysis-of-multilayer-biological-n",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "muxvizpy: a Python library for the analysis of multilayer biological networks",
+            "titleZh": "muxvizpy: a Python library for the analysis of multilayer biological networks",
+            "url": "http://arxiv.org/abs/2608.07344v1",
+            "publishedAt": "2026-08-07T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.07344v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-07 收录/发布：muxvizpy: a Python library for the analysis of multilayer biological networks",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：muxvizpy: a Python library for the analysis of multilayer biological networks",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.07344v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-10T03:27:10.952500+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-grammar-engineering-meets-llms-development-of-cantonese-and-irish-par",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Grammar Engineering Meets LLMs: Development of Cantonese and Irish ParGram Treebanks",
+            "titleZh": "Grammar Engineering Meets LLMs: Development of Cantonese and Irish ParGram Treebanks",
+            "url": "http://arxiv.org/abs/2608.07283v1",
+            "publishedAt": "2026-08-07T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.07283v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-07 收录/发布：Grammar Engineering Meets LLMs: Development of Cantonese and Irish ParGram Treebanks",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Grammar Engineering Meets LLMs: Development of Cantonese and Irish ParGram Treebanks",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.07283v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-10T03:27:10.952518+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-interaction-creates-dynamical-ai-behavior-absent-in-isolation",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Interaction Creates Dynamical AI Behavior Absent in Isolation",
+            "titleZh": "Interaction Creates Dynamical AI Behavior Absent in Isolation",
+            "url": "http://arxiv.org/abs/2608.07457v1",
+            "publishedAt": "2026-08-07T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.07457v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-07 收录/发布：Interaction Creates Dynamical AI Behavior Absent in Isolation",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Interaction Creates Dynamical AI Behavior Absent in Isolation",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.07457v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-10T03:27:10.952771+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          }
+        ],
+        "topItemIds": [
+          "clinicaltrials-gov-study-of-families-with-twins-or-siblings-discordant-for-rheumatic-diso",
+          "clinicaltrials-gov-a-study-of-gc203-til-in-pdca-rj",
+          "clinicaltrials-gov-ai-dbt-for-serious-illness",
+          "crossref-cx-beyond-borders",
+          "crossref-decoding-customer-whispers-unearthing-stories-hidden-in-the-data",
+          "crossref-digital-harmony",
+          "crossref-enhancing-reliability-excellence-in-aging-oil-and-gas-processing-facil",
+          "crossref-culturally-adapted-wearable-mobile-health-intervention-for-physical-ac",
+          "crossref-age-dependent-health-risk-assessment-and-excess-lifetime-cancer-risk-f",
+          "crossref-regional-intensity-of-outpatient-cardiovascular-testing-and-cardiac-or"
+        ],
+        "coverage": [
+          {
+            "sourceId": "automated-weekly-pipeline",
+            "status": "ok",
+            "attempts": 1,
+            "checkedAt": "2026-08-10T03:27:10.941179+00:00",
+            "itemCount": 20,
+            "recordErrors": 0,
+            "pageErrors": 0,
+            "recencyWindowDays": 14
+          }
+        ],
+        "publishedAt": "2026-08-10T03:27:10.941179+00:00"
       }
     }
   ]
