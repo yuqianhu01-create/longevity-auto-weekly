@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T03:27:10.941179+00:00",
+  "generatedAt": "2026-08-17T02:42:26.937091+00:00",
   "reports": [
     {
       "entry": {
@@ -5417,6 +5417,1021 @@
           }
         ],
         "publishedAt": "2026-08-10T03:27:10.941179+00:00"
+      }
+    },
+    {
+      "entry": {
+        "id": "2026-W34-auto-202608170242",
+        "week": "2026-W34",
+        "issue": 34,
+        "issueLabel": "第34期",
+        "status": "published",
+        "path": "published/2026-W34-auto-202608170242.json",
+        "generatedAt": "2026-08-17T02:42:26.937091+00:00",
+        "publishedAt": "2026-08-17T02:42:26.937091+00:00"
+      },
+      "report": {
+        "schemaVersion": 1,
+        "week": "2026-W34",
+        "issue": 34,
+        "issueLabel": "第34期",
+        "status": "published",
+        "period": {
+          "from": "2026-08-17",
+          "to": "2026-08-23"
+        },
+        "generatedAt": "2026-08-17T02:42:26.937091+00:00",
+        "judgement": "自动采集、自动去重、自动分类和自动发布；读者只需浏览正式周报并提取有用信息。",
+        "opportunities": [],
+        "risks": [],
+        "actions": [],
+        "moduleOrder": [
+          "academic-frontier",
+          "industry-progress",
+          "health-food-competitors",
+          "food-ingredients",
+          "ai-applications"
+        ],
+        "items": [
+          {
+            "id": "pubmed-loss-of-egfr-activity-in-skeletal-stem-progenitor-cells-is-associated",
+            "sourceId": "pubmed",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Loss of EGFR activity in skeletal stem/progenitor cells is associated with impaired fracture healing in aged mice.",
+            "titleZh": "Loss of EGFR activity in skeletal stem/progenitor cells is associated with impaired fracture healing in aged mice.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42598518/",
+            "publishedAt": "2027-01-01T00:00:00+00:00",
+            "identifiers": {
+              "pmid": "42598518"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "pubmed 在 2027-Jan 收录/发布：Loss of EGFR activity in skeletal stem/progenitor cells is associated with impaired fracture healing in aged mice.",
+            "evidence": {
+              "stage": "animal",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.8,
+              "novelty": 9.5,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Loss of EGFR activity in skeletal stem/progenitor cells is associated with impaired fracture healing in aged mice.",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "pubmed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42598518/",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-17T02:42:26.948812+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-31322-counter-detection-warfare-beating-socs-edrs-and-the-human-ele",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "31322 Counter-detection warfare: Beating SOCs, EDRs, and the human element",
+            "titleZh": "31322 Counter-detection warfare: Beating SOCs, EDRs, and the human element",
+            "url": "https://doi.org/10.1515/9783112232613-022",
+            "publishedAt": "2026-08-17T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1515/9783112232613-022"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-17 收录/发布：31322 Counter-detection warfare: Beating SOCs, EDRs, and the human element",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：31322 Counter-detection warfare: Beating SOCs, EDRs, and the human element",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1515/9783112232613-022",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-17T02:42:26.948061+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-professional-bodies-how-best-to-promote-and-support-individuals-worki",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Professional bodies: how best to promote and support individuals working in human genetics and genomics",
+            "titleZh": "Professional bodies: how best to promote and support individuals working in human genetics and genomics",
+            "url": "https://doi.org/10.1038/s10038-026-01458-x",
+            "publishedAt": "2026-08-17T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1038/s10038-026-01458-x"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-17 收录/发布：Professional bodies: how best to promote and support individuals working in human genetics and genomics",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Professional bodies: how best to promote and support individuals working in human genetics and genomics",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1038/s10038-026-01458-x",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-17T02:42:26.948121+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-a-conceptual-framework-to-classify-impacts-from-invasive-species-on-hu",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "A conceptual framework to classify impacts from invasive species on human health",
+            "titleZh": "A conceptual framework to classify impacts from invasive species on human health",
+            "url": "https://doi.org/10.3897/aca.9.e201574",
+            "publishedAt": "2026-08-17T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.3897/aca.9.e201574"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-17 收录/发布：A conceptual framework to classify impacts from invasive species on human health",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：A conceptual framework to classify impacts from invasive species on human health",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.3897/aca.9.e201574",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-17T02:42:26.948164+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-the-eleventh-hour-defining-early-intervention-for-the-eradication-of",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "The eleventh hour: defining early intervention for the eradication of invasive species in low information environments",
+            "titleZh": "The eleventh hour: defining early intervention for the eradication of invasive species in low information environments",
+            "url": "https://doi.org/10.3897/aca.9.e202279",
+            "publishedAt": "2026-08-17T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.3897/aca.9.e202279"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-17 收录/发布：The eleventh hour: defining early intervention for the eradication of invasive species in low information environments",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：The eleventh hour: defining early intervention for the eradication of invasive species in low information environments",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.3897/aca.9.e202279",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-17T02:42:26.948211+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-from-mapping-to-operational-management-two-years-of-monitoring-and-se",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "From Mapping to Operational Management: Two Years of Monitoring and setting Intervention Priorities for Invasive Alien Plants on Capraia Island (LIFE TETIDE)",
+            "titleZh": "From Mapping to Operational Management: Two Years of Monitoring and setting Intervention Priorities for Invasive Alien Plants on Capraia Island (LIFE TETIDE)",
+            "url": "https://doi.org/10.3897/aca.9.e201795",
+            "publishedAt": "2026-08-17T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.3897/aca.9.e201795"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-17 收录/发布：From Mapping to Operational Management: Two Years of Monitoring and setting Intervention Priorities for Invasive Alien Plants on Capraia Island (LIFE TETIDE)",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：From Mapping to Operational Management: Two Years of Monitoring and setting Intervention Priorities for Invasive Alien Plants on Capraia Island (LIFE TETIDE)",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.3897/aca.9.e201795",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-17T02:42:26.948263+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-front-matter",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Front Matter",
+            "titleZh": "Front Matter",
+            "url": "https://doi.org/10.1386/9781835952504_1",
+            "publishedAt": "2026-08-17T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1386/9781835952504_1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-17 收录/发布：Front Matter",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Front Matter",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1386/9781835952504_1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-17T02:42:26.948428+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-odile-roynette-l-orgueil-du-drapeau-france-allemagne-1870-1945-pa",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Odile Roynette, L’orgueil du drapeau. France-Allemagne, 1870‑1945 , Paris, Les Belles Lettres, 2024, 260 p.",
+            "titleZh": "Odile Roynette, L’orgueil du drapeau. France-Allemagne, 1870‑1945 , Paris, Les Belles Lettres, 2024, 260 p.",
+            "url": "https://doi.org/10.3917/annor.752.0225",
+            "publishedAt": "2026-08-17T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.3917/annor.752.0225"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-17 收录/发布：Odile Roynette, L’orgueil du drapeau. France-Allemagne, 1870‑1945 , Paris, Les Belles Lettres, 2024, 260 p.",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Odile Roynette, L’orgueil du drapeau. France-Allemagne, 1870‑1945 , Paris, Les Belles Lettres, 2024, 260 p.",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.3917/annor.752.0225",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-17T02:42:26.948480+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-targeted-therapy-directed-by-genetic-testing-in-treating-patients-with",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "industry-progress"
+            ],
+            "primaryModuleId": "industry-progress",
+            "titleOriginal": "Targeted Therapy Directed by Genetic Testing in Treating Patients With Locally Advanced or Advanced Solid Tumors, The ComboMATCH Screening Trial",
+            "titleZh": "Targeted Therapy Directed by Genetic Testing in Treating Patients With Locally Advanced or Advanced Solid Tumors, The ComboMATCH Screening Trial",
+            "url": "https://clinicaltrials.gov/study/NCT05564377",
+            "publishedAt": "2026-08-10T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT05564377"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-08-10 收录/发布：Targeted Therapy Directed by Genetic Testing in Treating Patients With Locally Advanced or Advanced Solid Tumors, The ComboMATCH Screening Trial",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.7,
+              "actionability": 8.4
+            },
+            "significance": "提取原料名称、剂量、规范、安全性和人体证据设计，判断是否值得进入原料库：Targeted Therapy Directed by Genetic Testing in Treating Patients With Locally Advanced or Advanced Solid Tumors, The ComboMATCH Screening Trial",
+            "recommendedAction": "整理原料名、适用人群、剂量、法规状态和证据设计，标注是否可进入后续深挖。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT05564377",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-17T02:42:26.949517+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "food-ingredients"
+            ]
+          },
+          {
+            "id": "arxiv-polynomial-factor-deterministic-np-hardness-for-svp-in-every-lp-norm-w",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Polynomial-Factor Deterministic NP-Hardness for SVP in Every lp Norm with p > 2",
+            "titleZh": "Polynomial-Factor Deterministic NP-Hardness for SVP in Every lp Norm with p > 2",
+            "url": "http://arxiv.org/abs/2608.14529v1",
+            "publishedAt": "2026-08-14T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.14529v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-14 收录/发布：Polynomial-Factor Deterministic NP-Hardness for SVP in Every lp Norm with p > 2",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Polynomial-Factor Deterministic NP-Hardness for SVP in Every lp Norm with p > 2",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.14529v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-17T02:42:26.948292+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-length-scale-of-cellular-activity-determines-signatures-of-epithelial",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Length scale of cellular activity determines signatures of epithelial remodeling",
+            "titleZh": "Length scale of cellular activity determines signatures of epithelial remodeling",
+            "url": "http://arxiv.org/abs/2608.14458v1",
+            "publishedAt": "2026-08-14T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.14458v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-14 收录/发布：Length scale of cellular activity determines signatures of epithelial remodeling",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Length scale of cellular activity determines signatures of epithelial remodeling",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.14458v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-17T02:42:26.948317+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-extinction-drives-emergent-metastability-in-complex-ecosystems",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Extinction drives emergent metastability in complex ecosystems",
+            "titleZh": "Extinction drives emergent metastability in complex ecosystems",
+            "url": "http://arxiv.org/abs/2608.14416v1",
+            "publishedAt": "2026-08-14T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.14416v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-14 收录/发布：Extinction drives emergent metastability in complex ecosystems",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Extinction drives emergent metastability in complex ecosystems",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.14416v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-17T02:42:26.948345+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-cytobert-a-foundation-model-for-cytometry-data",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "CytoBERT: A Foundation Model for Cytometry Data",
+            "titleZh": "CytoBERT: A Foundation Model for Cytometry Data",
+            "url": "http://arxiv.org/abs/2608.14414v1",
+            "publishedAt": "2026-08-14T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.14414v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-14 收录/发布：CytoBERT: A Foundation Model for Cytometry Data",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：CytoBERT: A Foundation Model for Cytometry Data",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.14414v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-17T02:42:26.948374+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-ten-simple-rules-for-non-visual-reproducible-and-accessible-bioinform",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Ten simple rules for non-visual, reproducible and accessible bioinformatics",
+            "titleZh": "Ten simple rules for non-visual, reproducible and accessible bioinformatics",
+            "url": "http://arxiv.org/abs/2608.14400v1",
+            "publishedAt": "2026-08-14T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.14400v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-14 收录/发布：Ten simple rules for non-visual, reproducible and accessible bioinformatics",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Ten simple rules for non-visual, reproducible and accessible bioinformatics",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.14400v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-17T02:42:26.948398+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-generation-powered-inference-for-distribution-valued-outcomes",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Generation-Powered Inference for Distribution-Valued Outcomes",
+            "titleZh": "Generation-Powered Inference for Distribution-Valued Outcomes",
+            "url": "http://arxiv.org/abs/2608.14542v1",
+            "publishedAt": "2026-08-14T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.14542v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-14 收录/发布：Generation-Powered Inference for Distribution-Valued Outcomes",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Generation-Powered Inference for Distribution-Valued Outcomes",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.14542v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-17T02:42:26.948616+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-decoding-the-past-an-uncertainty-aware-deep-learning-framework-for-se",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils",
+            "titleZh": "Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils",
+            "url": "http://arxiv.org/abs/2608.14539v1",
+            "publishedAt": "2026-08-14T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.14539v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-14 收录/发布：Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.14539v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-17T02:42:26.948642+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-joint-estimation-of-sparse-multilayer-networks-via-graph-limits",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Joint Estimation of Sparse Multilayer Networks via Graph Limits",
+            "titleZh": "Joint Estimation of Sparse Multilayer Networks via Graph Limits",
+            "url": "http://arxiv.org/abs/2608.14536v1",
+            "publishedAt": "2026-08-14T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.14536v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-14 收录/发布：Joint Estimation of Sparse Multilayer Networks via Graph Limits",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Joint Estimation of Sparse Multilayer Networks via Graph Limits",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.14536v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-17T02:42:26.948665+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          }
+        ],
+        "topItemIds": [
+          "pubmed-loss-of-egfr-activity-in-skeletal-stem-progenitor-cells-is-associated",
+          "crossref-31322-counter-detection-warfare-beating-socs-edrs-and-the-human-ele",
+          "crossref-professional-bodies-how-best-to-promote-and-support-individuals-worki",
+          "crossref-a-conceptual-framework-to-classify-impacts-from-invasive-species-on-hu",
+          "crossref-the-eleventh-hour-defining-early-intervention-for-the-eradication-of",
+          "crossref-from-mapping-to-operational-management-two-years-of-monitoring-and-se",
+          "crossref-front-matter",
+          "crossref-odile-roynette-l-orgueil-du-drapeau-france-allemagne-1870-1945-pa",
+          "clinicaltrials-gov-targeted-therapy-directed-by-genetic-testing-in-treating-patients-with",
+          "arxiv-polynomial-factor-deterministic-np-hardness-for-svp-in-every-lp-norm-w"
+        ],
+        "coverage": [
+          {
+            "sourceId": "automated-weekly-pipeline",
+            "status": "ok",
+            "attempts": 1,
+            "checkedAt": "2026-08-17T02:42:26.937091+00:00",
+            "itemCount": 17,
+            "recordErrors": 0,
+            "pageErrors": 0,
+            "recencyWindowDays": 14
+          }
+        ],
+        "publishedAt": "2026-08-17T02:42:26.937091+00:00"
       }
     }
   ]
