@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T02:42:26.885401+00:00",
+  "generatedAt": "2026-08-24T02:46:15.738366+00:00",
   "searchTaskCount": 348,
-  "candidateCount": 256,
+  "candidateCount": 257,
   "discoveryWindowDays": 14,
   "searchPlanQuality": {
     "missingSearchUrls": [],
@@ -28,218 +28,218 @@
     }
   },
   "candidateRecency": {
-    "datedCandidateCount": 248,
-    "staleCandidateCount": 169,
+    "datedCandidateCount": 252,
+    "staleCandidateCount": 181,
     "staleCandidates": [
       {
-        "id": "pubmed-lcn2-associated-with-the-bidirectional-cardio-kidney-link-in-patients",
-        "publishedAt": "2026-Aug-16",
-        "ageDays": 16,
-        "title": "LCN2 Associated With the Bidirectional Cardio-Kidney Link in Patients With Type 2 Diabetes and Cardiovascular-Kidney-Metabolic Syndrome.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42603857/"
+        "id": "pubmed-impact-of-organic-selenium-supplementation-on-glycaemic-control-and-qu",
+        "publishedAt": "2026-Aug-22",
+        "ageDays": 22,
+        "title": "Impact of organic selenium supplementation on glycaemic control and quality of life in patients with diabetic neuropathy: a randomized placebo-controlled trial.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42631762/"
       },
       {
-        "id": "pubmed-aging-related-choroidal-heterogeneity-and-loss-an-investigative-globa",
-        "publishedAt": "2026-Aug-12",
-        "ageDays": 16,
-        "title": "Aging-Related Choroidal Heterogeneity and Loss: An Investigative Global Human Choroidal Thickness Review (ARCHLIGHT Study).",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42601984/"
+        "id": "pubmed-responsiveness-of-epigenetic-aging-biomarkers-to-longevity-interventio",
+        "publishedAt": "2026-Aug-21",
+        "ageDays": 22,
+        "title": "Responsiveness of epigenetic aging biomarkers to longevity interventions in humans.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42629466/"
       },
       {
-        "id": "clinicaltrials-gov-prevention-of-cognitive-decline-in-apoe4-carriers-with-subjective-cogn",
-        "publishedAt": "2024-03-15",
-        "ageDays": 885,
-        "title": "Prevention of Cognitive Decline in ApoE4 Carriers With Subjective Cognitive Decline After EGCG and a Multimodal Intervention",
-        "url": "https://clinicaltrials.gov/study/NCT03978052"
+        "id": "pubmed-large-scale-proteomics-to-identify-novel-biomarkers-linking-social-det",
+        "publishedAt": "2026-Aug-21",
+        "ageDays": 22,
+        "title": "Large-scale proteomics to identify novel biomarkers linking social determinants of health to heart failure risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42627905/"
       },
       {
-        "id": "clinicaltrials-gov-aging-resilience-through-microbiota-optimization-and-regulation",
-        "publishedAt": "2026-07-29",
-        "ageDays": 19,
-        "title": "Aging Resilience Through Microbiota Optimization and Regulation",
-        "url": "https://clinicaltrials.gov/study/NCT06649981"
+        "id": "pubmed-bioinformatics-analysis-reveals-shared-gene-signatures-and-molecular-m",
+        "publishedAt": "2026-Aug-21",
+        "ageDays": 22,
+        "title": "Bioinformatics analysis reveals shared gene signatures and molecular mechanisms between periodontitis and rheumatoid arthritis in the context of aging.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42627218/"
       },
       {
-        "id": "clinicaltrials-gov-effects-of-blueberry-juice-consumption-on-cognitive-function-in-health",
-        "publishedAt": "2016-12-07",
-        "ageDays": 3540,
-        "title": "Effects of Blueberry Juice Consumption on Cognitive Function in Healthy Older People",
-        "url": "https://clinicaltrials.gov/study/NCT02985580"
+        "id": "pubmed-phase-2a-randomized-controlled-trial-of-tpn-101-a-nucleoside-reverse",
+        "publishedAt": "2026-Aug-21",
+        "ageDays": 22,
+        "title": "Phase 2a Randomized Controlled Trial of TPN-101, A Nucleoside Reverse Transcriptase Inhibitor, in Progressive Supranuclear Palsy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42626922/"
       },
       {
-        "id": "clinicaltrials-gov-plant-vs-animal-based-protein-sources-as-an-anabolic-and-metabolic-pro",
-        "publishedAt": "2025-06-22",
-        "ageDays": 421,
-        "title": "Plant vs Animal-based Protein Sources as an Anabolic and Metabolic-protective Options for SO in Older Adults",
-        "url": "https://clinicaltrials.gov/study/NCT07030738"
+        "id": "clinicaltrials-gov-effectiveness-of-a-strength-program-over-cognitive-functionality-in-ol",
+        "publishedAt": "2024-05-30",
+        "ageDays": 816,
+        "title": "Effectiveness of a Strength Program Over Cognitive Functionality in Older Adults",
+        "url": "https://clinicaltrials.gov/study/NCT06434857"
       },
       {
-        "id": "clinicaltrials-gov-european-project-on-nutrition-in-elderly-people",
-        "publishedAt": "2016-02-18",
-        "ageDays": 3833,
-        "title": "European Project on Nutrition in Elderly People",
-        "url": "https://clinicaltrials.gov/study/NCT01754012"
+        "id": "clinicaltrials-gov-evaluation-of-electroencephalographic-biomarkers-in-physiological-agin",
+        "publishedAt": "2026-04-03",
+        "ageDays": 143,
+        "title": "Evaluation of Electroencephalographic Biomarkers in Physiological Aging",
+        "url": "https://clinicaltrials.gov/study/NCT06824285"
       },
       {
-        "id": "clinicaltrials-gov-breastfeeding-antiretroviral-and-nutrition-study",
-        "publishedAt": "2010-04-23",
-        "ageDays": 5960,
-        "title": "Breastfeeding, Antiretroviral, and Nutrition Study",
-        "url": "https://clinicaltrials.gov/study/NCT00164736"
+        "id": "clinicaltrials-gov-mitophagy-and-autophagy-in-elderly-subjects",
+        "publishedAt": "2016-08-01",
+        "ageDays": 3675,
+        "title": "Mitophagy and Autophagy in Elderly Subjects",
+        "url": "https://clinicaltrials.gov/study/NCT02472340"
       },
       {
-        "id": "clinicaltrials-gov-progesterone-vs-placebo-therapy-for-women-with-epilepsy",
-        "publishedAt": "2017-06-05",
-        "ageDays": 3360,
-        "title": "Progesterone vs Placebo Therapy for Women With Epilepsy",
-        "url": "https://clinicaltrials.gov/study/NCT00029536"
+        "id": "clinicaltrials-gov-breathing-training-for-improving-cardiovascular-health-in-older-adults",
+        "publishedAt": "2025-10-08",
+        "ageDays": 320,
+        "title": "Breathing Training for Improving Cardiovascular Health in Older Adults With Sleep Apnea",
+        "url": "https://clinicaltrials.gov/study/NCT04932447"
       },
       {
-        "id": "clinicaltrials-gov-perioperative-rehabilitation-therapy-in-patients-undergoing-liver-tran",
-        "publishedAt": "2024-09-19",
-        "ageDays": 697,
-        "title": "Perioperative Rehabilitation Therapy in Patients Undergoing Liver Transplantation",
-        "url": "https://clinicaltrials.gov/study/NCT06591507"
+        "id": "clinicaltrials-gov-infusion-of-a-local-anaesthetic-in-the-surgical-after-modified-radical",
+        "publishedAt": "2012-02-03",
+        "ageDays": 5316,
+        "title": "Infusion of a Local Anaesthetic in the Surgical After Modified Radical Mastectomy With Expander",
+        "url": "https://clinicaltrials.gov/study/NCT01389934"
       },
       {
-        "id": "clinicaltrials-gov-monitoring-of-lung-ventilation-through-electrical-impedance-tomography",
-        "publishedAt": "2024-04-17",
-        "ageDays": 852,
-        "title": "Monitoring of Lung Ventilation Through Electrical Impedance Tomography During Pediatric Surgery",
-        "url": "https://clinicaltrials.gov/study/NCT06370507"
+        "id": "clinicaltrials-gov-prediction-model-of-peripheral-pulmonary-lesions-based-on-r-ebus-image",
+        "publishedAt": "2020-08-04",
+        "ageDays": 2211,
+        "title": "Prediction Model of Peripheral Pulmonary Lesions Based on R-EBUS Image",
+        "url": "https://clinicaltrials.gov/study/NCT04497233"
       },
       {
-        "id": "clinicaltrials-gov-study-of-tx000045-in-participants-with-pulmonary-hypertension-due-to-i",
-        "publishedAt": "2026-07-27",
-        "ageDays": 21,
-        "title": "Study of TX000045 in Participants With Pulmonary Hypertension Due to Interstitial Lung Disease",
-        "url": "https://clinicaltrials.gov/study/NCT07473700"
+        "id": "clinicaltrials-gov-feeding-malnourished-children-different-types-of-fatty-acids-to-promot",
+        "publishedAt": "2022-07-19",
+        "ageDays": 1497,
+        "title": "Feeding Malnourished Children Different Types of Fatty Acids to Promote Neurocognitive Development",
+        "url": "https://clinicaltrials.gov/study/NCT03094247"
+      },
+      {
+        "id": "clinicaltrials-gov-m6-c-post-approval-study-pas",
+        "publishedAt": "2025-07-30",
+        "ageDays": 390,
+        "title": "M6-C Post Approval Study (PAS)",
+        "url": "https://clinicaltrials.gov/study/NCT04122248"
       },
       {
         "id": "clinicaltrials-gov-oral-nutraceutical-supplement-with-standardized-botanicals-in-males-wi",
         "publishedAt": "2023-05-16",
-        "ageDays": 1189,
+        "ageDays": 1196,
         "title": "Oral Nutraceutical Supplement With Standardized Botanicals in Males With Self-Perceived Thinning Hair and Loss",
         "url": "https://clinicaltrials.gov/study/NCT03709563"
       },
       {
-        "id": "clinicaltrials-gov-effect-of-gingest-on-symptoms-of-dyspepsia",
-        "publishedAt": "2019-01-10",
-        "ageDays": 2776,
-        "title": "Effect of Gingest on Symptoms of Dyspepsia",
-        "url": "https://clinicaltrials.gov/study/NCT03548363"
+        "id": "clinicaltrials-gov-a-phase-ii-study-of-pdc-1421-capsule-to-evaluate-the-safety-and-effica",
+        "publishedAt": "2021-07-22",
+        "ageDays": 1859,
+        "title": "A Phase II Study of PDC-1421 Capsule to Evaluate the Safety and Efficacy in Patients With Major Depressive Disorder",
+        "url": "https://clinicaltrials.gov/study/NCT02395978"
       },
       {
-        "id": "clinicaltrials-gov-efficacy-of-a-dietary-ingredient-combination-with-omega-3-for-joint-fu",
-        "publishedAt": "2022-12-28",
-        "ageDays": 1328,
-        "title": "Efficacy of a Dietary Ingredient Combination With Omega-3 for Joint Function",
-        "url": "https://clinicaltrials.gov/study/NCT05279573"
+        "id": "clinicaltrials-gov-safety-tolerability-and-pharmacokinetics-of-an-oral-withania-somnife",
+        "publishedAt": "2025-12-17",
+        "ageDays": 250,
+        "title": "Safety, Tolerability, and Pharmacokinetics of an Oral Withania Somnifera Product in Older Adults",
+        "url": "https://clinicaltrials.gov/study/NCT07008300"
       },
       {
-        "id": "clinicaltrials-gov-botanical-oil-supplementation-in-diabetic-and-metabolic-syndrome-subje",
-        "publishedAt": "2019-07-18",
-        "ageDays": 2587,
-        "title": "Botanical Oil Supplementation in Diabetic and Metabolic Syndrome Subjects",
-        "url": "https://clinicaltrials.gov/study/NCT01145066"
+        "id": "clinicaltrials-gov-active-drug-comparative-multi-center-phase3-clinical-study-to-evalua",
+        "publishedAt": "2012-04-12",
+        "ageDays": 5247,
+        "title": "Active Drug Comparative, Multi-center, phase3 Clinical Study to Evaluate the Efficacy and Safety of PG201 in Osteoarthritis Patients",
+        "url": "https://clinicaltrials.gov/study/NCT01576419"
       },
       {
-        "id": "clinicaltrials-gov-hp-211-safety-and-proof-of-concept-dose-ranging-study-in-patients-with",
-        "publishedAt": "2026-04-23",
-        "ageDays": 116,
-        "title": "HP-211 Safety and Proof of Concept Dose Ranging Study in Patients With Type 2 Diabetes",
-        "url": "https://clinicaltrials.gov/study/NCT07546929"
+        "id": "clinicaltrials-gov-efficacy-of-myalgesin-to-support-joint-function-in-patients-with-knee",
+        "publishedAt": "2007-12-28",
+        "ageDays": 6814,
+        "title": "Efficacy of Myalgesin™ to Support Joint Function in Patients With Knee Osteoarthritis",
+        "url": "https://clinicaltrials.gov/study/NCT00577330"
       },
       {
-        "id": "clinicaltrials-gov-chemotherapy-and-a-donor-natural-killer-cell-infusion-in-treating-pati",
-        "publishedAt": "2016-02-12",
-        "ageDays": 3839,
-        "title": "Chemotherapy and a Donor Natural Killer Cell Infusion in Treating Patients With Relapsed or Persistent Leukemia or Myelodysplastic Syndrome After a Donor Stem Cell Transplant",
-        "url": "https://clinicaltrials.gov/study/NCT00526292"
+        "id": "clinicaltrials-gov-comparing-post-surgical-symptoms-gastric-sleeve-with-and-without-omen",
+        "publishedAt": "2024-05-02",
+        "ageDays": 844,
+        "title": "Comparing Post-Surgical Symptoms: Gastric Sleeve With and Without Omentopexy \"Comparing Post-Surgical Symptoms: Gastric Sleeve With and Without Omentopexy\" Comparison of Postoperative Symptoms: Gastric Sleeve With and Without Omentopexy.",
+        "url": "https://clinicaltrials.gov/study/NCT06396832"
       },
       {
-        "id": "clinicaltrials-gov-comparing-arrow-picc-catheters-w-arrowga-rd-blue-advanced-protection",
-        "publishedAt": "2023-01-23",
-        "ageDays": 1302,
-        "title": "Comparing Arrow PICC Catheters w/ Arrowga+rd Blue Advanced Protection Performance and Safety to Unprotected PICC's",
-        "url": "https://clinicaltrials.gov/study/NCT05278507"
+        "id": "clinicaltrials-gov-satiety-effects-on-the-neural-valuation-of-food",
+        "publishedAt": "2015-08-05",
+        "ageDays": 4037,
+        "title": "Satiety Effects on the Neural Valuation of Food",
+        "url": "https://clinicaltrials.gov/study/NCT01721187"
       },
       {
-        "id": "clinicaltrials-gov-evaluation-of-the-efficacy-of-an-app-for-parents-to-promote-healthy-li",
-        "publishedAt": "2025-06-25",
-        "ageDays": 418,
-        "title": "Evaluation of the Efficacy of an App for Parents to Promote Healthy Life-styles in Children: the CoSIE Trial",
-        "url": "https://clinicaltrials.gov/study/NCT04915092"
+        "id": "clinicaltrials-gov-safety-and-efficacy-of-iv-infusion-of-tzp-101-for-poi-after-major-open",
+        "publishedAt": "2012-12-07",
+        "ageDays": 5008,
+        "title": "Safety and Efficacy of IV Infusion of TZP-101 for POI After Major Open Abdominal Surgery",
+        "url": "https://clinicaltrials.gov/study/NCT00617552"
       },
       {
-        "id": "clinicaltrials-gov-functional-magnetic-resonance-imaging-fmri-exploration-of-neurocogni",
-        "publishedAt": "2023-08-01",
-        "ageDays": 1112,
-        "title": "Functional Magnetic Resonance Imaging (fMRI) Exploration of Neurocognitive Processes Involved in Food Addiction (FA) in Obese Patients: Towards New Phenotypic Markers for an Optimized Care Pathway",
-        "url": "https://clinicaltrials.gov/study/NCT03454711"
+        "id": "clinicaltrials-gov-impact-of-phytosterol-rich-extract-on-lipid-profile",
+        "publishedAt": "2026-05-04",
+        "ageDays": 112,
+        "title": "Impact of Phytosterol-Rich Extract on Lipid Profile",
+        "url": "https://clinicaltrials.gov/study/NCT06657456"
       },
       {
-        "id": "clinicaltrials-gov-transcutaneous-electrical-acupoint-stimulation-for-non-small-cell-lung",
-        "publishedAt": "2016-01-26",
-        "ageDays": 3856,
-        "title": "Transcutaneous Electrical Acupoint Stimulation for Non-small Cell Lung Cancer Patients",
-        "url": "https://clinicaltrials.gov/study/NCT02663492"
+        "id": "clinicaltrials-gov-study-of-the-impact-of-nitazoxanide-on-chronic-hepatitis-patients",
+        "publishedAt": "2014-09-30",
+        "ageDays": 4346,
+        "title": "Study of the Impact of Nitazoxanide on Chronic Hepatitis Patients",
+        "url": "https://clinicaltrials.gov/study/NCT01197157"
       },
       {
-        "id": "clinicaltrials-gov-effects-of-qigong-therapy-in-ms-patients",
-        "publishedAt": "2026-03-16",
-        "ageDays": 154,
-        "title": "Effects of Qigong Therapy in MS Patients",
-        "url": "https://clinicaltrials.gov/study/NCT07473180"
+        "id": "clinicaltrials-gov-fuzheng-huayu-tablets-against-posthepatitic-cirrhosis",
+        "publishedAt": "2013-03-07",
+        "ageDays": 4918,
+        "title": "Fuzheng Huayu Tablets Against Posthepatitic Cirrhosis",
+        "url": "https://clinicaltrials.gov/study/NCT00543426"
       },
       {
-        "id": "clinicaltrials-gov-efficacy-of-hipec-combined-with-systemic-chemotherapy-and-crs-on-perit",
-        "publishedAt": "2017-06-07",
-        "ageDays": 3358,
-        "title": "Efficacy of HIPEC Combined With Systemic Chemotherapy and CRS on Peritoneal Metastases From Gastric Cancer",
-        "url": "https://clinicaltrials.gov/study/NCT03179579"
+        "id": "clinicaltrials-gov-traditional-chinese-medicine-combined-with-thermal-and-cold-ablation-f",
+        "publishedAt": "2021-10-28",
+        "ageDays": 1761,
+        "title": "Traditional Chinese Medicine Combined With Thermal and Cold Ablation for Early-stage Lung Cancer",
+        "url": "https://clinicaltrials.gov/study/NCT05097417"
       },
       {
-        "id": "clinicaltrials-gov-efficacy-and-safety-of-wen-xin-granules-for-the-treatment-of-unstable",
-        "publishedAt": "2021-01-25",
-        "ageDays": 2030,
-        "title": "Efficacy and Safety of Wen Xin Granules for the Treatment of Unstable Angina Pectoris",
-        "url": "https://clinicaltrials.gov/study/NCT04661709"
+        "id": "clinicaltrials-gov-valuate-the-clinical-performance-and-safety-of-da-vinci-sp-surgical-sy",
+        "publishedAt": "2024-02-07",
+        "ageDays": 929,
+        "title": "Valuate the Clinical Performance and Safety of da Vinci SP Surgical System",
+        "url": "https://clinicaltrials.gov/study/NCT06246617"
       },
       {
-        "id": "clinicaltrials-gov-assessment-on-effects-of-tongjiang-granule-in-treating-nonerosive-refl",
-        "publishedAt": "2022-04-05",
-        "ageDays": 1595,
-        "title": "Assessment on Effects of Tongjiang Granule in Treating Nonerosive Reflux Disease Overlapping Epigastric Pain Syndrome",
-        "url": "https://clinicaltrials.gov/study/NCT05312463"
+        "id": "clinicaltrials-gov-the-correlation-between-outcome-and-infarct-growth-in-patients-with-ac",
+        "publishedAt": "2011-08-01",
+        "ageDays": 5502,
+        "title": "The Correlation Between Outcome and Infarct Growth in Patients With Acute Ischemic Stroke",
+        "url": "https://clinicaltrials.gov/study/NCT01376609"
       },
       {
-        "id": "pubmed-hepatic-stellate-cells-in-alcoholic-liver-cirrhosis-mechanisms-of-fib",
-        "publishedAt": "2026-Aug-14",
-        "ageDays": 16,
-        "title": "Hepatic stellate cells in alcoholic liver cirrhosis: mechanisms of fibrogenesis, plasticity, and fibrosis reversal.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42599594/"
+        "id": "clinicaltrials-gov-safety-and-efficacy-of-wendan-decoction-in-acute-moderated-to-severe-b",
+        "publishedAt": "2019-02-22",
+        "ageDays": 2740,
+        "title": "Safety and Efficacy of Wendan Decoction in Acute Moderated to Severe Brain Injury",
+        "url": "https://clinicaltrials.gov/study/NCT03851809"
       },
       {
-        "id": "clinicaltrials-gov-oxidative-stress-and-cognitive-dysfunction-after-covid-19",
-        "publishedAt": "2025-06-25",
-        "ageDays": 418,
-        "title": "Oxidative Stress and Cognitive Dysfunction After COVID-19",
-        "url": "https://clinicaltrials.gov/study/NCT07029048"
+        "id": "pubmed-low-expression-of-pdgfr-β-impairs-the-blood-brain-barrier-and-accelera",
+        "publishedAt": "2026-Aug-18",
+        "ageDays": 23,
+        "title": "Low expression of PDGFR-β impairs the blood-brain barrier and accelerates cellular aging in the hippocampal region.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42632331/"
       },
       {
-        "id": "clinicaltrials-gov-t-cell-and-general-immune-response-to-seasonal-influenza-vaccine-slvp",
-        "publishedAt": "2017-05-22",
-        "ageDays": 3374,
-        "title": "T-cell And General Immune Response to Seasonal Influenza Vaccine (SLVP018) Year 4, 2012",
-        "url": "https://clinicaltrials.gov/study/NCT03022435"
-      },
-      {
-        "id": "clinicaltrials-gov-vaccination-responses-in-young-and-older-adults",
-        "publishedAt": "2020-07-29",
-        "ageDays": 2210,
-        "title": "Vaccination Responses in Young and Older Adults",
-        "url": "https://clinicaltrials.gov/study/NCT02654704"
+        "id": "pubmed-remodeling-the-immune-landscape-how-obesity-induced-sasps-create-a-pr",
+        "publishedAt": "2026-Aug-22",
+        "ageDays": 22,
+        "title": "Remodeling the Immune Landscape: How Obesity-Induced SASPs Create a Pro-Tumorigenic Niche.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42631902/"
       }
     ]
   },

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T02:42:26.937091+00:00",
+  "generatedAt": "2026-08-24T02:46:15.797633+00:00",
   "reports": [
     {
       "entry": {
@@ -6432,6 +6432,1076 @@
           }
         ],
         "publishedAt": "2026-08-17T02:42:26.937091+00:00"
+      }
+    },
+    {
+      "entry": {
+        "id": "2026-W35-auto-202608240246",
+        "week": "2026-W35",
+        "issue": 35,
+        "issueLabel": "第35期",
+        "status": "published",
+        "path": "published/2026-W35-auto-202608240246.json",
+        "generatedAt": "2026-08-24T02:46:15.797633+00:00",
+        "publishedAt": "2026-08-24T02:46:15.797633+00:00"
+      },
+      "report": {
+        "schemaVersion": 1,
+        "week": "2026-W35",
+        "issue": 35,
+        "issueLabel": "第35期",
+        "status": "published",
+        "period": {
+          "from": "2026-08-24",
+          "to": "2026-08-30"
+        },
+        "generatedAt": "2026-08-24T02:46:15.797633+00:00",
+        "judgement": "自动采集、自动去重、自动分类和自动发布；读者只需浏览正式周报并提取有用信息。",
+        "opportunities": [],
+        "risks": [],
+        "actions": [],
+        "moduleOrder": [
+          "academic-frontier",
+          "industry-progress",
+          "health-food-competitors",
+          "food-ingredients",
+          "ai-applications"
+        ],
+        "items": [
+          {
+            "id": "crossref-a-dual-component-nurse-practitioner-intervention-to-improve-symptom-ma",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "A Dual-Component Nurse Practitioner Intervention to Improve Symptom Management for Caregivers of Persons Living With Dementia",
+            "titleZh": "A Dual-Component Nurse Practitioner Intervention to Improve Symptom Management for Caregivers of Persons Living With Dementia",
+            "url": "https://doi.org/10.1097/njh.0000000000001232",
+            "publishedAt": "2026-08-24T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1097/njh.0000000000001232"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-24 收录/发布：A Dual-Component Nurse Practitioner Intervention to Improve Symptom Management for Caregivers of Persons Living With Dementia",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：A Dual-Component Nurse Practitioner Intervention to Improve Symptom Management for Caregivers of Persons Living With Dementia",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1097/njh.0000000000001232",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-24T02:46:15.809562+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-spatially-organized-immune-remodeling-in-menopause-single-cell-and-sp",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Spatially Organized Immune Remodeling in Menopause: Single-Cell and Spatial Transcriptomic Evidence from Ovarian Aging and Atherosclerosis",
+            "titleZh": "Spatially Organized Immune Remodeling in Menopause: Single-Cell and Spatial Transcriptomic Evidence from Ovarian Aging and Atherosclerosis",
+            "url": "https://doi.org/10.54254/2753-8818/2026.36329",
+            "publishedAt": "2026-08-24T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.54254/2753-8818/2026.36329"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-24 收录/发布：Spatially Organized Immune Remodeling in Menopause: Single-Cell and Spatial Transcriptomic Evidence from Ovarian Aging and Atherosclerosis",
+            "evidence": {
+              "stage": "cell",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Spatially Organized Immune Remodeling in Menopause: Single-Cell and Spatial Transcriptomic Evidence from Ovarian Aging and Atherosclerosis",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.54254/2753-8818/2026.36329",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-24T02:46:15.809613+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-functional-mechanisms-and-clinical-translation-of-resveratrol-for-lung",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Functional Mechanisms and Clinical Translation of Resveratrol for Lung Cancer Intervention",
+            "titleZh": "Functional Mechanisms and Clinical Translation of Resveratrol for Lung Cancer Intervention",
+            "url": "https://doi.org/10.54254/2753-8818/2026.hz36327",
+            "publishedAt": "2026-08-24T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.54254/2753-8818/2026.hz36327"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-24 收录/发布：Functional Mechanisms and Clinical Translation of Resveratrol for Lung Cancer Intervention",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Functional Mechanisms and Clinical Translation of Resveratrol for Lung Cancer Intervention",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.54254/2753-8818/2026.hz36327",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-24T02:46:15.809651+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-information-verification-in-the-age-of-aigc-a-study-of-researchers-b",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Information verification in the age of AIGC: a study of researchers' behavior and motivation in human-AI interaction",
+            "titleZh": "Information verification in the age of AIGC: a study of researchers' behavior and motivation in human-AI interaction",
+            "url": "https://doi.org/10.1108/ajim-11-2025-0897",
+            "publishedAt": "2026-08-24T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1108/ajim-11-2025-0897"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-24 收录/发布：Information verification in the age of AIGC: a study of researchers' behavior and motivation in human-AI interaction",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Information verification in the age of AIGC: a study of researchers' behavior and motivation in human-AI interaction",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1108/ajim-11-2025-0897",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-24T02:46:15.809688+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-ai-and-bullshit",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "AI and Bullshit",
+            "titleZh": "AI and Bullshit",
+            "url": "https://doi.org/10.1515/humaff-2026-0061",
+            "publishedAt": "2026-08-24T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1515/humaff-2026-0061"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-24 收录/发布：AI and Bullshit",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：AI and Bullshit",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1515/humaff-2026-0061",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-24T02:46:15.809718+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-unveiling-ai-driven-knowledge-configurations-in-public-organizations",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Unveiling AI-driven knowledge configurations in public organizations. Evidence from Europe",
+            "titleZh": "Unveiling AI-driven knowledge configurations in public organizations. Evidence from Europe",
+            "url": "https://doi.org/10.1108/vjikms-04-2026-0181",
+            "publishedAt": "2026-08-24T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1108/vjikms-04-2026-0181"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-24 收录/发布：Unveiling AI-driven knowledge configurations in public organizations. Evidence from Europe",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Unveiling AI-driven knowledge configurations in public organizations. Evidence from Europe",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1108/vjikms-04-2026-0181",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-24T02:46:15.809949+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-correction-to-prognostic-factors-and-nomogram-development-for-adult-d",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Correction to: Prognostic factors and nomogram development for adult diffuse large B-cell lymphoma: a single-center retrospective cohort study",
+            "titleZh": "Correction to: Prognostic factors and nomogram development for adult diffuse large B-cell lymphoma: a single-center retrospective cohort study",
+            "url": "https://doi.org/10.1186/s12885-026-16810-9",
+            "publishedAt": "2026-08-24T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1186/s12885-026-16810-9"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-24 收录/发布：Correction to: Prognostic factors and nomogram development for adult diffuse large B-cell lymphoma: a single-center retrospective cohort study",
+            "evidence": {
+              "stage": "cell",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Correction to: Prognostic factors and nomogram development for adult diffuse large B-cell lymphoma: a single-center retrospective cohort study",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1186/s12885-026-16810-9",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-24T02:46:15.809990+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-the-impact-of-e-coach-nursing-management-on-enhancing-exclusive-breast",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "The impact of E-Coach nursing management on enhancing exclusive breastfeeding among puerperal women in China: a randomized controlled trial",
+            "titleZh": "The impact of E-Coach nursing management on enhancing exclusive breastfeeding among puerperal women in China: a randomized controlled trial",
+            "url": "https://doi.org/10.1186/s12884-026-09798-4",
+            "publishedAt": "2026-08-24T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1186/s12884-026-09798-4"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-24 收录/发布：The impact of E-Coach nursing management on enhancing exclusive breastfeeding among puerperal women in China: a randomized controlled trial",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：The impact of E-Coach nursing management on enhancing exclusive breastfeeding among puerperal women in China: a randomized controlled trial",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1186/s12884-026-09798-4",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-24T02:46:15.810031+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-the-effects-of-entrainment-on-respiratory-stability-and-cerebral-oxyge",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "The Effects of Entrainment on Respiratory Stability and Cerebral Oxygenation in Preterm Infants",
+            "titleZh": "The Effects of Entrainment on Respiratory Stability and Cerebral Oxygenation in Preterm Infants",
+            "url": "https://clinicaltrials.gov/study/NCT05223192",
+            "publishedAt": "2026-08-13T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT05223192"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-08-13 收录/发布：The Effects of Entrainment on Respiratory Stability and Cerebral Oxygenation in Preterm Infants",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.5,
+              "actionability": 8.4
+            },
+            "significance": "更新企业/品牌池，记录产品、原料、功效宣称、证据与渠道动作：The Effects of Entrainment on Respiratory Stability and Cerebral Oxygenation in Preterm Infants",
+            "recommendedAction": "更新企业档案，记录品牌、产品、成分、功效宣称、证据等级和商业动作。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT05223192",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-24T02:46:15.811601+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "health-food-competitors"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-therapeutic-effects-of-oat-based-cereal-on-fetomaternal-outcomes-among",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "health-food-competitors"
+            ],
+            "primaryModuleId": "health-food-competitors",
+            "titleOriginal": "Therapeutic Effects of Oat-based Cereal on Fetomaternal Outcomes Among Hypocalcemic Antenatal Women",
+            "titleZh": "Therapeutic Effects of Oat-based Cereal on Fetomaternal Outcomes Among Hypocalcemic Antenatal Women",
+            "url": "https://clinicaltrials.gov/study/NCT07751198",
+            "publishedAt": "2026-08-12T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07751198"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-08-12 收录/发布：Therapeutic Effects of Oat-based Cereal on Fetomaternal Outcomes Among Hypocalcemic Antenatal Women",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.4,
+              "actionability": 8.4
+            },
+            "significance": "更新企业/品牌池，记录产品、原料、功效宣称、证据与渠道动作：Therapeutic Effects of Oat-based Cereal on Fetomaternal Outcomes Among Hypocalcemic Antenatal Women",
+            "recommendedAction": "更新企业档案，记录品牌、产品、成分、功效宣称、证据等级和商业动作。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07751198",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-24T02:46:15.809762+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-effectiveness-of-implementing-a-reablement-model-in-community-based-lo",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Effectiveness of Implementing a Reablement Model in Community-Based Long-Term Care Centers",
+            "titleZh": "Effectiveness of Implementing a Reablement Model in Community-Based Long-Term Care Centers",
+            "url": "https://clinicaltrials.gov/study/NCT07775781",
+            "publishedAt": "2026-08-20T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07775781"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-08-20 收录/发布：Effectiveness of Implementing a Reablement Model in Community-Based Long-Term Care Centers",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.9,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Effectiveness of Implementing a Reablement Model in Community-Based Long-Term Care Centers",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07775781",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-24T02:46:15.811023+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-virtual-reality-for-caregiver-assembly-relief-empowerment-and-suppo",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Virtual Reality for Caregiver Assembly, Relief, Empowerment, and Support (VR-CARES)",
+            "titleZh": "Virtual Reality for Caregiver Assembly, Relief, Empowerment, and Support (VR-CARES)",
+            "url": "https://clinicaltrials.gov/study/NCT07430371",
+            "publishedAt": "2026-08-17T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07430371"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-08-17 收录/发布：Virtual Reality for Caregiver Assembly, Relief, Empowerment, and Support (VR-CARES)",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.7,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Virtual Reality for Caregiver Assembly, Relief, Empowerment, and Support (VR-CARES)",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07430371",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-24T02:46:15.810429+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-perturbrx-learning-treatment-conditioned-latent-transitions-for-patie",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction",
+            "titleZh": "PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction",
+            "url": "http://arxiv.org/abs/2608.21349v1",
+            "publishedAt": "2026-08-21T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.21349v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-21 收录/发布：PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.21349v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-24T02:46:15.809786+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-advanced-linear-algebra-with-applications-part-i-numerical-linear-a",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Advanced Linear Algebra with Applications - Part I (Numerical linear algebra for PDEs, machine learning, and data assimilation)",
+            "titleZh": "Advanced Linear Algebra with Applications - Part I (Numerical linear algebra for PDEs, machine learning, and data assimilation)",
+            "url": "http://arxiv.org/abs/2608.21234v1",
+            "publishedAt": "2026-08-21T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.21234v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-21 收录/发布：Advanced Linear Algebra with Applications - Part I (Numerical linear algebra for PDEs, machine learning, and data assimilation)",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Advanced Linear Algebra with Applications - Part I (Numerical linear algebra for PDEs, machine learning, and data assimilation)",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.21234v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-24T02:46:15.809808+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-the-substitution-escrow-threshold-when-compatible-with-becomes-safe",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "The Substitution Escrow Threshold: When \"Compatible With\" Becomes Safe Enough to Buy",
+            "titleZh": "The Substitution Escrow Threshold: When \"Compatible With\" Becomes Safe Enough to Buy",
+            "url": "http://arxiv.org/abs/2608.21221v1",
+            "publishedAt": "2026-08-21T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.21221v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-21 收录/发布：The Substitution Escrow Threshold: When \"Compatible With\" Becomes Safe Enough to Buy",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：The Substitution Escrow Threshold: When \"Compatible With\" Becomes Safe Enough to Buy",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.21221v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-24T02:46:15.809830+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-metabolic-network-properties-comprehensive-analysis-across-domains",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Metabolic Network Properties: Comprehensive Analysis Across Domains",
+            "titleZh": "Metabolic Network Properties: Comprehensive Analysis Across Domains",
+            "url": "http://arxiv.org/abs/2608.21168v1",
+            "publishedAt": "2026-08-21T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.21168v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-21 收录/发布：Metabolic Network Properties: Comprehensive Analysis Across Domains",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Metabolic Network Properties: Comprehensive Analysis Across Domains",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.21168v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-24T02:46:15.809858+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-a-framework-for-combined-epidemiological-genomic-inference-to-improve",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "A framework for combined epidemiological-genomic inference to improve estimation of household model parameters",
+            "titleZh": "A framework for combined epidemiological-genomic inference to improve estimation of household model parameters",
+            "url": "http://arxiv.org/abs/2608.21094v1",
+            "publishedAt": "2026-08-21T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.21094v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-21 收录/发布：A framework for combined epidemiological-genomic inference to improve estimation of household model parameters",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：A framework for combined epidemiological-genomic inference to improve estimation of household model parameters",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.21094v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-24T02:46:15.809878+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-primal-acceleration-of-newton-s-method",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Primal Acceleration of Newton's Method",
+            "titleZh": "Primal Acceleration of Newton's Method",
+            "url": "http://arxiv.org/abs/2608.21359v1",
+            "publishedAt": "2026-08-21T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.21359v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-21 收录/发布：Primal Acceleration of Newton's Method",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Primal Acceleration of Newton's Method",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.21359v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-24T02:46:15.810121+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          }
+        ],
+        "topItemIds": [
+          "clinicaltrials-gov-effectiveness-of-implementing-a-reablement-model-in-community-based-lo",
+          "crossref-a-dual-component-nurse-practitioner-intervention-to-improve-symptom-ma",
+          "crossref-spatially-organized-immune-remodeling-in-menopause-single-cell-and-sp",
+          "crossref-functional-mechanisms-and-clinical-translation-of-resveratrol-for-lung",
+          "crossref-information-verification-in-the-age-of-aigc-a-study-of-researchers-b",
+          "crossref-ai-and-bullshit",
+          "crossref-unveiling-ai-driven-knowledge-configurations-in-public-organizations",
+          "crossref-correction-to-prognostic-factors-and-nomogram-development-for-adult-d",
+          "crossref-the-impact-of-e-coach-nursing-management-on-enhancing-exclusive-breast",
+          "clinicaltrials-gov-virtual-reality-for-caregiver-assembly-relief-empowerment-and-suppo"
+        ],
+        "coverage": [
+          {
+            "sourceId": "automated-weekly-pipeline",
+            "status": "ok",
+            "attempts": 1,
+            "checkedAt": "2026-08-24T02:46:15.797633+00:00",
+            "itemCount": 18,
+            "recordErrors": 0,
+            "pageErrors": 0,
+            "recencyWindowDays": 14
+          }
+        ],
+        "publishedAt": "2026-08-24T02:46:15.797633+00:00"
       }
     }
   ]
