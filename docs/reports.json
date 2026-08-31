@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T02:46:15.797633+00:00",
+  "generatedAt": "2026-08-31T07:22:02.685206+00:00",
   "reports": [
     {
       "entry": {
@@ -7502,6 +7502,1190 @@
           }
         ],
         "publishedAt": "2026-08-24T02:46:15.797633+00:00"
+      }
+    },
+    {
+      "entry": {
+        "id": "2026-W36-auto-202608310722",
+        "week": "2026-W36",
+        "issue": 36,
+        "issueLabel": "第36期",
+        "status": "published",
+        "path": "published/2026-W36-auto-202608310722.json",
+        "generatedAt": "2026-08-31T07:22:02.685206+00:00",
+        "publishedAt": "2026-08-31T07:22:02.685206+00:00"
+      },
+      "report": {
+        "schemaVersion": 1,
+        "week": "2026-W36",
+        "issue": 36,
+        "issueLabel": "第36期",
+        "status": "published",
+        "period": {
+          "from": "2026-08-31",
+          "to": "2026-09-06"
+        },
+        "generatedAt": "2026-08-31T07:22:02.685206+00:00",
+        "judgement": "自动采集、自动去重、自动分类和自动发布；读者只需浏览正式周报并提取有用信息。",
+        "opportunities": [],
+        "risks": [],
+        "actions": [],
+        "moduleOrder": [
+          "academic-frontier",
+          "industry-progress",
+          "health-food-competitors",
+          "food-ingredients",
+          "ai-applications"
+        ],
+        "items": [
+          {
+            "id": "crossref-human-rights-and-the-free-flow-of-information-in-the-internet-age",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Human Rights and the ‘Free Flow of Information’ in the Internet Age",
+            "titleZh": "Human Rights and the ‘Free Flow of Information’ in the Internet Age",
+            "url": "https://doi.org/10.1017/9781009584920.005",
+            "publishedAt": "2026-08-31T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1017/9781009584920.005"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-31 收录/发布：Human Rights and the ‘Free Flow of Information’ in the Internet Age",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Human Rights and the ‘Free Flow of Information’ in the Internet Age",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1017/9781009584920.005",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-31T07:22:02.695795+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-the-relationship-between-democracy-and-human-rights-in-the-age-of-arti",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "The Relationship between Democracy and Human Rights in the Age of Artificial Intelligence",
+            "titleZh": "The Relationship between Democracy and Human Rights in the Age of Artificial Intelligence",
+            "url": "https://doi.org/10.29305/tj.2026.08.214.01",
+            "publishedAt": "2026-08-31T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.29305/tj.2026.08.214.01"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-31 收录/发布：The Relationship between Democracy and Human Rights in the Age of Artificial Intelligence",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：The Relationship between Democracy and Human Rights in the Age of Artificial Intelligence",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.29305/tj.2026.08.214.01",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-31T07:22:02.695846+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-case-report-unmasking-an-anomalous-coronary-artery-during-emergency-s",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Case Report: Unmasking an anomalous coronary artery during emergency STEMI intervention: a rare diagnostic challenge with successful revascularization outcome",
+            "titleZh": "Case Report: Unmasking an anomalous coronary artery during emergency STEMI intervention: a rare diagnostic challenge with successful revascularization outcome",
+            "url": "https://doi.org/10.3389/fcvm.2026.1909150",
+            "publishedAt": "2026-08-31T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.3389/fcvm.2026.1909150"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-31 收录/发布：Case Report: Unmasking an anomalous coronary artery during emergency STEMI intervention: a rare diagnostic challenge with successful revascularization outcome",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Case Report: Unmasking an anomalous coronary artery during emergency STEMI intervention: a rare diagnostic challenge with successful revascularization outcome",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.3389/fcvm.2026.1909150",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-31T07:22:02.695892+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-applying-an-f-words-lens-to-planning-intervention-for-a-child-with-aut",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Applying an F-words lens to planning intervention for a child with autism: a retrospective case report with prospective follow-up",
+            "titleZh": "Applying an F-words lens to planning intervention for a child with autism: a retrospective case report with prospective follow-up",
+            "url": "https://doi.org/10.3389/fpsyt.2026.1905890",
+            "publishedAt": "2026-08-31T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.3389/fpsyt.2026.1905890"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-31 收录/发布：Applying an F-words lens to planning intervention for a child with autism: a retrospective case report with prospective follow-up",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Applying an F-words lens to planning intervention for a child with autism: a retrospective case report with prospective follow-up",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.3389/fpsyt.2026.1905890",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-31T07:22:02.695931+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-hiv-opioid-interactions-in-the-brain-microenvironment-drive-neuroimmun",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "HIV–opioid interactions in the brain microenvironment drive neuroimmune, synaptic, and chromatin-associated transcriptomic remodeling during neurological impairment: insights from human and murine models",
+            "titleZh": "HIV–opioid interactions in the brain microenvironment drive neuroimmune, synaptic, and chromatin-associated transcriptomic remodeling during neurological impairment: insights from human and murine models",
+            "url": "https://doi.org/10.1186/s40478-026-02410-y",
+            "publishedAt": "2026-08-31T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1186/s40478-026-02410-y"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-31 收录/发布：HIV–opioid interactions in the brain microenvironment drive neuroimmune, synaptic, and chromatin-associated transcriptomic remodeling during neurological impairment: insights from human and murine models",
+            "evidence": {
+              "stage": "animal",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：HIV–opioid interactions in the brain microenvironment drive neuroimmune, synaptic, and chromatin-associated transcriptomic remodeling during neurological impairment: insights from human and murine models",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1186/s40478-026-02410-y",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-31T07:22:02.695966+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-an-institutional-ethnographic-study-of-end-of-life-home-care-for-older",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "An Institutional Ethnographic Study of End-of-Life Home Care for Older Adults in Japan",
+            "titleZh": "An Institutional Ethnographic Study of End-of-Life Home Care for Older Adults in Japan",
+            "url": "https://doi.org/10.31888/jkgs.2026.46.4.687",
+            "publishedAt": "2026-08-31T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.31888/jkgs.2026.46.4.687"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-31 收录/发布：An Institutional Ethnographic Study of End-of-Life Home Care for Older Adults in Japan",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：An Institutional Ethnographic Study of End-of-Life Home Care for Older Adults in Japan",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.31888/jkgs.2026.46.4.687",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-31T07:22:02.696107+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-types-of-family-caregiving-and-psychological-well-being-in-older-adult",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Types of Family Caregiving and Psychological Well-being in Older Adults: Moderating Effects of Social Support and Age-Group Comparisons",
+            "titleZh": "Types of Family Caregiving and Psychological Well-being in Older Adults: Moderating Effects of Social Support and Age-Group Comparisons",
+            "url": "https://doi.org/10.25280/kjrg.35.2.2",
+            "publishedAt": "2026-08-31T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.25280/kjrg.35.2.2"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-31 收录/发布：Types of Family Caregiving and Psychological Well-being in Older Adults: Moderating Effects of Social Support and Age-Group Comparisons",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Types of Family Caregiving and Psychological Well-being in Older Adults: Moderating Effects of Social Support and Age-Group Comparisons",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.25280/kjrg.35.2.2",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-31T07:22:02.696147+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-feasibility-assessment-of-alternative-fuel-use-for-a-green-shipping-co",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Feasibility Assessment of Alternative Fuel Use for a Green Shipping Corridor on the Korea–U.S. Route",
+            "titleZh": "Feasibility Assessment of Alternative Fuel Use for a Green Shipping Corridor on the Korea–U.S. Route",
+            "url": "https://doi.org/10.26748/ksoe.2026.033",
+            "publishedAt": "2026-08-31T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.26748/ksoe.2026.033"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-08-31 收录/发布：Feasibility Assessment of Alternative Fuel Use for a Green Shipping Corridor on the Korea–U.S. Route",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Feasibility Assessment of Alternative Fuel Use for a Green Shipping Corridor on the Korea–U.S. Route",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.26748/ksoe.2026.033",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-31T07:22:02.696186+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-evaluation-of-filler-injection-for-chin-profile-enhancement",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "health-food-competitors"
+            ],
+            "primaryModuleId": "health-food-competitors",
+            "titleOriginal": "Evaluation of Filler Injection for Chin Profile Enhancement",
+            "titleZh": "Evaluation of Filler Injection for Chin Profile Enhancement",
+            "url": "https://clinicaltrials.gov/study/NCT07777926",
+            "publishedAt": "2026-08-20T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07777926"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-08-20 收录/发布：Evaluation of Filler Injection for Chin Profile Enhancement",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.5,
+              "actionability": 8.4
+            },
+            "significance": "更新企业/品牌池，记录产品、原料、功效宣称、证据与渠道动作：Evaluation of Filler Injection for Chin Profile Enhancement",
+            "recommendedAction": "更新企业档案，记录品牌、产品、成分、功效宣称、证据等级和商业动作。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07777926",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-31T07:22:02.697557+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-the-basic-s-feasibility-study-for-vascular-risk-reduction",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "industry-progress"
+            ],
+            "primaryModuleId": "industry-progress",
+            "titleOriginal": "The BASIC-S Feasibility Study for Vascular Risk Reduction",
+            "titleZh": "The BASIC-S Feasibility Study for Vascular Risk Reduction",
+            "url": "https://clinicaltrials.gov/study/NCT07755631",
+            "publishedAt": "2026-08-25T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07755631"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-08-25 收录/发布：The BASIC-S Feasibility Study for Vascular Risk Reduction",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.8,
+              "actionability": 8.4
+            },
+            "significance": "提取原料名称、剂量、规范、安全性和人体证据设计，判断是否值得进入原料库：The BASIC-S Feasibility Study for Vascular Risk Reduction",
+            "recommendedAction": "整理原料名、适用人群、剂量、法规状态和证据设计，标注是否可进入后续深挖。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07755631",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-31T07:22:02.696989+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "food-ingredients"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-pep-cmv-vaccine-targeting-cmv-antigen-to-treat-newly-diagnosed-pediatr",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "industry-progress"
+            ],
+            "primaryModuleId": "industry-progress",
+            "titleOriginal": "PEP-CMV Vaccine Targeting CMV Antigen to Treat Newly Diagnosed Pediatric HGG and DIPG and Recurrent Medulloblastoma",
+            "titleZh": "PEP-CMV Vaccine Targeting CMV Antigen to Treat Newly Diagnosed Pediatric HGG and DIPG and Recurrent Medulloblastoma",
+            "url": "https://clinicaltrials.gov/study/NCT05096481",
+            "publishedAt": "2026-08-24T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT05096481"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-08-24 收录/发布：PEP-CMV Vaccine Targeting CMV Antigen to Treat Newly Diagnosed Pediatric HGG and DIPG and Recurrent Medulloblastoma",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.7,
+              "actionability": 8.4
+            },
+            "significance": "提取原料名称、剂量、规范、安全性和人体证据设计，判断是否值得进入原料库：PEP-CMV Vaccine Targeting CMV Antigen to Treat Newly Diagnosed Pediatric HGG and DIPG and Recurrent Medulloblastoma",
+            "recommendedAction": "整理原料名、适用人群、剂量、法规状态和证据设计，标注是否可进入后续深挖。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT05096481",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-31T07:22:02.697594+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "food-ingredients"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-a-study-in-people-with-diabetic-macular-edema-to-test-how-well-differe",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "industry-progress"
+            ],
+            "primaryModuleId": "industry-progress",
+            "titleOriginal": "A Study in People With Diabetic Macular Edema to Test How Well Different Doses of BI 3812465 Are Tolerated",
+            "titleZh": "A Study in People With Diabetic Macular Edema to Test How Well Different Doses of BI 3812465 Are Tolerated",
+            "url": "https://clinicaltrials.gov/study/NCT07553429",
+            "publishedAt": "2026-08-21T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07553429"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-08-21 收录/发布：A Study in People With Diabetic Macular Edema to Test How Well Different Doses of BI 3812465 Are Tolerated",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.5,
+              "actionability": 8.4
+            },
+            "significance": "提取原料名称、剂量、规范、安全性和人体证据设计，判断是否值得进入原料库：A Study in People With Diabetic Macular Edema to Test How Well Different Doses of BI 3812465 Are Tolerated",
+            "recommendedAction": "整理原料名、适用人群、剂量、法规状态和证据设计，标注是否可进入后续深挖。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07553429",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-31T07:22:02.697576+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "food-ingredients"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-psilocybin-effects-on-healthy-aging-biomarkers-and-purpose-in-life",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Psilocybin Effects on Healthy Aging Biomarkers and Purpose in Life",
+            "titleZh": "Psilocybin Effects on Healthy Aging Biomarkers and Purpose in Life",
+            "url": "https://clinicaltrials.gov/study/NCT07719088",
+            "publishedAt": "2026-08-17T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07719088"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-08-17 收录/发布：Psilocybin Effects on Healthy Aging Biomarkers and Purpose in Life",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.3,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Psilocybin Effects on Healthy Aging Biomarkers and Purpose in Life",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07719088",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-31T07:22:02.697070+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-fujita-freeness-for-projectivized-toric-vector-bundles",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Fujita freeness for projectivized toric vector bundles",
+            "titleZh": "Fujita freeness for projectivized toric vector bundles",
+            "url": "http://arxiv.org/abs/2608.28438v1",
+            "publishedAt": "2026-08-28T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.28438v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-28 收录/发布：Fujita freeness for projectivized toric vector bundles",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Fujita freeness for projectivized toric vector bundles",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.28438v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-31T07:22:02.695991+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-adaptive-self-organized-criticality-in-deep-neural-networks",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Adaptive self-organized criticality in deep neural networks",
+            "titleZh": "Adaptive self-organized criticality in deep neural networks",
+            "url": "http://arxiv.org/abs/2608.28431v1",
+            "publishedAt": "2026-08-28T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.28431v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-28 收录/发布：Adaptive self-organized criticality in deep neural networks",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Adaptive self-organized criticality in deep neural networks",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.28431v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-31T07:22:02.696013+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-neuromorphic-architectures-as-numerical-solvers-for-computational-neur",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Neuromorphic architectures as numerical solvers for computational neuroscience",
+            "titleZh": "Neuromorphic architectures as numerical solvers for computational neuroscience",
+            "url": "http://arxiv.org/abs/2608.28387v1",
+            "publishedAt": "2026-08-28T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.28387v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-28 收录/发布：Neuromorphic architectures as numerical solvers for computational neuroscience",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Neuromorphic architectures as numerical solvers for computational neuroscience",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.28387v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-31T07:22:02.696034+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-first-order-approximations-of-multifunctions-defined-implicitly-by-sp",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "First-order approximations of multifunctions defined implicitly by \"split\" feasibility problems with applications to optimization",
+            "titleZh": "First-order approximations of multifunctions defined implicitly by \"split\" feasibility problems with applications to optimization",
+            "url": "http://arxiv.org/abs/2608.28319v1",
+            "publishedAt": "2026-08-28T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.28319v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-28 收录/发布：First-order approximations of multifunctions defined implicitly by \"split\" feasibility problems with applications to optimization",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：First-order approximations of multifunctions defined implicitly by \"split\" feasibility problems with applications to optimization",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.28319v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-31T07:22:02.696055+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-linking-individual-bioenergetics-to-ecosystem-dynamics-with-integral-p",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Linking individual bioenergetics to ecosystem dynamics with integral projection models",
+            "titleZh": "Linking individual bioenergetics to ecosystem dynamics with integral projection models",
+            "url": "http://arxiv.org/abs/2608.28215v1",
+            "publishedAt": "2026-08-28T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.28215v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-28 收录/发布：Linking individual bioenergetics to ecosystem dynamics with integral projection models",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Linking individual bioenergetics to ecosystem dynamics with integral projection models",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.28215v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-31T07:22:02.696075+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-qgpinns-a-physics-informed-neural-network-framework-for-nonlocal-diff",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs",
+            "titleZh": "QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs",
+            "url": "http://arxiv.org/abs/2608.28589v1",
+            "publishedAt": "2026-08-28T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.28589v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-28 收录/发布：QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.28589v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-31T07:22:02.696207+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-continuity-equation-on-metric-spaces-via-measure-valued-derivations-an",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Continuity equation on metric spaces via measure-valued derivations and BV-Wasserstein curves",
+            "titleZh": "Continuity equation on metric spaces via measure-valued derivations and BV-Wasserstein curves",
+            "url": "http://arxiv.org/abs/2608.28586v1",
+            "publishedAt": "2026-08-28T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2608.28586v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-08-28 收录/发布：Continuity equation on metric spaces via measure-valued derivations and BV-Wasserstein curves",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Continuity equation on metric spaces via measure-valued derivations and BV-Wasserstein curves",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2608.28586v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-08-31T07:22:02.696227+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          }
+        ],
+        "topItemIds": [
+          "crossref-human-rights-and-the-free-flow-of-information-in-the-internet-age",
+          "crossref-the-relationship-between-democracy-and-human-rights-in-the-age-of-arti",
+          "crossref-case-report-unmasking-an-anomalous-coronary-artery-during-emergency-s",
+          "crossref-applying-an-f-words-lens-to-planning-intervention-for-a-child-with-aut",
+          "crossref-hiv-opioid-interactions-in-the-brain-microenvironment-drive-neuroimmun",
+          "crossref-an-institutional-ethnographic-study-of-end-of-life-home-care-for-older",
+          "crossref-types-of-family-caregiving-and-psychological-well-being-in-older-adult",
+          "crossref-feasibility-assessment-of-alternative-fuel-use-for-a-green-shipping-co",
+          "clinicaltrials-gov-the-basic-s-feasibility-study-for-vascular-risk-reduction",
+          "clinicaltrials-gov-pep-cmv-vaccine-targeting-cmv-antigen-to-treat-newly-diagnosed-pediatr"
+        ],
+        "coverage": [
+          {
+            "sourceId": "automated-weekly-pipeline",
+            "status": "ok",
+            "attempts": 1,
+            "checkedAt": "2026-08-31T07:22:02.685206+00:00",
+            "itemCount": 20,
+            "recordErrors": 0,
+            "pageErrors": 0,
+            "recencyWindowDays": 14
+          }
+        ],
+        "publishedAt": "2026-08-31T07:22:02.685206+00:00"
       }
     }
   ]
