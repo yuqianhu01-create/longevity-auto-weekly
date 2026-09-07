@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T07:22:02.642154+00:00",
+  "generatedAt": "2026-09-07T06:29:11.438769+00:00",
   "searchTaskCount": 348,
-  "candidateCount": 264,
+  "candidateCount": 244,
   "discoveryWindowDays": 14,
   "searchPlanQuality": {
     "missingSearchUrls": [],
@@ -28,218 +28,218 @@
     }
   },
   "candidateRecency": {
-    "datedCandidateCount": 258,
-    "staleCandidateCount": 184,
+    "datedCandidateCount": 236,
+    "staleCandidateCount": 133,
     "staleCandidates": [
       {
-        "id": "pubmed-identifying-novel-druggable-targets-and-repurposable-drugs-for-prematu",
-        "publishedAt": "2026-Aug-28",
-        "ageDays": 29,
-        "title": "Identifying novel druggable targets and repurposable drugs for premature ovarian insufficiency by integrated multiomics and causal inference analysis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42663799/"
+        "id": "clinicaltrials-gov-effect-of-orally-delivered-phytochemicals-on-aging-and-inflammation-in",
+        "publishedAt": "2020-07-21",
+        "ageDays": 2239,
+        "title": "Effect of Orally Delivered Phytochemicals on Aging and Inflammation in the Skin",
+        "url": "https://clinicaltrials.gov/study/NCT03289832"
       },
       {
-        "id": "pubmed-the-arlington-study-of-healthy-aging-a-multidisciplinary-community-co",
-        "publishedAt": "2026-Aug-28",
-        "ageDays": 29,
-        "title": "The Arlington study of healthy aging: a multidisciplinary community cohort study of functional decline with age.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42663798/"
+        "id": "clinicaltrials-gov-moderate-versus-high-volume-light-moderate-intensity-exercise-for-peop",
+        "publishedAt": "2026-07-29",
+        "ageDays": 40,
+        "title": "Moderate Versus High Volume Light-Moderate Intensity Exercise for People With Moderate Parkinson's Disease",
+        "url": "https://clinicaltrials.gov/study/NCT06088355"
       },
       {
-        "id": "pubmed-unequal-embodiment-racial-and-ethnic-heterogeneity-in-the-predictors",
-        "publishedAt": "2026-Aug-28",
-        "ageDays": 29,
-        "title": "Unequal Embodiment: Racial and Ethnic Heterogeneity in the Predictors and Age-Related Health Outcomes Associated with Accelerated Biological Aging.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42663566/"
+        "id": "clinicaltrials-gov-relationship-between-serum-xanthine-oxidase-levels-and-seborrheic-kera",
+        "publishedAt": "2025-07-31",
+        "ageDays": 403,
+        "title": "Relationship Between Serum Xanthine Oxidase Levels and Seborrheic Keratosis",
+        "url": "https://clinicaltrials.gov/study/NCT07095348"
       },
       {
-        "id": "pubmed-apoe-ε4-and-peripheral-metabolic-network-architecture-in-older-adults",
-        "publishedAt": "2026-Aug-28",
-        "ageDays": 29,
-        "title": "APOE ε4 and peripheral metabolic network architecture in older adults.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42663443/"
+        "id": "clinicaltrials-gov-effects-of-blueberry-juice-consumption-on-cognitive-function-in-health",
+        "publishedAt": "2016-12-07",
+        "ageDays": 3561,
+        "title": "Effects of Blueberry Juice Consumption on Cognitive Function in Healthy Older People",
+        "url": "https://clinicaltrials.gov/study/NCT02985580"
       },
       {
-        "id": "pubmed-input-output-curves-demonstrate-motor-cortex-hyperexcitability-associa",
-        "publishedAt": "2026-Aug-22",
-        "ageDays": 29,
-        "title": "Input-output curves demonstrate motor cortex hyperexcitability associated with cognitive impairment in Alzheimer's disease.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42659841/"
+        "id": "clinicaltrials-gov-evaluation-of-demonstrations-to-end-childhood-hunger-cn-dietqual",
+        "publishedAt": "2020-03-24",
+        "ageDays": 2358,
+        "title": "Evaluation of Demonstrations to End Childhood Hunger - CN DietQual",
+        "url": "https://clinicaltrials.gov/study/NCT04318873"
       },
       {
-        "id": "clinicaltrials-gov-a-study-on-the-effects-on-glucose-regulation-inflammation-and-serum-l",
-        "publishedAt": "2022-01-04",
-        "ageDays": 1700,
-        "title": "A Study on the Effects on Glucose Regulation, Inflammation and Serum Lipids After Fish Protein Supplementation in Elderly (GRIPE)",
-        "url": "https://clinicaltrials.gov/study/NCT03529344"
+        "id": "clinicaltrials-gov-glutamine-supplementation-in-people-with-immune-dysregulation",
+        "publishedAt": "2020-03-16",
+        "ageDays": 2366,
+        "title": "Glutamine Supplementation in People With Immune Dysregulation",
+        "url": "https://clinicaltrials.gov/study/NCT04019769"
       },
       {
-        "id": "clinicaltrials-gov-targeting-zdhhc-enzymes-to-counteract-alzheimer-s-disease",
-        "publishedAt": "2024-11-07",
-        "ageDays": 662,
-        "title": "Targeting zDHHC Enzymes to Counteract Alzheimer's Disease",
-        "url": "https://clinicaltrials.gov/study/NCT06677632"
+        "id": "clinicaltrials-gov-activ-5-big-effect-trial-bet-b-for-the-treatment-of-covid-19",
+        "publishedAt": "2023-06-05",
+        "ageDays": 1190,
+        "title": "ACTIV-5 / Big Effect Trial (BET-B) for the Treatment of COVID-19",
+        "url": "https://clinicaltrials.gov/study/NCT04583969"
       },
       {
-        "id": "clinicaltrials-gov-investigations-of-the-effects-and-associated-neural-mechanisms-of-diff",
-        "publishedAt": "2023-01-05",
-        "ageDays": 1334,
-        "title": "Investigations of the Effects and Associated Neural Mechanisms of Different Exercise in People With Metabolic Syndrome",
-        "url": "https://clinicaltrials.gov/study/NCT05672940"
+        "id": "clinicaltrials-gov-healthy-lifestyles-for-bipolar-disorder",
+        "publishedAt": "2026-08-04",
+        "ageDays": 34,
+        "title": "Healthy Lifestyles for Bipolar Disorder",
+        "url": "https://clinicaltrials.gov/study/NCT06188754"
       },
       {
-        "id": "clinicaltrials-gov-the-calerie-legacy-study",
-        "publishedAt": "2026-06-09",
-        "ageDays": 83,
-        "title": "The CALERIE™ Legacy Study",
-        "url": "https://clinicaltrials.gov/study/NCT05651620"
+        "id": "clinicaltrials-gov-rct-of-an-oral-acne-supplement-for-adult-women",
+        "publishedAt": "2024-09-25",
+        "ageDays": 712,
+        "title": "RCT of an Oral Acne Supplement for Adult Women",
+        "url": "https://clinicaltrials.gov/study/NCT06097871"
       },
       {
-        "id": "clinicaltrials-gov-ultra-high-resolution-pet-in-aging-neurodegeneration-and-psychotic-di",
-        "publishedAt": "2026-04-03",
-        "ageDays": 150,
-        "title": "Ultra-High Resolution PET in Aging, Neurodegeneration and Psychotic Disorders",
-        "url": "https://clinicaltrials.gov/study/NCT07509125"
+        "id": "clinicaltrials-gov-nbt-nm108-as-an-early-treatment-for-suspected-or-confirmed-symptomatic",
+        "publishedAt": "2024-10-08",
+        "ageDays": 699,
+        "title": "NBT-NM108 as an Early Treatment for Suspected or Confirmed Symptomatic COVID-19 Patients",
+        "url": "https://clinicaltrials.gov/study/NCT04540406"
       },
       {
-        "id": "clinicaltrials-gov-hemp-fiber-ingestion-and-gut-permeability-after-exercise",
-        "publishedAt": "2024-09-26",
-        "ageDays": 704,
-        "title": "Hemp Fiber Ingestion and Gut Permeability After Exercise",
-        "url": "https://clinicaltrials.gov/study/NCT06204666"
+        "id": "clinicaltrials-gov-efficacy-and-safety-of-a-botanical-total-coumarin-tc-cream-in-treati",
+        "publishedAt": "2026-02-23",
+        "ageDays": 196,
+        "title": "Efficacy and Safety of a Botanical Total Coumarin (TC) Cream in Treating Patients With Psoriasis Vulgaris (PLANTCOAT-III)",
+        "url": "https://clinicaltrials.gov/study/NCT07426120"
       },
       {
-        "id": "clinicaltrials-gov-ctti-risk-factors-for-habp-vabp-study",
-        "publishedAt": "2023-06-15",
-        "ageDays": 1173,
-        "title": "CTTI Risk Factors for HABP/VABP Study",
-        "url": "https://clinicaltrials.gov/study/NCT02689531"
+        "id": "clinicaltrials-gov-a-phase-ii-study-of-pdc-1421-capsule-to-evaluate-the-safety-and-effica",
+        "publishedAt": "2021-07-22",
+        "ageDays": 1873,
+        "title": "A Phase II Study of PDC-1421 Capsule to Evaluate the Safety and Efficacy in Patients With Major Depressive Disorder",
+        "url": "https://clinicaltrials.gov/study/NCT02395978"
       },
       {
-        "id": "clinicaltrials-gov-polyamine-treatment-in-elderly-patients-with-coronary-artery-disease",
-        "publishedAt": "2026-07-01",
-        "ageDays": 61,
-        "title": "Polyamine Treatment in Elderly Patients With Coronary Artery Disease",
-        "url": "https://clinicaltrials.gov/study/NCT06186102"
+        "id": "clinicaltrials-gov-effects-of-ashwagandha-extract-capsule-ksm-66-300-mg-on-sexual-healt",
+        "publishedAt": "2025-03-11",
+        "ageDays": 545,
+        "title": "Effects of Ashwagandha Extract (Capsule KSM-66 300 mg) on Sexual Health in Healthy Women",
+        "url": "https://clinicaltrials.gov/study/NCT05831241"
       },
       {
-        "id": "clinicaltrials-gov-study-to-analyze-the-efficacy-of-acute-intake-with-a-β-alanine-supplem",
-        "publishedAt": "2024-02-16",
-        "ageDays": 927,
-        "title": "Study to Analyze the Efficacy of Acute Intake With a β-alanine Supplement in Recreational Cyclists",
-        "url": "https://clinicaltrials.gov/study/NCT06180512"
+        "id": "clinicaltrials-gov-study-of-the-molecular-basis-in-the-pathophysiology-of-food-intake-and",
+        "publishedAt": "2015-07-03",
+        "ageDays": 4084,
+        "title": "Study of the Molecular Basis in the Pathophysiology of Food Intake and Growth in Children",
+        "url": "https://clinicaltrials.gov/study/NCT00830141"
       },
       {
-        "id": "clinicaltrials-gov-effect-of-hydroxycitrate-on-urine-chemistry",
-        "publishedAt": "2022-01-26",
-        "ageDays": 1678,
-        "title": "Effect of Hydroxycitrate on Urine Chemistry",
-        "url": "https://clinicaltrials.gov/study/NCT03348228"
+        "id": "clinicaltrials-gov-evaluating-mobile-health-tool-use-for-capturing-patient-centered-outco",
+        "publishedAt": "2023-10-05",
+        "ageDays": 1068,
+        "title": "Evaluating Mobile Health Tool Use for Capturing Patient-centered Outcomes Measures in HF Patients",
+        "url": "https://clinicaltrials.gov/study/NCT04191356"
       },
       {
-        "id": "clinicaltrials-gov-synbiotic-supplement-with-botanical-extracts-for-gut-microbiota-balanc",
-        "publishedAt": "2026-03-16",
+        "id": "clinicaltrials-gov-peel-family-diabetes-prevention-program",
+        "publishedAt": "2026-06-30",
+        "ageDays": 69,
+        "title": "Peel Family Diabetes Prevention Program",
+        "url": "https://clinicaltrials.gov/study/NCT07675551"
+      },
+      {
+        "id": "clinicaltrials-gov-the-begin-study-bifidobacterium-infantis-to-newborns-effects-of-modul",
+        "publishedAt": "2024-10-01",
+        "ageDays": 706,
+        "title": "The BEGIN Study Bifidobacterium Infantis to Newborns: Effects of Modulating the Gut Microbial Composition on Growth, Immune Function and Inflammatory Conditions - a Randomized Placebo-controlled Double-blinded Intervention Trial",
+        "url": "https://clinicaltrials.gov/study/NCT06452199"
+      },
+      {
+        "id": "clinicaltrials-gov-the-efficacy-of-herbal-medicine-in-relieving-symptoms-and-change-of-qu",
+        "publishedAt": "2008-05-13",
+        "ageDays": 6691,
+        "title": "The Efficacy of Herbal Medicine in Relieving Symptoms and Change of Quality of Life of Patients With Irritable Bowel Syndrome (IBS)",
+        "url": "https://clinicaltrials.gov/study/NCT00153751"
+      },
+      {
+        "id": "clinicaltrials-gov-liuweiluobi-granule-for-the-treatment-of-diabetic-peripheral-neuropath",
+        "publishedAt": "2022-11-15",
+        "ageDays": 1392,
+        "title": "LiuWeiLuoBi Granule for the Treatment of Diabetic Peripheral Neuropathy",
+        "url": "https://clinicaltrials.gov/study/NCT04457531"
+      },
+      {
+        "id": "clinicaltrials-gov-study-to-evaluate-the-efficacy-and-safety-of-zl-3101-in-subjects-with",
+        "publishedAt": "2019-01-24",
+        "ageDays": 2783,
+        "title": "Study to Evaluate the Efficacy and Safety of ZL-3101 in Subjects With Subacute Eczema",
+        "url": "https://clinicaltrials.gov/study/NCT03134352"
+      },
+      {
+        "id": "clinicaltrials-gov-treatment-of-natural-killer-t-cell-lymphoma-ⅲ-ⅳ",
+        "publishedAt": "2015-07-17",
+        "ageDays": 4070,
+        "title": "Treatment of Natural Killer/T Cell Lymphoma-Ⅲ/Ⅳ",
+        "url": "https://clinicaltrials.gov/study/NCT01501149"
+      },
+      {
+        "id": "clinicaltrials-gov-application-of-health-education-path-of-traditional-chinese-medicine-n",
+        "publishedAt": "2022-10-03",
+        "ageDays": 1435,
+        "title": "Application of Health Education Path of Traditional Chinese Medicine Nursin",
+        "url": "https://clinicaltrials.gov/study/NCT05563207"
+      },
+      {
+        "id": "clinicaltrials-gov-comparing-the-combination-of-sullumab-and-fruquintinib-in-postoperativ",
+        "publishedAt": "2026-03-23",
         "ageDays": 168,
-        "title": "Synbiotic Supplement With Botanical Extracts for Gut Microbiota Balance in Irritable Bowel Syndrome",
-        "url": "https://clinicaltrials.gov/study/NCT07475299"
+        "title": "Comparing the Combination of Sullumab and Fruquintinib in Postoperative Adjuvant Therapy for High Recurrence Risk Non Transparent Renal Cell Carcinoma",
+        "url": "https://clinicaltrials.gov/study/NCT07488533"
       },
       {
-        "id": "clinicaltrials-gov-study-of-ear-comfort-ear-drops-to-treat-aoe-cases-compared-to-dexotic",
-        "publishedAt": "2013-07-09",
-        "ageDays": 4801,
-        "title": "Study of Ear Comfort Ear Drops to Treat AOE Cases Compared to DexOtic & Otidin(R)",
-        "url": "https://clinicaltrials.gov/study/NCT01584271"
+        "id": "clinicaltrials-gov-shoulder-instability-in-children-muscle-activity-and-movement",
+        "publishedAt": "2024-07-22",
+        "ageDays": 777,
+        "title": "Shoulder Instability in Children: Muscle Activity and Movement",
+        "url": "https://clinicaltrials.gov/study/NCT04311216"
       },
       {
-        "id": "clinicaltrials-gov-a-pilot-study-of-gwp42003-in-the-symptomatic-treatment-of-ulcerative-c",
-        "publishedAt": "2018-08-09",
-        "ageDays": 2944,
-        "title": "A Pilot Study of GWP42003 in the Symptomatic Treatment of Ulcerative Colitis (GWID10160)",
-        "url": "https://clinicaltrials.gov/study/NCT01562314"
+        "id": "clinicaltrials-gov-trial-on-the-biological-and-clinical-effects-of-acetyl-l-carnitine-in",
+        "publishedAt": "2025-09-25",
+        "ageDays": 347,
+        "title": "Trial on the Biological and Clinical Effects of Acetyl-L-carnitine in ALS",
+        "url": "https://clinicaltrials.gov/study/NCT06126315"
       },
       {
-        "id": "clinicaltrials-gov-efficacy-and-safety-study-of-lipid-lowering-effects-of-xuezhikang-xzk",
-        "publishedAt": "2014-07-23",
-        "ageDays": 4422,
-        "title": "Efficacy and Safety Study of Lipid-Lowering Effects of XueZhiKang (XZK) in Patients With Hyperlipidemia",
-        "url": "https://clinicaltrials.gov/study/NCT01327014"
+        "id": "clinicaltrials-gov-obesity-and-aging-impacts-of-nutritional-counseling-and-physical-exer",
+        "publishedAt": "2026-03-20",
+        "ageDays": 171,
+        "title": "Obesity and Aging: Impacts of Nutritional Counseling and Physical Exercise on Telomeres and Senescence Parameters",
+        "url": "https://clinicaltrials.gov/study/NCT07479940"
       },
       {
-        "id": "clinicaltrials-gov-hemp-derived-botanical-dietary-supplementation-during-recovery-from-br",
-        "publishedAt": "2020-04-15",
-        "ageDays": 2329,
-        "title": "Hemp-Derived Botanical Dietary Supplementation During Recovery From Brain Injury",
-        "url": "https://clinicaltrials.gov/study/NCT03826368"
+        "id": "clinicaltrials-gov-hypoxia-and-exercise-in-the-elderly",
+        "publishedAt": "2025-06-29",
+        "ageDays": 435,
+        "title": "Hypoxia and Exercise in the Elderly",
+        "url": "https://clinicaltrials.gov/study/NCT02196623"
       },
       {
-        "id": "clinicaltrials-gov-ketogenic-diet-as-protective-factor-during-covid-19",
-        "publishedAt": "2020-11-04",
-        "ageDays": 2126,
-        "title": "Ketogenic Diet as Protective Factor During COVID-19",
-        "url": "https://clinicaltrials.gov/study/NCT04615975"
+        "id": "clinicaltrials-gov-total-lifestyle-reconstruction-for-body-weight-control-and-maintenance",
+        "publishedAt": "2024-08-13",
+        "ageDays": 755,
+        "title": "Total Lifestyle Reconstruction for Body Weight Control and Maintenance",
+        "url": "https://clinicaltrials.gov/study/NCT06223386"
       },
       {
-        "id": "clinicaltrials-gov-effect-of-chronic-incretin-based-therapy-in-cystic-fibrosis",
-        "publishedAt": "2022-03-08",
-        "ageDays": 1637,
-        "title": "Effect of Chronic Incretin-based Therapy in Cystic Fibrosis",
-        "url": "https://clinicaltrials.gov/study/NCT01879228"
+        "id": "clinicaltrials-gov-mitochondrial-dysfunction-in-type-2-diabetes-mellitus-and-capacity-for",
+        "publishedAt": "2014-04-25",
+        "ageDays": 4518,
+        "title": "Mitochondrial Dysfunction in Type 2 Diabetes Mellitus and Capacity for Fat Oxidation During Exercise",
+        "url": "https://clinicaltrials.gov/study/NCT00382473"
       },
       {
-        "id": "clinicaltrials-gov-effects-of-vitamin-c-on-skeletal-muscle",
-        "publishedAt": "2024-02-16",
-        "ageDays": 927,
-        "title": "Effects of Vitamin C on Skeletal Muscle",
-        "url": "https://clinicaltrials.gov/study/NCT06262711"
-      },
-      {
-        "id": "clinicaltrials-gov-ww-improving-nutrition-study-a-randomized-controlled-trial",
-        "publishedAt": "2025-04-16",
-        "ageDays": 502,
-        "title": "WW Improving Nutrition Study: A Randomized Controlled Trial",
-        "url": "https://clinicaltrials.gov/study/NCT05648344"
-      },
-      {
-        "id": "clinicaltrials-gov-sustained-oral-fiber-supplementation-for-patients-undergoing-donor-ste",
-        "publishedAt": "2026-05-06",
-        "ageDays": 117,
-        "title": "Sustained Oral Fiber Supplementation for Patients Undergoing Donor Stem Cell Transplantation for Hematological Malignancies",
-        "url": "https://clinicaltrials.gov/study/NCT04829136"
-      },
-      {
-        "id": "clinicaltrials-gov-blood-pressure-monitor-th-75-atrial-fibrillation-detection-function",
-        "publishedAt": "2026-03-02",
-        "ageDays": 182,
-        "title": "Blood Pressure Monitor (TH-75) Atrial Fibrillation Detection Function Clinical Trial",
-        "url": "https://clinicaltrials.gov/study/NCT07442175"
-      },
-      {
-        "id": "clinicaltrials-gov-electroacupuncture-combined-with-self-administered-acupressure-for-the",
-        "publishedAt": "2024-12-12",
-        "ageDays": 627,
-        "title": "Electroacupuncture Combined With Self-administered Acupressure for the Prevention of Capecitabine-Associated Hand-Foot Syndrome",
-        "url": "https://clinicaltrials.gov/study/NCT06602167"
-      },
-      {
-        "id": "clinicaltrials-gov-the-effect-of-erigeron-injection-on-acute-cerebral-infarction-serum-ve",
-        "publishedAt": "2013-08-21",
-        "ageDays": 4758,
-        "title": "The Effect of Erigeron Injection on Acute Cerebral Infarction Serum VEGF, MMP-9 and EPC Levels",
-        "url": "https://clinicaltrials.gov/study/NCT01926834"
-      },
-      {
-        "id": "clinicaltrials-gov-subcutaneously-cm310-placebo-in-patients-with-moderate-to-severe-atopi",
-        "publishedAt": "2022-04-15",
-        "ageDays": 1599,
-        "title": "Subcutaneously CM310/Placebo in Patients With Moderate-to-Severe Atopic Dermatitis (AD)",
-        "url": "https://clinicaltrials.gov/study/NCT04805411"
-      },
-      {
-        "id": "clinicaltrials-gov-a-trial-of-hr18034-for-postoperative-analgesia-in-subjects-undergoing",
-        "publishedAt": "2023-03-20",
-        "ageDays": 1260,
-        "title": "A Trial of HR18034 for Postoperative Analgesia in Subjects Undergoing Hemorrhoidectomy.",
-        "url": "https://clinicaltrials.gov/study/NCT05376904"
+        "id": "clinicaltrials-gov-antenatal-melatonin-supplementation-for-neuroprotection-in-fetal-growt",
+        "publishedAt": "2025-06-06",
+        "ageDays": 458,
+        "title": "Antenatal Melatonin Supplementation for Neuroprotection in Fetal Growth Restriction",
+        "url": "https://clinicaltrials.gov/study/NCT05651347"
       }
     ]
   },

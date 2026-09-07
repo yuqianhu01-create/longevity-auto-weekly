@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T07:22:02.685206+00:00",
+  "generatedAt": "2026-09-07T06:29:11.489096+00:00",
   "reports": [
     {
       "entry": {
@@ -8686,6 +8686,1131 @@
           }
         ],
         "publishedAt": "2026-08-31T07:22:02.685206+00:00"
+      }
+    },
+    {
+      "entry": {
+        "id": "2026-W37-auto-202609070629",
+        "week": "2026-W37",
+        "issue": 37,
+        "issueLabel": "第37期",
+        "status": "published",
+        "path": "published/2026-W37-auto-202609070629.json",
+        "generatedAt": "2026-09-07T06:29:11.489096+00:00",
+        "publishedAt": "2026-09-07T06:29:11.489096+00:00"
+      },
+      "report": {
+        "schemaVersion": 1,
+        "week": "2026-W37",
+        "issue": 37,
+        "issueLabel": "第37期",
+        "status": "published",
+        "period": {
+          "from": "2026-09-07",
+          "to": "2026-09-13"
+        },
+        "generatedAt": "2026-09-07T06:29:11.489096+00:00",
+        "judgement": "自动采集、自动去重、自动分类和自动发布；读者只需浏览正式周报并提取有用信息。",
+        "opportunities": [],
+        "risks": [],
+        "actions": [],
+        "moduleOrder": [
+          "academic-frontier",
+          "industry-progress",
+          "health-food-competitors",
+          "food-ingredients",
+          "ai-applications"
+        ],
+        "items": [
+          {
+            "id": "crossref-performance-of-high-viscosity-high-elasticity-asphalt-for-ultra-thin-o",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Performance of High–Viscosity High–Elasticity Asphalt for Ultra-Thin Overlays: A Laboratory Evaluation of Thermal–Oxidative Aging, Cracking, and Fatigue Resistance",
+            "titleZh": "Performance of High–Viscosity High–Elasticity Asphalt for Ultra-Thin Overlays: A Laboratory Evaluation of Thermal–Oxidative Aging, Cracking, and Fatigue Resistance",
+            "url": "https://doi.org/10.1007/s40999-026-01284-4",
+            "publishedAt": "2026-09-07T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1007/s40999-026-01284-4"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-07 收录/发布：Performance of High–Viscosity High–Elasticity Asphalt for Ultra-Thin Overlays: A Laboratory Evaluation of Thermal–Oxidative Aging, Cracking, and Fatigue Resistance",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Performance of High–Viscosity High–Elasticity Asphalt for Ultra-Thin Overlays: A Laboratory Evaluation of Thermal–Oxidative Aging, Cracking, and Fatigue Resistance",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1007/s40999-026-01284-4",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-07T06:29:11.501624+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-shear-bond-strength-of-metal-and-plastic-orthodontic-brackets-bonded-t",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Shear bond strength of metal and plastic orthodontic brackets bonded to 3D‑printed UDMA provisional resin restorations after surface treatments and aging: an in vitro study",
+            "titleZh": "Shear bond strength of metal and plastic orthodontic brackets bonded to 3D‑printed UDMA provisional resin restorations after surface treatments and aging: an in vitro study",
+            "url": "https://doi.org/10.1007/s10266-026-01559-1",
+            "publishedAt": "2026-09-07T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1007/s10266-026-01559-1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-07 收录/发布：Shear bond strength of metal and plastic orthodontic brackets bonded to 3D‑printed UDMA provisional resin restorations after surface treatments and aging: an in vitro study",
+            "evidence": {
+              "stage": "cell",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Shear bond strength of metal and plastic orthodontic brackets bonded to 3D‑printed UDMA provisional resin restorations after surface treatments and aging: an in vitro study",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1007/s10266-026-01559-1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-07T06:29:11.501694+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-context-aware-digital-nutrition-and-abdominal-acoustic-feedback-in-tai",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Context-aware digital nutrition and abdominal acoustic feedback in Taiwanese university students: a 12-week single-arm field intervention and a separate 4-week randomized feasibility pilot",
+            "titleZh": "Context-aware digital nutrition and abdominal acoustic feedback in Taiwanese university students: a 12-week single-arm field intervention and a separate 4-week randomized feasibility pilot",
+            "url": "https://doi.org/10.3389/fnut.2026.1853482",
+            "publishedAt": "2026-09-07T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.3389/fnut.2026.1853482"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-07 收录/发布：Context-aware digital nutrition and abdominal acoustic feedback in Taiwanese university students: a 12-week single-arm field intervention and a separate 4-week randomized feasibility pilot",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Context-aware digital nutrition and abdominal acoustic feedback in Taiwanese university students: a 12-week single-arm field intervention and a separate 4-week randomized feasibility pilot",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.3389/fnut.2026.1853482",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-07T06:29:11.501751+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-metabolic-burden-and-response-to-repeated-intranasal-esketamine-in-tre",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Metabolic Burden and Response to Repeated Intranasal Esketamine in Treatment-Resistant Depression: A Longitudinal Multidomain Biomarker Study",
+            "titleZh": "Metabolic Burden and Response to Repeated Intranasal Esketamine in Treatment-Resistant Depression: A Longitudinal Multidomain Biomarker Study",
+            "url": "https://doi.org/10.21203/rs.3.rs-10923483/v1",
+            "publishedAt": "2026-09-07T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.21203/rs.3.rs-10923483/v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-07 收录/发布：Metabolic Burden and Response to Repeated Intranasal Esketamine in Treatment-Resistant Depression: A Longitudinal Multidomain Biomarker Study",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Metabolic Burden and Response to Repeated Intranasal Esketamine in Treatment-Resistant Depression: A Longitudinal Multidomain Biomarker Study",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.21203/rs.3.rs-10923483/v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-07T06:29:11.501805+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-did-human-musicality-evolve-from-ancestral-mother-infant-early-interac",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Did Human Musicality Evolve from Ancestral Mother-Infant Early Interactions via Ceremonial Ritual and Its Arts? An Interdisciplinary Proposal",
+            "titleZh": "Did Human Musicality Evolve from Ancestral Mother-Infant Early Interactions via Ceremonial Ritual and Its Arts? An Interdisciplinary Proposal",
+            "url": "https://doi.org/10.1093/9780197775097.003.0015",
+            "publishedAt": "2026-09-07T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1093/9780197775097.003.0015"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-07 收录/发布：Did Human Musicality Evolve from Ancestral Mother-Infant Early Interactions via Ceremonial Ritual and Its Arts? An Interdisciplinary Proposal",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Did Human Musicality Evolve from Ancestral Mother-Infant Early Interactions via Ceremonial Ritual and Its Arts? An Interdisciplinary Proposal",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1093/9780197775097.003.0015",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-07T06:29:11.501847+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-in-silico-assessment-of-natural-compounds-against-mycobacterium-tuberc",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "In silico assessment of natural compounds against mycobacterium tuberculosis Rv1509 protein",
+            "titleZh": "In silico assessment of natural compounds against mycobacterium tuberculosis Rv1509 protein",
+            "url": "https://doi.org/10.1186/s13765-026-01118-w",
+            "publishedAt": "2026-09-07T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1186/s13765-026-01118-w"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-07 收录/发布：In silico assessment of natural compounds against mycobacterium tuberculosis Rv1509 protein",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：In silico assessment of natural compounds against mycobacterium tuberculosis Rv1509 protein",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1186/s13765-026-01118-w",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-07T06:29:11.502089+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-development-and-validation-of-a-predictive-nomogram-for-cesarean-deliv",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Development and validation of a predictive nomogram for cesarean delivery in term singleton pregnancies complicated by small for gestational age undergoing labor induction",
+            "titleZh": "Development and validation of a predictive nomogram for cesarean delivery in term singleton pregnancies complicated by small for gestational age undergoing labor induction",
+            "url": "https://doi.org/10.1038/s41598-026-55475-z",
+            "publishedAt": "2026-09-07T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1038/s41598-026-55475-z"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-07 收录/发布：Development and validation of a predictive nomogram for cesarean delivery in term singleton pregnancies complicated by small for gestational age undergoing labor induction",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Development and validation of a predictive nomogram for cesarean delivery in term singleton pregnancies complicated by small for gestational age undergoing labor induction",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1038/s41598-026-55475-z",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-07T06:29:11.502136+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-beyond-metallic-electrodes-semiconductor-photoelectrocatalysis-for-or",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Beyond Metallic Electrodes:\nSemiconductor Photoelectrocatalysis\nfor Organic Synthesis",
+            "titleZh": "Beyond Metallic Electrodes:\nSemiconductor Photoelectrocatalysis\nfor Organic Synthesis",
+            "url": "https://doi.org/10.1021/aps.6c00025",
+            "publishedAt": "2026-09-07T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1021/aps.6c00025"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-07 收录/发布：Beyond Metallic Electrodes:\nSemiconductor Photoelectrocatalysis\nfor Organic Synthesis",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Beyond Metallic Electrodes:\nSemiconductor Photoelectrocatalysis\nfor Organic Synthesis",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1021/aps.6c00025",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-07T06:29:11.502169+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-anti-inflammatory-activities-of-vitamin-c-supplementation-on-the-gut-b",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "health-food-competitors"
+            ],
+            "primaryModuleId": "health-food-competitors",
+            "titleOriginal": "Anti-inflammatory Activities of Vitamin C Supplementation on the Gut Barrier Function in Adults With Obesity",
+            "titleZh": "Anti-inflammatory Activities of Vitamin C Supplementation on the Gut Barrier Function in Adults With Obesity",
+            "url": "https://clinicaltrials.gov/study/NCT07151105",
+            "publishedAt": "2026-09-01T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07151105"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-09-01 收录/发布：Anti-inflammatory Activities of Vitamin C Supplementation on the Gut Barrier Function in Adults With Obesity",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.8,
+              "actionability": 8.4
+            },
+            "significance": "更新企业/品牌池，记录产品、原料、功效宣称、证据与渠道动作：Anti-inflammatory Activities of Vitamin C Supplementation on the Gut Barrier Function in Adults With Obesity",
+            "recommendedAction": "更新企业档案，记录品牌、产品、成分、功效宣称、证据等级和商业动作。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07151105",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-07T06:29:11.501905+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-safety-extension-study-for-subjects-with-hr-her2-breast-cancer-for",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "health-food-competitors"
+            ],
+            "primaryModuleId": "health-food-competitors",
+            "titleOriginal": "Safety Extension Study for Subjects With HR+, HER2- Breast Cancer for Subjects Who Have Completed the OVELIA Study",
+            "titleZh": "Safety Extension Study for Subjects With HR+, HER2- Breast Cancer for Subjects Who Have Completed the OVELIA Study",
+            "url": "https://clinicaltrials.gov/study/NCT05645536",
+            "publishedAt": "2026-09-01T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT05645536"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-09-01 收录/发布：Safety Extension Study for Subjects With HR+, HER2- Breast Cancer for Subjects Who Have Completed the OVELIA Study",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.8,
+              "actionability": 8.4
+            },
+            "significance": "更新企业/品牌池，记录产品、原料、功效宣称、证据与渠道动作：Safety Extension Study for Subjects With HR+, HER2- Breast Cancer for Subjects Who Have Completed the OVELIA Study",
+            "recommendedAction": "更新企业档案，记录品牌、产品、成分、功效宣称、证据等级和商业动作。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT05645536",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-07T06:29:11.503504+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-physical-activity-modifies-exercise-responsiveness",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "industry-progress"
+            ],
+            "primaryModuleId": "industry-progress",
+            "titleOriginal": "Physical Activity Modifies Exercise Responsiveness",
+            "titleZh": "Physical Activity Modifies Exercise Responsiveness",
+            "url": "https://clinicaltrials.gov/study/NCT07792967",
+            "publishedAt": "2026-08-28T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07792967"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-08-28 收录/发布：Physical Activity Modifies Exercise Responsiveness",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.5,
+              "actionability": 8.4
+            },
+            "significance": "提取原料名称、剂量、规范、安全性和人体证据设计，判断是否值得进入原料库：Physical Activity Modifies Exercise Responsiveness",
+            "recommendedAction": "整理原料名、适用人群、剂量、法规状态和证据设计，标注是否可进入后续深挖。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07792967",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-07T06:29:11.501931+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "food-ingredients"
+            ]
+          },
+          {
+            "id": "arxiv-a-generalizable-feature-extractor-for-alzheimer-s-related-brain-mri-ta",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "A Generalizable Feature Extractor for Alzheimer's-Related Brain MRI Tasks",
+            "titleZh": "A Generalizable Feature Extractor for Alzheimer's-Related Brain MRI Tasks",
+            "url": "http://arxiv.org/abs/2609.05400v1",
+            "publishedAt": "2026-09-04T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2609.05400v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-09-04 收录/发布：A Generalizable Feature Extractor for Alzheimer's-Related Brain MRI Tasks",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：A Generalizable Feature Extractor for Alzheimer's-Related Brain MRI Tasks",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2609.05400v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-07T06:29:11.501956+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-quantum-optimisation-for-protein-protein-interaction-network-alignment",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Quantum Optimisation for Protein-Protein Interaction Network Alignment",
+            "titleZh": "Quantum Optimisation for Protein-Protein Interaction Network Alignment",
+            "url": "http://arxiv.org/abs/2609.05238v1",
+            "publishedAt": "2026-09-04T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2609.05238v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-09-04 收录/发布：Quantum Optimisation for Protein-Protein Interaction Network Alignment",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Quantum Optimisation for Protein-Protein Interaction Network Alignment",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2609.05238v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-07T06:29:11.501978+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-substrate-aware-ai-agents-execution-context-as-a-first-class-input",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Substrate-Aware AI Agents: Execution Context as a First-Class Input",
+            "titleZh": "Substrate-Aware AI Agents: Execution Context as a First-Class Input",
+            "url": "http://arxiv.org/abs/2609.05232v1",
+            "publishedAt": "2026-09-04T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2609.05232v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-09-04 收录/发布：Substrate-Aware AI Agents: Execution Context as a First-Class Input",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Substrate-Aware AI Agents: Execution Context as a First-Class Input",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2609.05232v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-07T06:29:11.502004+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-layered-mixed-matrices-and-reaction-networks",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Layered mixed matrices and reaction networks",
+            "titleZh": "Layered mixed matrices and reaction networks",
+            "url": "http://arxiv.org/abs/2609.05100v1",
+            "publishedAt": "2026-09-04T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2609.05100v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-09-04 收录/发布：Layered mixed matrices and reaction networks",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Layered mixed matrices and reaction networks",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2609.05100v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-07T06:29:11.502029+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-a-short-combinatorial-proof-of-the-pons-batle-identity-for-counting-tr",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "A Short Combinatorial Proof of the Pons-Batle Identity for Counting Tree-Child Networks",
+            "titleZh": "A Short Combinatorial Proof of the Pons-Batle Identity for Counting Tree-Child Networks",
+            "url": "http://arxiv.org/abs/2609.04979v1",
+            "publishedAt": "2026-09-04T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2609.04979v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-09-04 收录/发布：A Short Combinatorial Proof of the Pons-Batle Identity for Counting Tree-Child Networks",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：A Short Combinatorial Proof of the Pons-Batle Identity for Counting Tree-Child Networks",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2609.04979v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-07T06:29:11.502051+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-nonlinear-evolution-in-galileon-efts-regularization-and-screening",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Nonlinear evolution in Galileon EFTs: Regularization and screening",
+            "titleZh": "Nonlinear evolution in Galileon EFTs: Regularization and screening",
+            "url": "http://arxiv.org/abs/2609.05407v1",
+            "publishedAt": "2026-09-04T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2609.05407v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-09-04 收录/发布：Nonlinear evolution in Galileon EFTs: Regularization and screening",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Nonlinear evolution in Galileon EFTs: Regularization and screening",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2609.05407v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-07T06:29:11.502257+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-beyond-scalar-flexibility-from-eligible-ai-workloads-to-dependable-lo",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Beyond Scalar Flexibility: From Eligible AI Workloads to Dependable Load Relief",
+            "titleZh": "Beyond Scalar Flexibility: From Eligible AI Workloads to Dependable Load Relief",
+            "url": "http://arxiv.org/abs/2609.05406v1",
+            "publishedAt": "2026-09-04T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2609.05406v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-09-04 收录/发布：Beyond Scalar Flexibility: From Eligible AI Workloads to Dependable Load Relief",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Beyond Scalar Flexibility: From Eligible AI Workloads to Dependable Load Relief",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2609.05406v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-07T06:29:11.502282+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-wearableqa-a-benchmark-for-health-reasoning-over-real-world-wearable",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
+            "titleZh": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
+            "url": "http://arxiv.org/abs/2609.05405v1",
+            "publishedAt": "2026-09-04T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2609.05405v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-09-04 收录/发布：WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2609.05405v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-07T06:29:11.502306+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          }
+        ],
+        "topItemIds": [
+          "crossref-performance-of-high-viscosity-high-elasticity-asphalt-for-ultra-thin-o",
+          "crossref-shear-bond-strength-of-metal-and-plastic-orthodontic-brackets-bonded-t",
+          "crossref-context-aware-digital-nutrition-and-abdominal-acoustic-feedback-in-tai",
+          "crossref-metabolic-burden-and-response-to-repeated-intranasal-esketamine-in-tre",
+          "crossref-did-human-musicality-evolve-from-ancestral-mother-infant-early-interac",
+          "crossref-in-silico-assessment-of-natural-compounds-against-mycobacterium-tuberc",
+          "crossref-development-and-validation-of-a-predictive-nomogram-for-cesarean-deliv",
+          "crossref-beyond-metallic-electrodes-semiconductor-photoelectrocatalysis-for-or",
+          "clinicaltrials-gov-anti-inflammatory-activities-of-vitamin-c-supplementation-on-the-gut-b",
+          "clinicaltrials-gov-safety-extension-study-for-subjects-with-hr-her2-breast-cancer-for"
+        ],
+        "coverage": [
+          {
+            "sourceId": "automated-weekly-pipeline",
+            "status": "ok",
+            "attempts": 1,
+            "checkedAt": "2026-09-07T06:29:11.489096+00:00",
+            "itemCount": 19,
+            "recordErrors": 0,
+            "pageErrors": 0,
+            "recencyWindowDays": 14
+          }
+        ],
+        "publishedAt": "2026-09-07T06:29:11.489096+00:00"
       }
     }
   ]
