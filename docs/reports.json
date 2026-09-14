@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T06:29:11.489096+00:00",
+  "generatedAt": "2026-09-14T06:48:11.022607+00:00",
   "reports": [
     {
       "entry": {
@@ -9811,6 +9811,1076 @@
           }
         ],
         "publishedAt": "2026-09-07T06:29:11.489096+00:00"
+      }
+    },
+    {
+      "entry": {
+        "id": "2026-W38-auto-202609140648",
+        "week": "2026-W38",
+        "issue": 38,
+        "issueLabel": "第38期",
+        "status": "published",
+        "path": "published/2026-W38-auto-202609140648.json",
+        "generatedAt": "2026-09-14T06:48:11.022607+00:00",
+        "publishedAt": "2026-09-14T06:48:11.022607+00:00"
+      },
+      "report": {
+        "schemaVersion": 1,
+        "week": "2026-W38",
+        "issue": 38,
+        "issueLabel": "第38期",
+        "status": "published",
+        "period": {
+          "from": "2026-09-14",
+          "to": "2026-09-20"
+        },
+        "generatedAt": "2026-09-14T06:48:11.022607+00:00",
+        "judgement": "自动采集、自动去重、自动分类和自动发布；读者只需浏览正式周报并提取有用信息。",
+        "opportunities": [],
+        "risks": [],
+        "actions": [],
+        "moduleOrder": [
+          "academic-frontier",
+          "industry-progress",
+          "health-food-competitors",
+          "food-ingredients",
+          "ai-applications"
+        ],
+        "items": [
+          {
+            "id": "crossref-algorithmic-eyes-exit-minds-a-boundary-autonomy-cascade-model-of-art",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Algorithmic eyes, exit minds: A boundary–autonomy cascade model of artificial intelligence monitoring and turnover intention among Indonesian Generation Z employees",
+            "titleZh": "Algorithmic eyes, exit minds: A boundary–autonomy cascade model of artificial intelligence monitoring and turnover intention among Indonesian Generation Z employees",
+            "url": "https://doi.org/10.4102/sajhrm.v24i0.3699",
+            "publishedAt": "2026-09-14T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.4102/sajhrm.v24i0.3699"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-14 收录/发布：Algorithmic eyes, exit minds: A boundary–autonomy cascade model of artificial intelligence monitoring and turnover intention among Indonesian Generation Z employees",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Algorithmic eyes, exit minds: A boundary–autonomy cascade model of artificial intelligence monitoring and turnover intention among Indonesian Generation Z employees",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.4102/sajhrm.v24i0.3699",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-14T06:48:11.031731+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-processing-of-real-and-ai-generated-human-faces-an-exploratory-eeg-st",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Processing of Real and AI-Generated Human Faces: An Exploratory EEG Study",
+            "titleZh": "Processing of Real and AI-Generated Human Faces: An Exploratory EEG Study",
+            "url": "https://doi.org/10.1145/3822301.3822351",
+            "publishedAt": "2026-09-14T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1145/3822301.3822351"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-14 收录/发布：Processing of Real and AI-Generated Human Faces: An Exploratory EEG Study",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Processing of Real and AI-Generated Human Faces: An Exploratory EEG Study",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1145/3822301.3822351",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-14T06:48:11.031775+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-mechanistic-study-of-il-17-inhibitors-in-alleviating-inflammation-in-a",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Mechanistic study of IL-17 inhibitors in alleviating inflammation in ankylosing spondylitis by regulating Treg cell function through modulation of the Ahr signaling pathway",
+            "titleZh": "Mechanistic study of IL-17 inhibitors in alleviating inflammation in ankylosing spondylitis by regulating Treg cell function through modulation of the Ahr signaling pathway",
+            "url": "https://doi.org/10.1007/s13577-026-01450-9",
+            "publishedAt": "2026-09-14T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1007/s13577-026-01450-9"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-14 收录/发布：Mechanistic study of IL-17 inhibitors in alleviating inflammation in ankylosing spondylitis by regulating Treg cell function through modulation of the Ahr signaling pathway",
+            "evidence": {
+              "stage": "cell",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Mechanistic study of IL-17 inhibitors in alleviating inflammation in ankylosing spondylitis by regulating Treg cell function through modulation of the Ahr signaling pathway",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1007/s13577-026-01450-9",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-14T06:48:11.031807+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-efficacy-and-safety-of-treatment-intervention-for-endodontic-emergency",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Efficacy and Safety of Treatment Intervention for Endodontic Emergency in Pregnant Women",
+            "titleZh": "Efficacy and Safety of Treatment Intervention for Endodontic Emergency in Pregnant Women",
+            "url": "https://doi.org/10.21203/rs.3.rs-10845392/v1",
+            "publishedAt": "2026-09-14T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.21203/rs.3.rs-10845392/v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-14 收录/发布：Efficacy and Safety of Treatment Intervention for Endodontic Emergency in Pregnant Women",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Efficacy and Safety of Treatment Intervention for Endodontic Emergency in Pregnant Women",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.21203/rs.3.rs-10845392/v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-14T06:48:11.031836+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-critically-mindful-through-film-and-media",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Critically Mindful through Film and Media",
+            "titleZh": "Critically Mindful through Film and Media",
+            "url": "https://doi.org/10.1093/9780197751091.003.0006",
+            "publishedAt": "2026-09-14T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1093/9780197751091.003.0006"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-14 收录/发布：Critically Mindful through Film and Media",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Critically Mindful through Film and Media",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1093/9780197751091.003.0006",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-14T06:48:11.031859+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-association-between-urban-green-space-coverage-and-incident-alzheimer",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Association between urban green space coverage and incident Alzheimer’s disease among older adults in metropolitan South Korea: a population-based retrospective cohort study",
+            "titleZh": "Association between urban green space coverage and incident Alzheimer’s disease among older adults in metropolitan South Korea: a population-based retrospective cohort study",
+            "url": "https://doi.org/10.21203/rs.3.rs-10506133/v1",
+            "publishedAt": "2026-09-14T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.21203/rs.3.rs-10506133/v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-14 收录/发布：Association between urban green space coverage and incident Alzheimer’s disease among older adults in metropolitan South Korea: a population-based retrospective cohort study",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Association between urban green space coverage and incident Alzheimer’s disease among older adults in metropolitan South Korea: a population-based retrospective cohort study",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.21203/rs.3.rs-10506133/v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-14T06:48:11.031894+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-navigating-employment-analysing-ukrainian-refugee-workforce-integrati",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Navigating employment: analysing Ukrainian refugee workforce integration in Europe one-year post-exodus",
+            "titleZh": "Navigating employment: analysing Ukrainian refugee workforce integration in Europe one-year post-exodus",
+            "url": "https://doi.org/10.1108/ijm-03-2025-0180",
+            "publishedAt": "2026-09-14T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1108/ijm-03-2025-0180"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-14 收录/发布：Navigating employment: analysing Ukrainian refugee workforce integration in Europe one-year post-exodus",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Navigating employment: analysing Ukrainian refugee workforce integration in Europe one-year post-exodus",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1108/ijm-03-2025-0180",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-14T06:48:11.031920+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-recentring-peripheral-europe-spatial-imaginaries-and-regional-rescali",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Recentring Peripheral Europe: Spatial Imaginaries and Regional Rescaling in the European Capital of Culture Programme",
+            "titleZh": "Recentring Peripheral Europe: Spatial Imaginaries and Regional Rescaling in the European Capital of Culture Programme",
+            "url": "https://doi.org/10.48088/ejg.y.liu.17.1.320.336",
+            "publishedAt": "2026-09-14T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.48088/ejg.y.liu.17.1.320.336"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-14 收录/发布：Recentring Peripheral Europe: Spatial Imaginaries and Regional Rescaling in the European Capital of Culture Programme",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Recentring Peripheral Europe: Spatial Imaginaries and Regional Rescaling in the European Capital of Culture Programme",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.48088/ejg.y.liu.17.1.320.336",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-14T06:48:11.031949+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-post-marketing-study-for-early-stage-low-risk-breast-cancer-treatment",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "health-food-competitors"
+            ],
+            "primaryModuleId": "health-food-competitors",
+            "titleOriginal": "Post-Marketing Study for Early-Stage Low-Risk Breast Cancer Treatment Using ProSense® Cryoablation (ChoICE Trial)",
+            "titleZh": "Post-Marketing Study for Early-Stage Low-Risk Breast Cancer Treatment Using ProSense® Cryoablation (ChoICE Trial)",
+            "url": "https://clinicaltrials.gov/study/NCT07629206",
+            "publishedAt": "2026-09-09T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07629206"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-09-09 收录/发布：Post-Marketing Study for Early-Stage Low-Risk Breast Cancer Treatment Using ProSense® Cryoablation (ChoICE Trial)",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.9,
+              "actionability": 8.4
+            },
+            "significance": "更新企业/品牌池，记录产品、原料、功效宣称、证据与渠道动作：Post-Marketing Study for Early-Stage Low-Risk Breast Cancer Treatment Using ProSense® Cryoablation (ChoICE Trial)",
+            "recommendedAction": "更新企业档案，记录品牌、产品、成分、功效宣称、证据等级和商业动作。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07629206",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-14T06:48:11.032635+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-breath-research-narrow-validation-for-gastrointestinal-cancer-detectio",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "industry-progress"
+            ],
+            "primaryModuleId": "industry-progress",
+            "titleOriginal": "Breath Research Narrow Validation for Gastrointestinal Cancer Detection",
+            "titleZh": "Breath Research Narrow Validation for Gastrointestinal Cancer Detection",
+            "url": "https://clinicaltrials.gov/study/NCT07714538",
+            "publishedAt": "2026-09-11T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07714538"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-09-11 收录/发布：Breath Research Narrow Validation for Gastrointestinal Cancer Detection",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "提取原料名称、剂量、规范、安全性和人体证据设计，判断是否值得进入原料库：Breath Research Narrow Validation for Gastrointestinal Cancer Detection",
+            "recommendedAction": "整理原料名、适用人群、剂量、法规状态和证据设计，标注是否可进入后续深挖。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07714538",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-14T06:48:11.032303+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "food-ingredients"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-a-study-in-healthy-adults-to-compare-the-bioavailability-of-epa-dha",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "A Study in Healthy Adults to Compare the Bioavailability of EPA + DHA From Two Microalgal Sources to One Fish Source and Placebo",
+            "titleZh": "A Study in Healthy Adults to Compare the Bioavailability of EPA + DHA From Two Microalgal Sources to One Fish Source and Placebo",
+            "url": "https://clinicaltrials.gov/study/NCT07241377",
+            "publishedAt": "2026-09-09T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07241377"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-09-09 收录/发布：A Study in Healthy Adults to Compare the Bioavailability of EPA + DHA From Two Microalgal Sources to One Fish Source and Placebo",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.9,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：A Study in Healthy Adults to Compare the Bioavailability of EPA + DHA From Two Microalgal Sources to One Fish Source and Placebo",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07241377",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-14T06:48:11.032430+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-bad-berka-heart-rhythm-registry-of-patients-with-or-at-risk-of-arrhyth",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Bad Berka Heart Rhythm Registry of Patients With or at Risk of Arrhythmias Treated at Heart Center Bad Berka",
+            "titleZh": "Bad Berka Heart Rhythm Registry of Patients With or at Risk of Arrhythmias Treated at Heart Center Bad Berka",
+            "url": "https://clinicaltrials.gov/study/NCT07020910",
+            "publishedAt": "2026-09-09T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07020910"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-09-09 收录/发布：Bad Berka Heart Rhythm Registry of Patients With or at Risk of Arrhythmias Treated at Heart Center Bad Berka",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.9,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Bad Berka Heart Rhythm Registry of Patients With or at Risk of Arrhythmias Treated at Heart Center Bad Berka",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07020910",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-14T06:48:11.032652+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-bioancient-ex-effects-of-a-physical-exercise-program-in-centenarians",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "BIOANCIENT_EX: Effects of a Physical Exercise Program in Centenarians of the BIOANCIENT Cohort: A Randomized Clinical Trial.",
+            "titleZh": "BIOANCIENT_EX: Effects of a Physical Exercise Program in Centenarians of the BIOANCIENT Cohort: A Randomized Clinical Trial.",
+            "url": "https://clinicaltrials.gov/study/NCT07723339",
+            "publishedAt": "2026-09-01T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07723339"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-09-01 收录/发布：BIOANCIENT_EX: Effects of a Physical Exercise Program in Centenarians of the BIOANCIENT Cohort: A Randomized Clinical Trial.",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.3,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：BIOANCIENT_EX: Effects of a Physical Exercise Program in Centenarians of the BIOANCIENT Cohort: A Randomized Clinical Trial.",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07723339",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-14T06:48:11.032415+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-making-models-that-matter-how-to-build-trustworthy-and-useful-systems",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Making Models That Matter: How to Build Trustworthy and Useful Systems Biology Models",
+            "titleZh": "Making Models That Matter: How to Build Trustworthy and Useful Systems Biology Models",
+            "url": "http://arxiv.org/abs/2609.13127v1",
+            "publishedAt": "2026-09-11T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2609.13127v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-09-11 收录/发布：Making Models That Matter: How to Build Trustworthy and Useful Systems Biology Models",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Making Models That Matter: How to Build Trustworthy and Useful Systems Biology Models",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2609.13127v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-14T06:48:11.032318+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-active-elastic-theory-of-self-aligning-solids",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Active elastic theory of self-aligning solids",
+            "titleZh": "Active elastic theory of self-aligning solids",
+            "url": "http://arxiv.org/abs/2609.13114v1",
+            "publishedAt": "2026-09-11T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2609.13114v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-09-11 收录/发布：Active elastic theory of self-aligning solids",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Active elastic theory of self-aligning solids",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2609.13114v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-14T06:48:11.032332+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-categorical-genus-for-log-del-pezzo-surfaces-with-cyclic-quotient-sing",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Categorical genus for log del Pezzo surfaces with cyclic quotient singularities",
+            "titleZh": "Categorical genus for log del Pezzo surfaces with cyclic quotient singularities",
+            "url": "http://arxiv.org/abs/2609.13102v1",
+            "publishedAt": "2026-09-11T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2609.13102v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-09-11 收录/发布：Categorical genus for log del Pezzo surfaces with cyclic quotient singularities",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Categorical genus for log del Pezzo surfaces with cyclic quotient singularities",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2609.13102v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-14T06:48:11.032346+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-first-application-of-the-transcorrelated-method-to-noncovalent-interac",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "First application of the transcorrelated method to noncovalent interactions: The A24 dataset",
+            "titleZh": "First application of the transcorrelated method to noncovalent interactions: The A24 dataset",
+            "url": "http://arxiv.org/abs/2609.13018v1",
+            "publishedAt": "2026-09-11T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2609.13018v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-09-11 收录/发布：First application of the transcorrelated method to noncovalent interactions: The A24 dataset",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：First application of the transcorrelated method to noncovalent interactions: The A24 dataset",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2609.13018v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-14T06:48:11.032359+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-geometric-theory-of-elastic-curves-constrained-on-rigid-curved-surface",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Geometric theory of elastic curves constrained on rigid curved surfaces",
+            "titleZh": "Geometric theory of elastic curves constrained on rigid curved surfaces",
+            "url": "http://arxiv.org/abs/2609.12952v1",
+            "publishedAt": "2026-09-11T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2609.12952v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-09-11 收录/发布：Geometric theory of elastic curves constrained on rigid curved surfaces",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Geometric theory of elastic curves constrained on rigid curved surfaces",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2609.12952v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-14T06:48:11.032372+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          }
+        ],
+        "topItemIds": [
+          "clinicaltrials-gov-breath-research-narrow-validation-for-gastrointestinal-cancer-detectio",
+          "clinicaltrials-gov-post-marketing-study-for-early-stage-low-risk-breast-cancer-treatment",
+          "clinicaltrials-gov-a-study-in-healthy-adults-to-compare-the-bioavailability-of-epa-dha",
+          "clinicaltrials-gov-bad-berka-heart-rhythm-registry-of-patients-with-or-at-risk-of-arrhyth",
+          "crossref-algorithmic-eyes-exit-minds-a-boundary-autonomy-cascade-model-of-art",
+          "crossref-processing-of-real-and-ai-generated-human-faces-an-exploratory-eeg-st",
+          "crossref-mechanistic-study-of-il-17-inhibitors-in-alleviating-inflammation-in-a",
+          "crossref-efficacy-and-safety-of-treatment-intervention-for-endodontic-emergency",
+          "crossref-critically-mindful-through-film-and-media",
+          "crossref-association-between-urban-green-space-coverage-and-incident-alzheimer"
+        ],
+        "coverage": [
+          {
+            "sourceId": "automated-weekly-pipeline",
+            "status": "ok",
+            "attempts": 1,
+            "checkedAt": "2026-09-14T06:48:11.022607+00:00",
+            "itemCount": 18,
+            "recordErrors": 0,
+            "pageErrors": 0,
+            "recencyWindowDays": 14
+          }
+        ],
+        "publishedAt": "2026-09-14T06:48:11.022607+00:00"
       }
     }
   ]
