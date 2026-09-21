@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T06:48:11.022607+00:00",
+  "generatedAt": "2026-09-21T06:49:15.703527+00:00",
   "reports": [
     {
       "entry": {
@@ -10881,6 +10881,852 @@
           }
         ],
         "publishedAt": "2026-09-14T06:48:11.022607+00:00"
+      }
+    },
+    {
+      "entry": {
+        "id": "2026-W39-auto-202609210649",
+        "week": "2026-W39",
+        "issue": 39,
+        "issueLabel": "第39期",
+        "status": "published",
+        "path": "published/2026-W39-auto-202609210649.json",
+        "generatedAt": "2026-09-21T06:49:15.703527+00:00",
+        "publishedAt": "2026-09-21T06:49:15.703527+00:00"
+      },
+      "report": {
+        "schemaVersion": 1,
+        "week": "2026-W39",
+        "issue": 39,
+        "issueLabel": "第39期",
+        "status": "published",
+        "period": {
+          "from": "2026-09-21",
+          "to": "2026-09-27"
+        },
+        "generatedAt": "2026-09-21T06:49:15.703527+00:00",
+        "judgement": "自动采集、自动去重、自动分类和自动发布；读者只需浏览正式周报并提取有用信息。",
+        "opportunities": [],
+        "risks": [],
+        "actions": [],
+        "moduleOrder": [
+          "academic-frontier",
+          "industry-progress",
+          "health-food-competitors",
+          "food-ingredients",
+          "ai-applications"
+        ],
+        "items": [
+          {
+            "id": "pubmed-engineering-ovarian-asymmetric-mechanical-niches-in-a-dual-layer-micro",
+            "sourceId": "pubmed",
+            "sourceKind": "research",
+            "moduleIds": [
+              "academic-frontier"
+            ],
+            "primaryModuleId": "academic-frontier",
+            "titleOriginal": "Engineering ovarian asymmetric mechanical niches in a dual-layer microcavity array enhances mouse secondary follicle development and oocyte competence.",
+            "titleZh": "Engineering ovarian asymmetric mechanical niches in a dual-layer microcavity array enhances mouse secondary follicle development and oocyte competence.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42761305/",
+            "publishedAt": "2027-01-01T00:00:00+00:00",
+            "identifiers": {
+              "pmid": "42761305"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "pubmed 在 2027-Feb 收录/发布：Engineering ovarian asymmetric mechanical niches in a dual-layer microcavity array enhances mouse secondary follicle development and oocyte competence.",
+            "evidence": {
+              "stage": "animal",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.8,
+              "novelty": 9.5,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Engineering ovarian asymmetric mechanical niches in a dual-layer microcavity array enhances mouse secondary follicle development and oocyte competence.",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "pubmed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42761305/",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-21T06:49:15.717754+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "crossref-human-small-intestinal-organoids-differentiation-protocols-towards-all",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Human Small Intestinal Organoids Differentiation Protocols Towards All Mature Epithelial Lineages",
+            "titleZh": "Human Small Intestinal Organoids Differentiation Protocols Towards All Mature Epithelial Lineages",
+            "url": "https://doi.org/10.1007/978-1-0716-5412-5_11",
+            "publishedAt": "2026-09-21T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1007/978-1-0716-5412-5_11"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-21 收录/发布：Human Small Intestinal Organoids Differentiation Protocols Towards All Mature Epithelial Lineages",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Human Small Intestinal Organoids Differentiation Protocols Towards All Mature Epithelial Lineages",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1007/978-1-0716-5412-5_11",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-21T06:49:15.716775+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-the-ifip-wg5-7-service-systems-special-interest-group-renewed-research",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "The IFIP WG5.7 Service Systems Special Interest Group Renewed Research Framework and Agenda on Product-Service Systems and Digital Servitization",
+            "titleZh": "The IFIP WG5.7 Service Systems Special Interest Group Renewed Research Framework and Agenda on Product-Service Systems and Digital Servitization",
+            "url": "https://doi.org/10.1007/978-3-032-38594-9_38",
+            "publishedAt": "2026-09-21T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1007/978-3-032-38594-9_38"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-21 收录/发布：The IFIP WG5.7 Service Systems Special Interest Group Renewed Research Framework and Agenda on Product-Service Systems and Digital Servitization",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：The IFIP WG5.7 Service Systems Special Interest Group Renewed Research Framework and Agenda on Product-Service Systems and Digital Servitization",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1007/978-3-032-38594-9_38",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-21T06:49:15.716843+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-impact-of-a-digital-mindfulness-and-motor-imagery-intervention-on-pain",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Impact of a digital mindfulness and motor imagery intervention on pain and perceived function in 203 patients with musculoskeletal pain",
+            "titleZh": "Impact of a digital mindfulness and motor imagery intervention on pain and perceived function in 203 patients with musculoskeletal pain",
+            "url": "https://doi.org/10.3389/fdgth.2026.1895131",
+            "publishedAt": "2026-09-21T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.3389/fdgth.2026.1895131"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-21 收录/发布：Impact of a digital mindfulness and motor imagery intervention on pain and perceived function in 203 patients with musculoskeletal pain",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Impact of a digital mindfulness and motor imagery intervention on pain and perceived function in 203 patients with musculoskeletal pain",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.3389/fdgth.2026.1895131",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-21T06:49:15.716895+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-obstacles-and-opportunities-for-the-repair-cycle-for-cells-and-electro",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Obstacles and Opportunities for the Repair Cycle for Cells and Electronics in EV Batteries",
+            "titleZh": "Obstacles and Opportunities for the Repair Cycle for Cells and Electronics in EV Batteries",
+            "url": "https://doi.org/10.1007/978-3-032-38594-9_6",
+            "publishedAt": "2026-09-21T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1007/978-3-032-38594-9_6"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-21 收录/发布：Obstacles and Opportunities for the Repair Cycle for Cells and Electronics in EV Batteries",
+            "evidence": {
+              "stage": "cell",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Obstacles and Opportunities for the Repair Cycle for Cells and Electronics in EV Batteries",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1007/978-3-032-38594-9_6",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-21T06:49:15.716930+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-from-disruption-to-decision-toward-resilient-integrated-process-plann",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "From Disruption to Decision: Toward Resilient Integrated Process Planning and Scheduling",
+            "titleZh": "From Disruption to Decision: Toward Resilient Integrated Process Planning and Scheduling",
+            "url": "https://doi.org/10.1007/978-3-032-38594-9_21",
+            "publishedAt": "2026-09-21T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1007/978-3-032-38594-9_21"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-21 收录/发布：From Disruption to Decision: Toward Resilient Integrated Process Planning and Scheduling",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：From Disruption to Decision: Toward Resilient Integrated Process Planning and Scheduling",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1007/978-3-032-38594-9_21",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-21T06:49:15.716973+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-сравнительный-анализ-воспалительной-реакции-после-имплантации-биологич",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Сравнительный анализ воспалительной реакции после имплантации биологических и синтетических сосудистых протезов: многоцентровое рандомизированное клиническое исследование",
+            "titleZh": "Сравнительный анализ воспалительной реакции после имплантации биологических и синтетических сосудистых протезов: многоцентровое рандомизированное клиническое исследование",
+            "url": "https://doi.org/10.34883/pi.2026.15.3.037",
+            "publishedAt": "2026-09-21T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.34883/pi.2026.15.3.037"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-21 收录/发布：Сравнительный анализ воспалительной реакции после имплантации биологических и синтетических сосудистых протезов: многоцентровое рандомизированное клиническое исследование",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Сравнительный анализ воспалительной реакции после имплантации биологических и синтетических сосудистых протезов: многоцентровое рандомизированное клиническое исследование",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.34883/pi.2026.15.3.037",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-21T06:49:15.717026+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-overview-of-eloquent-2026-shared-tasks-for-evaluating-generative-lang",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Overview of ELOQUENT 2026: shared tasks for evaluating generative language model quality",
+            "titleZh": "Overview of ELOQUENT 2026: shared tasks for evaluating generative language model quality",
+            "url": "https://doi.org/10.1007/978-3-032-39150-6_24",
+            "publishedAt": "2026-09-21T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1007/978-3-032-39150-6_24"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-21 收录/发布：Overview of ELOQUENT 2026: shared tasks for evaluating generative language model quality",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Overview of ELOQUENT 2026: shared tasks for evaluating generative language model quality",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1007/978-3-032-39150-6_24",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-21T06:49:15.717070+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-autonomic-and-peripheral-neurochemical-responses-to-maximal-rowing-exe",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "health-food-competitors"
+            ],
+            "primaryModuleId": "health-food-competitors",
+            "titleOriginal": "Autonomic and Peripheral Neurochemical Responses to Maximal Rowing Exercise",
+            "titleZh": "Autonomic and Peripheral Neurochemical Responses to Maximal Rowing Exercise",
+            "url": "https://clinicaltrials.gov/study/NCT07661953",
+            "publishedAt": "2026-09-18T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07661953"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-09-18 收录/发布：Autonomic and Peripheral Neurochemical Responses to Maximal Rowing Exercise",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "更新企业/品牌池，记录产品、原料、功效宣称、证据与渠道动作：Autonomic and Peripheral Neurochemical Responses to Maximal Rowing Exercise",
+            "recommendedAction": "更新企业档案，记录品牌、产品、成分、功效宣称、证据等级和商业动作。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07661953",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-21T06:49:15.718407+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-collection-and-distribution-of-blood-components-from-healthy-donors-fo",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "health-food-competitors"
+            ],
+            "primaryModuleId": "health-food-competitors",
+            "titleOriginal": "Collection and Distribution of Blood Components From Healthy Donors for In Vitro Research Use",
+            "titleZh": "Collection and Distribution of Blood Components From Healthy Donors for In Vitro Research Use",
+            "url": "https://clinicaltrials.gov/study/NCT00001846",
+            "publishedAt": "2026-09-16T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT00001846"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-09-16 收录/发布：Collection and Distribution of Blood Components From Healthy Donors for In Vitro Research Use",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.9,
+              "actionability": 8.4
+            },
+            "significance": "更新企业/品牌池，记录产品、原料、功效宣称、证据与渠道动作：Collection and Distribution of Blood Components From Healthy Donors for In Vitro Research Use",
+            "recommendedAction": "更新企业档案，记录品牌、产品、成分、功效宣称、证据等级和商业动作。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT00001846",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-21T06:49:15.718382+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-change-in-serum-biomarkers-after-endovascular-treatment-for-acute-ante",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "health-food-competitors"
+            ],
+            "primaryModuleId": "health-food-competitors",
+            "titleOriginal": "Change in Serum Biomarkers After Endovascular Treatment for Acute Anterior Circulation Large Vessel Occlusion",
+            "titleZh": "Change in Serum Biomarkers After Endovascular Treatment for Acute Anterior Circulation Large Vessel Occlusion",
+            "url": "https://clinicaltrials.gov/study/NCT06383182",
+            "publishedAt": "2026-09-17T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT06383182"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-09-17 收录/发布：Change in Serum Biomarkers After Endovascular Treatment for Acute Anterior Circulation Large Vessel Occlusion",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.9,
+              "actionability": 8.4
+            },
+            "significance": "更新企业/品牌池，记录产品、原料、功效宣称、证据与渠道动作：Change in Serum Biomarkers After Endovascular Treatment for Acute Anterior Circulation Large Vessel Occlusion",
+            "recommendedAction": "更新企业档案，记录品牌、产品、成分、功效宣称、证据等级和商业动作。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT06383182",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-21T06:49:15.718318+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-bimzelx-bimekizumab-for-the-treatment-of-adult-onset-pityriasis-rubr",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "health-food-competitors"
+            ],
+            "primaryModuleId": "health-food-competitors",
+            "titleOriginal": "Bimzelx (Bimekizumab) For The Treatment Of Adult Onset Pityriasis Rubra Pilaris (PRP)",
+            "titleZh": "Bimzelx (Bimekizumab) For The Treatment Of Adult Onset Pityriasis Rubra Pilaris (PRP)",
+            "url": "https://clinicaltrials.gov/study/NCT07497620",
+            "publishedAt": "2026-09-08T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07497620"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-09-08 收录/发布：Bimzelx (Bimekizumab) For The Treatment Of Adult Onset Pityriasis Rubra Pilaris (PRP)",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.3,
+              "actionability": 8.4
+            },
+            "significance": "更新企业/品牌池，记录产品、原料、功效宣称、证据与渠道动作：Bimzelx (Bimekizumab) For The Treatment Of Adult Onset Pityriasis Rubra Pilaris (PRP)",
+            "recommendedAction": "更新企业档案，记录品牌、产品、成分、功效宣称、证据等级和商业动作。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07497620",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-21T06:49:15.718340+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-intergrated-service-delivery-for-lung-health-conditions",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Intergrated Service Delivery for Lung Health Conditions",
+            "titleZh": "Intergrated Service Delivery for Lung Health Conditions",
+            "url": "https://clinicaltrials.gov/study/NCT07816523",
+            "publishedAt": "2026-09-11T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07816523"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-09-11 收录/发布：Intergrated Service Delivery for Lung Health Conditions",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.5,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Intergrated Service Delivery for Lung Health Conditions",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07816523",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-21T06:49:15.718293+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-a-study-in-healthy-adults-to-compare-the-bioavailability-of-epa-dha",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "A Study in Healthy Adults to Compare the Bioavailability of EPA + DHA From Two Microalgal Sources to One Fish Source and Placebo",
+            "titleZh": "A Study in Healthy Adults to Compare the Bioavailability of EPA + DHA From Two Microalgal Sources to One Fish Source and Placebo",
+            "url": "https://clinicaltrials.gov/study/NCT07241377",
+            "publishedAt": "2026-09-09T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07241377"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-09-09 收录/发布：A Study in Healthy Adults to Compare the Bioavailability of EPA + DHA From Two Microalgal Sources to One Fish Source and Placebo",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.4,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：A Study in Healthy Adults to Compare the Bioavailability of EPA + DHA From Two Microalgal Sources to One Fish Source and Placebo",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07241377",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-21T06:49:15.717951+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          }
+        ],
+        "topItemIds": [
+          "pubmed-engineering-ovarian-asymmetric-mechanical-niches-in-a-dual-layer-micro",
+          "clinicaltrials-gov-autonomic-and-peripheral-neurochemical-responses-to-maximal-rowing-exe",
+          "clinicaltrials-gov-collection-and-distribution-of-blood-components-from-healthy-donors-fo",
+          "clinicaltrials-gov-change-in-serum-biomarkers-after-endovascular-treatment-for-acute-ante",
+          "crossref-human-small-intestinal-organoids-differentiation-protocols-towards-all",
+          "crossref-the-ifip-wg5-7-service-systems-special-interest-group-renewed-research",
+          "crossref-impact-of-a-digital-mindfulness-and-motor-imagery-intervention-on-pain",
+          "crossref-obstacles-and-opportunities-for-the-repair-cycle-for-cells-and-electro",
+          "crossref-from-disruption-to-decision-toward-resilient-integrated-process-plann",
+          "crossref-сравнительный-анализ-воспалительной-реакции-после-имплантации-биологич"
+        ],
+        "coverage": [
+          {
+            "sourceId": "automated-weekly-pipeline",
+            "status": "ok",
+            "attempts": 1,
+            "checkedAt": "2026-09-21T06:49:15.703527+00:00",
+            "itemCount": 14,
+            "recordErrors": 0,
+            "pageErrors": 0,
+            "recencyWindowDays": 14
+          }
+        ],
+        "publishedAt": "2026-09-21T06:49:15.703527+00:00"
       }
     }
   ]

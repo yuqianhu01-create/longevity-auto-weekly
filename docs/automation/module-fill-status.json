@@ -172,6 +172,23 @@
         "health-food-competitors": 4,
         "food-ingredients": 5
       }
+    },
+    {
+      "week": "2026-W39",
+      "itemCount": 14,
+      "moduleCounts": {
+        "academic-frontier": 1,
+        "industry-progress": 0,
+        "health-food-competitors": 4,
+        "food-ingredients": 0,
+        "ai-applications": 9
+      },
+      "belowMinimum": {
+        "academic-frontier": 4,
+        "industry-progress": 5,
+        "health-food-competitors": 1,
+        "food-ingredients": 5
+      }
     }
   ]
 }
