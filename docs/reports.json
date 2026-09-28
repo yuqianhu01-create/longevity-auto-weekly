@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T06:49:15.703527+00:00",
+  "generatedAt": "2026-09-28T07:22:14.773762+00:00",
   "reports": [
     {
       "entry": {
@@ -11727,6 +11727,636 @@
           }
         ],
         "publishedAt": "2026-09-21T06:49:15.703527+00:00"
+      }
+    },
+    {
+      "entry": {
+        "id": "2026-W40-auto-202609280722",
+        "week": "2026-W40",
+        "issue": 40,
+        "issueLabel": "第40期",
+        "status": "published",
+        "path": "published/2026-W40-auto-202609280722.json",
+        "generatedAt": "2026-09-28T07:22:14.773762+00:00",
+        "publishedAt": "2026-09-28T07:22:14.773762+00:00"
+      },
+      "report": {
+        "schemaVersion": 1,
+        "week": "2026-W40",
+        "issue": 40,
+        "issueLabel": "第40期",
+        "status": "published",
+        "period": {
+          "from": "2026-09-28",
+          "to": "2026-10-04"
+        },
+        "generatedAt": "2026-09-28T07:22:14.773762+00:00",
+        "judgement": "自动采集、自动去重、自动分类和自动发布；读者只需浏览正式周报并提取有用信息。",
+        "opportunities": [],
+        "risks": [],
+        "actions": [],
+        "moduleOrder": [
+          "academic-frontier",
+          "industry-progress",
+          "health-food-competitors",
+          "food-ingredients",
+          "ai-applications"
+        ],
+        "items": [
+          {
+            "id": "crossref-industry-voices-on-ai-operationalization-uncovering-socio-technical-b",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Industry Voices on AI Operationalization: Uncovering Socio-Technical Barriers and Implications in Manufacturing",
+            "titleZh": "Industry Voices on AI Operationalization: Uncovering Socio-Technical Barriers and Implications in Manufacturing",
+            "url": "https://doi.org/10.1007/978-3-032-38618-2_3",
+            "publishedAt": "2026-09-28T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1007/978-3-032-38618-2_3"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-28 收录/发布：Industry Voices on AI Operationalization: Uncovering Socio-Technical Barriers and Implications in Manufacturing",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Industry Voices on AI Operationalization: Uncovering Socio-Technical Barriers and Implications in Manufacturing",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1007/978-3-032-38618-2_3",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-28T07:22:14.781996+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-when-avatars-debate-design-and-evaluation-of-an-llm-based-debate-plat",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "When Avatars Debate: Design and Evaluation of an LLM-Based Debate Platform for Educational Applications",
+            "titleZh": "When Avatars Debate: Design and Evaluation of an LLM-Based Debate Platform for Educational Applications",
+            "url": "https://doi.org/10.1007/978-3-032-38618-2_14",
+            "publishedAt": "2026-09-28T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1007/978-3-032-38618-2_14"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-28 收录/发布：When Avatars Debate: Design and Evaluation of an LLM-Based Debate Platform for Educational Applications",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：When Avatars Debate: Design and Evaluation of an LLM-Based Debate Platform for Educational Applications",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1007/978-3-032-38618-2_14",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-28T07:22:14.782032+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-enabling-extended-reach-coiled-tubing-interventions-in-long-horizontal",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Enabling Extended Reach Coiled Tubing Interventions in Long Horizontal Wells Using Offshore Butt-Weld and Downhole Tractor Technology",
+            "titleZh": "Enabling Extended Reach Coiled Tubing Interventions in Long Horizontal Wells Using Offshore Butt-Weld and Downhole Tractor Technology",
+            "url": "https://doi.org/10.2118/234310-ms",
+            "publishedAt": "2026-09-28T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.2118/234310-ms"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-28 收录/发布：Enabling Extended Reach Coiled Tubing Interventions in Long Horizontal Wells Using Offshore Butt-Weld and Downhole Tractor Technology",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Enabling Extended Reach Coiled Tubing Interventions in Long Horizontal Wells Using Offshore Butt-Weld and Downhole Tractor Technology",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.2118/234310-ms",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-28T07:22:14.782059+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-the-effects-of-alpha-theta-eeg-biofeedback-training-on-anxiety-and-str",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "The Effects of Alpha-Theta EEG Biofeedback Training on Anxiety and Stress: Novel Use of Hair Cortisol Concentration as a Biomarker",
+            "titleZh": "The Effects of Alpha-Theta EEG Biofeedback Training on Anxiety and Stress: Novel Use of Hair Cortisol Concentration as a Biomarker",
+            "url": "https://doi.org/10.15540/nr.13.3.220",
+            "publishedAt": "2026-09-28T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.15540/nr.13.3.220"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-28 收录/发布：The Effects of Alpha-Theta EEG Biofeedback Training on Anxiety and Stress: Novel Use of Hair Cortisol Concentration as a Biomarker",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：The Effects of Alpha-Theta EEG Biofeedback Training on Anxiety and Stress: Novel Use of Hair Cortisol Concentration as a Biomarker",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.15540/nr.13.3.220",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-28T07:22:14.782083+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-اسلام-اور-اعتدال-پسندی-کا-انسانی-زندگی-پر-اثر-ایک-اہم-مطالعہ-islam-an",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "اسلام اور اعتدال پسندی کا انسانی زندگی پر اثر: ایک اہم مطالعہ ISLAM AND MODERATIONITS IMPACT ON HUMAN LIFE: A CRITICAL STUDY\n\t\t\t\t\t\t\t| Harf-o-sukhan",
+            "titleZh": "اسلام اور اعتدال پسندی کا انسانی زندگی پر اثر: ایک اہم مطالعہ ISLAM AND MODERATIONITS IMPACT ON HUMAN LIFE: A CRITICAL STUDY\n\t\t\t\t\t\t\t| Harf-o-sukhan",
+            "url": "https://doi.org/10.66857/har6-0525",
+            "publishedAt": "2026-09-28T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.66857/har6-0525"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-28 收录/发布：اسلام اور اعتدال پسندی کا انسانی زندگی پر اثر: ایک اہم مطالعہ ISLAM AND MODERATIONITS IMPACT ON HUMAN LIFE: A CRITICAL STUDY\n\t\t\t\t\t\t\t| Harf-o-sukhan",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：اسلام اور اعتدال پسندی کا انسانی زندگی پر اثر: ایک اہم مطالعہ ISLAM AND MODERATIONITS IMPACT ON HUMAN LIFE: A CRITICAL STUDY\n\t\t\t\t\t\t\t| Harf-o-sukhan",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.66857/har6-0525",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-28T07:22:14.782112+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-saving-jena-august-december-1803",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Saving Jena: August–December 1803",
+            "titleZh": "Saving Jena: August–December 1803",
+            "url": "https://doi.org/10.1093/9780198980643.003.0003",
+            "publishedAt": "2026-09-28T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1093/9780198980643.003.0003"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-28 收录/发布：Saving Jena: August–December 1803",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Saving Jena: August–December 1803",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1093/9780198980643.003.0003",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-28T07:22:14.782131+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-embedded-audio-event-recognition-architecture-trade-offs-for-real-tim",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Embedded Audio Event Recognition: Architecture Trade-Offs for Real-Time Inference on Resource-Constrained Platforms",
+            "titleZh": "Embedded Audio Event Recognition: Architecture Trade-Offs for Real-Time Inference on Resource-Constrained Platforms",
+            "url": "https://doi.org/10.1007/978-3-032-39518-4_34",
+            "publishedAt": "2026-09-28T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1007/978-3-032-39518-4_34"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-28 收录/发布：Embedded Audio Event Recognition: Architecture Trade-Offs for Real-Time Inference on Resource-Constrained Platforms",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Embedded Audio Event Recognition: Architecture Trade-Offs for Real-Time Inference on Resource-Constrained Platforms",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1007/978-3-032-39518-4_34",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-28T07:22:14.782152+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-efficient-polyp-segmentation-via-low-rank-adaptation-a-cross-dataset",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Efficient Polyp Segmentation via Low-Rank Adaptation: A Cross-Dataset Study on Colonoscopy Images",
+            "titleZh": "Efficient Polyp Segmentation via Low-Rank Adaptation: A Cross-Dataset Study on Colonoscopy Images",
+            "url": "https://doi.org/10.1007/978-3-032-39518-4_40",
+            "publishedAt": "2026-09-28T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1007/978-3-032-39518-4_40"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-09-28 收录/发布：Efficient Polyp Segmentation via Low-Rank Adaptation: A Cross-Dataset Study on Colonoscopy Images",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Efficient Polyp Segmentation via Low-Rank Adaptation: A Cross-Dataset Study on Colonoscopy Images",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1007/978-3-032-39518-4_40",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-28T07:22:14.782186+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-combination-probiotic-bb-12-with-lgg-different-doses-in-treating-ch",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "health-food-competitors"
+            ],
+            "primaryModuleId": "health-food-competitors",
+            "titleOriginal": "Combination Probiotic: BB-12 With LGG (Different Doses) in Treating Children With Autism Spectrum Disorder",
+            "titleZh": "Combination Probiotic: BB-12 With LGG (Different Doses) in Treating Children With Autism Spectrum Disorder",
+            "url": "https://clinicaltrials.gov/study/NCT03514784",
+            "publishedAt": "2026-09-14T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT03514784"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-09-14 收录/发布：Combination Probiotic: BB-12 With LGG (Different Doses) in Treating Children With Autism Spectrum Disorder",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.3,
+              "actionability": 8.4
+            },
+            "significance": "更新企业/品牌池，记录产品、原料、功效宣称、证据与渠道动作：Combination Probiotic: BB-12 With LGG (Different Doses) in Treating Children With Autism Spectrum Disorder",
+            "recommendedAction": "更新企业档案，记录品牌、产品、成分、功效宣称、证据等级和商业动作。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT03514784",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-28T07:22:14.782246+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-alt001-in-patients-with-ischemic-stroke-in-the-sequelae-stage",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "industry-progress"
+            ],
+            "primaryModuleId": "industry-progress",
+            "titleOriginal": "ALT001 in Patients With Ischemic Stroke in the Sequelae Stage",
+            "titleZh": "ALT001 in Patients With Ischemic Stroke in the Sequelae Stage",
+            "url": "https://clinicaltrials.gov/study/NCT07841496",
+            "publishedAt": "2026-09-25T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07841496"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-09-25 收录/发布：ALT001 in Patients With Ischemic Stroke in the Sequelae Stage",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "提取原料名称、剂量、规范、安全性和人体证据设计，判断是否值得进入原料库：ALT001 in Patients With Ischemic Stroke in the Sequelae Stage",
+            "recommendedAction": "整理原料名、适用人群、剂量、法规状态和证据设计，标注是否可进入后续深挖。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07841496",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-09-28T07:22:14.782355+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "food-ingredients"
+            ]
+          }
+        ],
+        "topItemIds": [
+          "clinicaltrials-gov-alt001-in-patients-with-ischemic-stroke-in-the-sequelae-stage",
+          "crossref-industry-voices-on-ai-operationalization-uncovering-socio-technical-b",
+          "crossref-when-avatars-debate-design-and-evaluation-of-an-llm-based-debate-plat",
+          "crossref-enabling-extended-reach-coiled-tubing-interventions-in-long-horizontal",
+          "crossref-the-effects-of-alpha-theta-eeg-biofeedback-training-on-anxiety-and-str",
+          "crossref-اسلام-اور-اعتدال-پسندی-کا-انسانی-زندگی-پر-اثر-ایک-اہم-مطالعہ-islam-an",
+          "crossref-saving-jena-august-december-1803",
+          "crossref-embedded-audio-event-recognition-architecture-trade-offs-for-real-tim",
+          "crossref-efficient-polyp-segmentation-via-low-rank-adaptation-a-cross-dataset",
+          "clinicaltrials-gov-combination-probiotic-bb-12-with-lgg-different-doses-in-treating-ch"
+        ],
+        "coverage": [
+          {
+            "sourceId": "automated-weekly-pipeline",
+            "status": "ok",
+            "attempts": 1,
+            "checkedAt": "2026-09-28T07:22:14.773762+00:00",
+            "itemCount": 10,
+            "recordErrors": 0,
+            "pageErrors": 0,
+            "recencyWindowDays": 14
+          }
+        ],
+        "publishedAt": "2026-09-28T07:22:14.773762+00:00"
       }
     }
   ]
