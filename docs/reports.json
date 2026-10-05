@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T07:22:14.773762+00:00",
+  "generatedAt": "2026-10-05T07:28:43.131272+00:00",
   "reports": [
     {
       "entry": {
@@ -12357,6 +12357,1078 @@
           }
         ],
         "publishedAt": "2026-09-28T07:22:14.773762+00:00"
+      }
+    },
+    {
+      "entry": {
+        "id": "2026-W41-auto-202610050728",
+        "week": "2026-W41",
+        "issue": 41,
+        "issueLabel": "第41期",
+        "status": "published",
+        "path": "published/2026-W41-auto-202610050728.json",
+        "generatedAt": "2026-10-05T07:28:43.131272+00:00",
+        "publishedAt": "2026-10-05T07:28:43.131272+00:00"
+      },
+      "report": {
+        "schemaVersion": 1,
+        "week": "2026-W41",
+        "issue": 41,
+        "issueLabel": "第41期",
+        "status": "published",
+        "period": {
+          "from": "2026-10-05",
+          "to": "2026-10-11"
+        },
+        "generatedAt": "2026-10-05T07:28:43.131272+00:00",
+        "judgement": "自动采集、自动去重、自动分类和自动发布；读者只需浏览正式周报并提取有用信息。",
+        "opportunities": [],
+        "risks": [],
+        "actions": [],
+        "moduleOrder": [
+          "academic-frontier",
+          "industry-progress",
+          "health-food-competitors",
+          "food-ingredients",
+          "ai-applications"
+        ],
+        "items": [
+          {
+            "id": "crossref-dual-channel-phoxonic-biosensor-for-alzheimer-s-blood-biomarker-finger",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Dual-Channel Phoxonic Biosensor for Alzheimer’s Blood Biomarker Fingerprinting Using Coupled Optical and Acoustic Defect Modes",
+            "titleZh": "Dual-Channel Phoxonic Biosensor for Alzheimer’s Blood Biomarker Fingerprinting Using Coupled Optical and Acoustic Defect Modes",
+            "url": "https://doi.org/10.1007/s11220-026-00894-5",
+            "publishedAt": "2026-10-05T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1007/s11220-026-00894-5"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-05 收录/发布：Dual-Channel Phoxonic Biosensor for Alzheimer’s Blood Biomarker Fingerprinting Using Coupled Optical and Acoustic Defect Modes",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Dual-Channel Phoxonic Biosensor for Alzheimer’s Blood Biomarker Fingerprinting Using Coupled Optical and Acoustic Defect Modes",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1007/s11220-026-00894-5",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-05T07:28:43.145631+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-grounding-trust-in-human-agent-interaction-a-systematic-literature-re",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Grounding Trust in Human-Agent Interaction: A Systematic Literature Review of Data-driven Trust Assessment Methods",
+            "titleZh": "Grounding Trust in Human-Agent Interaction: A Systematic Literature Review of Data-driven Trust Assessment Methods",
+            "url": "https://doi.org/10.1145/3776591.3836637",
+            "publishedAt": "2026-10-05T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1145/3776591.3836637"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-05 收录/发布：Grounding Trust in Human-Agent Interaction: A Systematic Literature Review of Data-driven Trust Assessment Methods",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Grounding Trust in Human-Agent Interaction: A Systematic Literature Review of Data-driven Trust Assessment Methods",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1145/3776591.3836637",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-05T07:28:43.145692+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-adaptive-human-ai-collaboration-a-review-of-multimodal-context-modeli",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Adaptive Human-AI Collaboration: A Review of Multimodal Context Modeling, Uncertainty-Aware Intervention, and Longitudinal Co-Adaptation",
+            "titleZh": "Adaptive Human-AI Collaboration: A Review of Multimodal Context Modeling, Uncertainty-Aware Intervention, and Longitudinal Co-Adaptation",
+            "url": "https://doi.org/10.1145/3776591.3837048",
+            "publishedAt": "2026-10-05T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1145/3776591.3837048"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-05 收录/发布：Adaptive Human-AI Collaboration: A Review of Multimodal Context Modeling, Uncertainty-Aware Intervention, and Longitudinal Co-Adaptation",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Adaptive Human-AI Collaboration: A Review of Multimodal Context Modeling, Uncertainty-Aware Intervention, and Longitudinal Co-Adaptation",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1145/3776591.3837048",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-05T07:28:43.145738+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-is-bad-handwriting-really-bad-multimodal-human-ai-interpretation-of-i",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Is Bad Handwriting Really Bad? Multimodal Human–AI Interpretation of Illegible Handwriting in Palliative Care",
+            "titleZh": "Is Bad Handwriting Really Bad? Multimodal Human–AI Interpretation of Illegible Handwriting in Palliative Care",
+            "url": "https://doi.org/10.1145/3776591.3832517",
+            "publishedAt": "2026-10-05T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1145/3776591.3832517"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-05 收录/发布：Is Bad Handwriting Really Bad? Multimodal Human–AI Interpretation of Illegible Handwriting in Palliative Care",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Is Bad Handwriting Really Bad? Multimodal Human–AI Interpretation of Illegible Handwriting in Palliative Care",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1145/3776591.3832517",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-05T07:28:43.145784+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-human-papillomavirus-self-sampling-for-cervical-cancer-screening-in-po",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Human papillomavirus self-sampling for cervical cancer screening in Portugal: a mixed-methods acceptability study among socially vulnerable migrant women",
+            "titleZh": "Human papillomavirus self-sampling for cervical cancer screening in Portugal: a mixed-methods acceptability study among socially vulnerable migrant women",
+            "url": "https://doi.org/10.1186/s12978-026-02460-4",
+            "publishedAt": "2026-10-05T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1186/s12978-026-02460-4"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-05 收录/发布：Human papillomavirus self-sampling for cervical cancer screening in Portugal: a mixed-methods acceptability study among socially vulnerable migrant women",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Human papillomavirus self-sampling for cervical cancer screening in Portugal: a mixed-methods acceptability study among socially vulnerable migrant women",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1186/s12978-026-02460-4",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-05T07:28:43.145831+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-introduction-really-big-plans-ca-1959",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Introduction Really Big Plans, ca. 1959",
+            "titleZh": "Introduction Really Big Plans, ca. 1959",
+            "url": "https://doi.org/10.1515/9783035631418-001",
+            "publishedAt": "2026-10-05T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1515/9783035631418-001"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-05 收录/发布：Introduction Really Big Plans, ca. 1959",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Introduction Really Big Plans, ca. 1959",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1515/9783035631418-001",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-05T07:28:43.146000+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-global-embrace",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Global Embrace",
+            "titleZh": "Global Embrace",
+            "url": "https://doi.org/10.1515/9783689243180-009",
+            "publishedAt": "2026-10-05T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1515/9783689243180-009"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-05 收录/发布：Global Embrace",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Global Embrace",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1515/9783689243180-009",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-05T07:28:43.146028+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-respiratory-morbidity-at-age-4-across-covid-19-and-pre-pandemic-birth",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Respiratory morbidity at age 4 across COVID-19 and pre-pandemic birth cohorts: the role of atopic risk",
+            "titleZh": "Respiratory morbidity at age 4 across COVID-19 and pre-pandemic birth cohorts: the role of atopic risk",
+            "url": "https://doi.org/10.1007/s00431-026-07394-4",
+            "publishedAt": "2026-10-05T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1007/s00431-026-07394-4"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-05 收录/发布：Respiratory morbidity at age 4 across COVID-19 and pre-pandemic birth cohorts: the role of atopic risk",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Respiratory morbidity at age 4 across COVID-19 and pre-pandemic birth cohorts: the role of atopic risk",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1007/s00431-026-07394-4",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-05T07:28:43.146095+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-a-study-to-evaluate-adverse-events-change-in-disease-activity-tolera",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "industry-progress"
+            ],
+            "primaryModuleId": "industry-progress",
+            "titleOriginal": "A Study to Evaluate Adverse Events, Change in Disease Activity, Tolerability, and How Intravenous ABBV-438 Moves Through the Body in Adult Participants With Multiple Myeloma (MM)",
+            "titleZh": "A Study to Evaluate Adverse Events, Change in Disease Activity, Tolerability, and How Intravenous ABBV-438 Moves Through the Body in Adult Participants With Multiple Myeloma (MM)",
+            "url": "https://clinicaltrials.gov/study/NCT07409246",
+            "publishedAt": "2026-09-29T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07409246"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-09-29 收录/发布：A Study to Evaluate Adverse Events, Change in Disease Activity, Tolerability, and How Intravenous ABBV-438 Moves Through the Body in Adult Participants With Multiple Myeloma (MM)",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.8,
+              "actionability": 8.4
+            },
+            "significance": "提取原料名称、剂量、规范、安全性和人体证据设计，判断是否值得进入原料库：A Study to Evaluate Adverse Events, Change in Disease Activity, Tolerability, and How Intravenous ABBV-438 Moves Through the Body in Adult Participants With Multiple Myeloma (MM)",
+            "recommendedAction": "整理原料名、适用人群、剂量、法规状态和证据设计，标注是否可进入后续深挖。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07409246",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-05T07:28:43.147683+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "food-ingredients"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-study-of-larotinib-in-unresectable-advanced-or-recurrent-esophageal-ca",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "industry-progress"
+            ],
+            "primaryModuleId": "industry-progress",
+            "titleOriginal": "Study of Larotinib in Unresectable Advanced or Recurrent Esophageal Cancer",
+            "titleZh": "Study of Larotinib in Unresectable Advanced or Recurrent Esophageal Cancer",
+            "url": "https://clinicaltrials.gov/study/NCT04415853",
+            "publishedAt": "2026-09-28T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT04415853"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-09-28 收录/发布：Study of Larotinib in Unresectable Advanced or Recurrent Esophageal Cancer",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.7,
+              "actionability": 8.4
+            },
+            "significance": "提取原料名称、剂量、规范、安全性和人体证据设计，判断是否值得进入原料库：Study of Larotinib in Unresectable Advanced or Recurrent Esophageal Cancer",
+            "recommendedAction": "整理原料名、适用人群、剂量、法规状态和证据设计，标注是否可进入后续深挖。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT04415853",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-05T07:28:43.147427+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "food-ingredients"
+            ]
+          },
+          {
+            "id": "arxiv-rnadyn-a-benchmark-for-generating-and-understanding-rna-dynamics",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "RNADyn: A Benchmark for Generating and Understanding RNA Dynamics",
+            "titleZh": "RNADyn: A Benchmark for Generating and Understanding RNA Dynamics",
+            "url": "http://arxiv.org/abs/2610.03712v1",
+            "publishedAt": "2026-10-02T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.03712v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-02 收录/发布：RNADyn: A Benchmark for Generating and Understanding RNA Dynamics",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：RNADyn: A Benchmark for Generating and Understanding RNA Dynamics",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.03712v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-05T07:28:43.145858+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-does-a-mortality-schedule-need-a-makeham-term-calibrating-the-likelih",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Does a mortality schedule need a Makeham term? Calibrating the likelihood-ratio test",
+            "titleZh": "Does a mortality schedule need a Makeham term? Calibrating the likelihood-ratio test",
+            "url": "http://arxiv.org/abs/2610.03685v1",
+            "publishedAt": "2026-10-02T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.03685v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-02 收录/发布：Does a mortality schedule need a Makeham term? Calibrating the likelihood-ratio test",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Does a mortality schedule need a Makeham term? Calibrating the likelihood-ratio test",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.03685v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-05T07:28:43.145883+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-broken-scale-symmetries-in-undercomplete-linear-autoencoders",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Broken scale symmetries in undercomplete linear autoencoders",
+            "titleZh": "Broken scale symmetries in undercomplete linear autoencoders",
+            "url": "http://arxiv.org/abs/2610.03640v1",
+            "publishedAt": "2026-10-02T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.03640v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-02 收录/发布：Broken scale symmetries in undercomplete linear autoencoders",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Broken scale symmetries in undercomplete linear autoencoders",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.03640v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-05T07:28:43.145910+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-contrastive-neural-embeddings-reveal-individual-traits-beyond-conversa",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Contrastive Neural Embeddings Reveal Individual Traits Beyond Conversational Role",
+            "titleZh": "Contrastive Neural Embeddings Reveal Individual Traits Beyond Conversational Role",
+            "url": "http://arxiv.org/abs/2610.03410v1",
+            "publishedAt": "2026-10-02T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.03410v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-02 收录/发布：Contrastive Neural Embeddings Reveal Individual Traits Beyond Conversational Role",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Contrastive Neural Embeddings Reveal Individual Traits Beyond Conversational Role",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.03410v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-05T07:28:43.145939+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-multimodal-reasoning-for-broadly-neutralizing-antibody-discovery-from",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Multimodal reasoning for broadly neutralizing antibody discovery from label-free human B cell repertoires across virus families",
+            "titleZh": "Multimodal reasoning for broadly neutralizing antibody discovery from label-free human B cell repertoires across virus families",
+            "url": "http://arxiv.org/abs/2610.03160v1",
+            "publishedAt": "2026-10-02T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.03160v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-02 收录/发布：Multimodal reasoning for broadly neutralizing antibody discovery from label-free human B cell repertoires across virus families",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Multimodal reasoning for broadly neutralizing antibody discovery from label-free human B cell repertoires across virus families",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.03160v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-05T07:28:43.145964+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-from-mixing-to-tearing-graph-decomposition-in-decentralized-optimizat",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing",
+            "titleZh": "From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing",
+            "url": "http://arxiv.org/abs/2610.03709v1",
+            "publishedAt": "2026-10-02T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.03709v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-02 收录/发布：From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.03709v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-05T07:28:43.146209+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-transcriptome-informed-multi-modal-ai-for-predicting-neoadjuvant-thera",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Transcriptome-informed multi-modal AI for predicting neoadjuvant therapy response from breast cancer biopsies",
+            "titleZh": "Transcriptome-informed multi-modal AI for predicting neoadjuvant therapy response from breast cancer biopsies",
+            "url": "http://arxiv.org/abs/2610.03693v1",
+            "publishedAt": "2026-10-02T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.03693v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-02 收录/发布：Transcriptome-informed multi-modal AI for predicting neoadjuvant therapy response from breast cancer biopsies",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Transcriptome-informed multi-modal AI for predicting neoadjuvant therapy response from breast cancer biopsies",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.03693v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-05T07:28:43.146237+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-universal-bounds-for-out-of-distribution-unitary-learning",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Universal Bounds for Out-of-Distribution Unitary Learning",
+            "titleZh": "Universal Bounds for Out-of-Distribution Unitary Learning",
+            "url": "http://arxiv.org/abs/2610.03690v1",
+            "publishedAt": "2026-10-02T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.03690v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-02 收录/发布：Universal Bounds for Out-of-Distribution Unitary Learning",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Universal Bounds for Out-of-Distribution Unitary Learning",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.03690v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-05T07:28:43.146260+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          }
+        ],
+        "topItemIds": [
+          "crossref-dual-channel-phoxonic-biosensor-for-alzheimer-s-blood-biomarker-finger",
+          "crossref-grounding-trust-in-human-agent-interaction-a-systematic-literature-re",
+          "crossref-adaptive-human-ai-collaboration-a-review-of-multimodal-context-modeli",
+          "crossref-is-bad-handwriting-really-bad-multimodal-human-ai-interpretation-of-i",
+          "crossref-human-papillomavirus-self-sampling-for-cervical-cancer-screening-in-po",
+          "crossref-introduction-really-big-plans-ca-1959",
+          "crossref-global-embrace",
+          "crossref-respiratory-morbidity-at-age-4-across-covid-19-and-pre-pandemic-birth",
+          "clinicaltrials-gov-a-study-to-evaluate-adverse-events-change-in-disease-activity-tolera",
+          "clinicaltrials-gov-study-of-larotinib-in-unresectable-advanced-or-recurrent-esophageal-ca"
+        ],
+        "coverage": [
+          {
+            "sourceId": "automated-weekly-pipeline",
+            "status": "ok",
+            "attempts": 1,
+            "checkedAt": "2026-10-05T07:28:43.131272+00:00",
+            "itemCount": 18,
+            "recordErrors": 0,
+            "pageErrors": 0,
+            "recencyWindowDays": 14
+          }
+        ],
+        "publishedAt": "2026-10-05T07:28:43.131272+00:00"
       }
     }
   ]
