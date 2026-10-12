@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T07:28:43.131272+00:00",
+  "generatedAt": "2026-10-12T07:46:42.698795+00:00",
   "reports": [
     {
       "entry": {
@@ -13429,6 +13429,1074 @@
           }
         ],
         "publishedAt": "2026-10-05T07:28:43.131272+00:00"
+      }
+    },
+    {
+      "entry": {
+        "id": "2026-W42-auto-202610120746",
+        "week": "2026-W42",
+        "issue": 42,
+        "issueLabel": "第42期",
+        "status": "published",
+        "path": "published/2026-W42-auto-202610120746.json",
+        "generatedAt": "2026-10-12T07:46:42.698795+00:00",
+        "publishedAt": "2026-10-12T07:46:42.698795+00:00"
+      },
+      "report": {
+        "schemaVersion": 1,
+        "week": "2026-W42",
+        "issue": 42,
+        "issueLabel": "第42期",
+        "status": "published",
+        "period": {
+          "from": "2026-10-12",
+          "to": "2026-10-18"
+        },
+        "generatedAt": "2026-10-12T07:46:42.698795+00:00",
+        "judgement": "自动采集、自动去重、自动分类和自动发布；读者只需浏览正式周报并提取有用信息。",
+        "opportunities": [],
+        "risks": [],
+        "actions": [],
+        "moduleOrder": [
+          "academic-frontier",
+          "industry-progress",
+          "health-food-competitors",
+          "food-ingredients",
+          "ai-applications"
+        ],
+        "items": [
+          {
+            "id": "crossref-ion-channels-and-morphology-drive-widespread-resonance-in-human-cortic",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Ion Channels and Morphology Drive Widespread Resonance in Human Cortical Interneurons",
+            "titleZh": "Ion Channels and Morphology Drive Widespread Resonance in Human Cortical Interneurons",
+            "url": "https://doi.org/10.21203/rs.3.rs-11136357/v1",
+            "publishedAt": "2026-10-12T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.21203/rs.3.rs-11136357/v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-12 收录/发布：Ion Channels and Morphology Drive Widespread Resonance in Human Cortical Interneurons",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Ion Channels and Morphology Drive Widespread Resonance in Human Cortical Interneurons",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.21203/rs.3.rs-11136357/v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-12T07:46:42.714386+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-effect-of-a-potassium-competitive-acid-blocker-on-the-gut-microbiota-i",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Effect of a potassium-competitive acid blocker on the gut microbiota in patients undergoing percutaneous coronary intervention: a randomized pilot study",
+            "titleZh": "Effect of a potassium-competitive acid blocker on the gut microbiota in patients undergoing percutaneous coronary intervention: a randomized pilot study",
+            "url": "https://doi.org/10.3389/fcimb.2026.1942212",
+            "publishedAt": "2026-10-12T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.3389/fcimb.2026.1942212"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-12 收录/发布：Effect of a potassium-competitive acid blocker on the gut microbiota in patients undergoing percutaneous coronary intervention: a randomized pilot study",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Effect of a potassium-competitive acid blocker on the gut microbiota in patients undergoing percutaneous coronary intervention: a randomized pilot study",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.3389/fcimb.2026.1942212",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-12T07:46:42.714453+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-il-33-st2-signalling-in-pediatric-food-allergy-and-eosinophilic-gastro",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "IL-33/ST2 signalling in pediatric food allergy and eosinophilic gastrointestinal disorders: a systematic review of human and preclinical evidence",
+            "titleZh": "IL-33/ST2 signalling in pediatric food allergy and eosinophilic gastrointestinal disorders: a systematic review of human and preclinical evidence",
+            "url": "https://doi.org/10.3389/fimmu.2026.1961426",
+            "publishedAt": "2026-10-12T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.3389/fimmu.2026.1961426"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-12 收录/发布：IL-33/ST2 signalling in pediatric food allergy and eosinophilic gastrointestinal disorders: a systematic review of human and preclinical evidence",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：IL-33/ST2 signalling in pediatric food allergy and eosinophilic gastrointestinal disorders: a systematic review of human and preclinical evidence",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.3389/fimmu.2026.1961426",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-12T07:46:42.714504+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-effects-of-an-eight-week-mindfulness-informed-psychoeducational-interv",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Effects of an eight-week mindfulness-informed psychoeducational intervention delivered during physical education lessons on self-reported aggression and impulsivity in adolescents",
+            "titleZh": "Effects of an eight-week mindfulness-informed psychoeducational intervention delivered during physical education lessons on self-reported aggression and impulsivity in adolescents",
+            "url": "https://doi.org/10.3389/fpsyg.2026.1958309",
+            "publishedAt": "2026-10-12T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.3389/fpsyg.2026.1958309"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-12 收录/发布：Effects of an eight-week mindfulness-informed psychoeducational intervention delivered during physical education lessons on self-reported aggression and impulsivity in adolescents",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Effects of an eight-week mindfulness-informed psychoeducational intervention delivered during physical education lessons on self-reported aggression and impulsivity in adolescents",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.3389/fpsyg.2026.1958309",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-12T07:46:42.714556+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-advances-in-human-activity-recognition-system-through-computer-vision",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Advances in Human Activity Recognition System Through Computer Vision Using CNN, 2D, 3D-CNN AND LSTM Model",
+            "titleZh": "Advances in Human Activity Recognition System Through Computer Vision Using CNN, 2D, 3D-CNN AND LSTM Model",
+            "url": "https://doi.org/10.1201/9781042035762-149",
+            "publishedAt": "2026-10-12T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1201/9781042035762-149"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-12 收录/发布：Advances in Human Activity Recognition System Through Computer Vision Using CNN, 2D, 3D-CNN AND LSTM Model",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Advances in Human Activity Recognition System Through Computer Vision Using CNN, 2D, 3D-CNN AND LSTM Model",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1201/9781042035762-149",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-12T07:46:42.714601+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-changes-in-spinal-injection-utilization-in-korea-a-nationwide-compara",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Changes in Spinal Injection Utilization in Korea: A Nationwide Comparative Study of Two Observation Periods (2008–2012 and 2018–2022)",
+            "titleZh": "Changes in Spinal Injection Utilization in Korea: A Nationwide Comparative Study of Two Observation Periods (2008–2012 and 2018–2022)",
+            "url": "https://doi.org/10.21129/nerve.2026.00990",
+            "publishedAt": "2026-10-12T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.21129/nerve.2026.00990"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-12 收录/发布：Changes in Spinal Injection Utilization in Korea: A Nationwide Comparative Study of Two Observation Periods (2008–2012 and 2018–2022)",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Changes in Spinal Injection Utilization in Korea: A Nationwide Comparative Study of Two Observation Periods (2008–2012 and 2018–2022)",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.21129/nerve.2026.00990",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-12T07:46:42.714808+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-uric-acid-to-albumin-ratio-and-all-cause-mortality-in-dilated-cardiomy",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Uric acid-to-albumin ratio and all-cause mortality in dilated cardiomyopathy: a cohort-based prognostic analysis",
+            "titleZh": "Uric acid-to-albumin ratio and all-cause mortality in dilated cardiomyopathy: a cohort-based prognostic analysis",
+            "url": "https://doi.org/10.1186/s12872-026-06731-7",
+            "publishedAt": "2026-10-12T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1186/s12872-026-06731-7"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-12 收录/发布：Uric acid-to-albumin ratio and all-cause mortality in dilated cardiomyopathy: a cohort-based prognostic analysis",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Uric acid-to-albumin ratio and all-cause mortality in dilated cardiomyopathy: a cohort-based prognostic analysis",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1186/s12872-026-06731-7",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-12T07:46:42.714850+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-igvfds2844enzy",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "IGVFDS2844ENZY",
+            "titleZh": "IGVFDS2844ENZY",
+            "url": "https://doi.org/10.65695/igvfds2844enzy",
+            "publishedAt": "2026-10-12T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.65695/igvfds2844enzy"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-12 收录/发布：IGVFDS2844ENZY",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：IGVFDS2844ENZY",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.65695/igvfds2844enzy",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-12T07:46:42.714884+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-outcome-inference-in-the-sensory-preconditioning-task-in-opioid-use-di",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "health-food-competitors"
+            ],
+            "primaryModuleId": "health-food-competitors",
+            "titleOriginal": "Outcome Inference in the Sensory Preconditioning Task in Opioid-Use Disorder",
+            "titleZh": "Outcome Inference in the Sensory Preconditioning Task in Opioid-Use Disorder",
+            "url": "https://clinicaltrials.gov/study/NCT03745339",
+            "publishedAt": "2026-10-02T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT03745339"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-10-02 收录/发布：Outcome Inference in the Sensory Preconditioning Task in Opioid-Use Disorder",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.5,
+              "actionability": 8.4
+            },
+            "significance": "更新企业/品牌池，记录产品、原料、功效宣称、证据与渠道动作：Outcome Inference in the Sensory Preconditioning Task in Opioid-Use Disorder",
+            "recommendedAction": "更新企业档案，记录品牌、产品、成分、功效宣称、证据等级和商业动作。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT03745339",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-12T07:46:42.714963+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-markers-of-bone-destruction-and-oxidative-stress-in-peri-implantitis",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "health-food-competitors"
+            ],
+            "primaryModuleId": "health-food-competitors",
+            "titleOriginal": "Markers of Bone Destruction and Oxidative Stress in Peri-implantitis",
+            "titleZh": "Markers of Bone Destruction and Oxidative Stress in Peri-implantitis",
+            "url": "https://clinicaltrials.gov/study/NCT07397884",
+            "publishedAt": "2026-09-29T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07397884"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-09-29 收录/发布：Markers of Bone Destruction and Oxidative Stress in Peri-implantitis",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.3,
+              "actionability": 8.4
+            },
+            "significance": "更新企业/品牌池，记录产品、原料、功效宣称、证据与渠道动作：Markers of Bone Destruction and Oxidative Stress in Peri-implantitis",
+            "recommendedAction": "更新企业档案，记录品牌、产品、成分、功效宣称、证据等级和商业动作。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07397884",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-12T07:46:42.715785+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-dyssomniann-multi-scale-spiking-neural-modeling-of-human-sleep-disord",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness",
+            "titleZh": "DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness",
+            "url": "http://arxiv.org/abs/2610.13918v1",
+            "publishedAt": "2026-10-09T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.13918v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-09 收录/发布：DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.13918v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-12T07:46:42.714647+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-designing-protein-structures-from-natural-language",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Designing Protein Structures from Natural Language",
+            "titleZh": "Designing Protein Structures from Natural Language",
+            "url": "http://arxiv.org/abs/2610.13917v1",
+            "publishedAt": "2026-10-09T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.13917v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-09 收录/发布：Designing Protein Structures from Natural Language",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Designing Protein Structures from Natural Language",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.13917v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-12T07:46:42.714678+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-physeqnet-physics-informed-fluorescent-foci-detection-for-barseq-spat",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "PhySeqNet: physics-informed fluorescent foci detection for BARseq spatial transcriptomics",
+            "titleZh": "PhySeqNet: physics-informed fluorescent foci detection for BARseq spatial transcriptomics",
+            "url": "http://arxiv.org/abs/2610.13779v1",
+            "publishedAt": "2026-10-09T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.13779v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-09 收录/发布：PhySeqNet: physics-informed fluorescent foci detection for BARseq spatial transcriptomics",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：PhySeqNet: physics-informed fluorescent foci detection for BARseq spatial transcriptomics",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.13779v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-12T07:46:42.714702+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-artificial-intelligence-assisted-systems-biology-reconstruction-of-dia",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Artificial Intelligence-Assisted Systems Biology Reconstruction of Diabetic Bone Marrow Dysfunction",
+            "titleZh": "Artificial Intelligence-Assisted Systems Biology Reconstruction of Diabetic Bone Marrow Dysfunction",
+            "url": "http://arxiv.org/abs/2610.13721v1",
+            "publishedAt": "2026-10-09T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.13721v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-09 收录/发布：Artificial Intelligence-Assisted Systems Biology Reconstruction of Diabetic Bone Marrow Dysfunction",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Artificial Intelligence-Assisted Systems Biology Reconstruction of Diabetic Bone Marrow Dysfunction",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.13721v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-12T07:46:42.714724+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-retrotac-learning-route-derived-synthetic-accessibility-for-protacs",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "RetroTAC: Learning Route-Derived Synthetic Accessibility for PROTACs",
+            "titleZh": "RetroTAC: Learning Route-Derived Synthetic Accessibility for PROTACs",
+            "url": "http://arxiv.org/abs/2610.13639v1",
+            "publishedAt": "2026-10-09T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.13639v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-09 收录/发布：RetroTAC: Learning Route-Derived Synthetic Accessibility for PROTACs",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：RetroTAC: Learning Route-Derived Synthetic Accessibility for PROTACs",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.13639v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-12T07:46:42.714750+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-noise-space-learning-for-vla-adaptation",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Noise Space Learning for VLA Adaptation",
+            "titleZh": "Noise Space Learning for VLA Adaptation",
+            "url": "http://arxiv.org/abs/2610.13943v1",
+            "publishedAt": "2026-10-09T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.13943v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-09 收录/发布：Noise Space Learning for VLA Adaptation",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Noise Space Learning for VLA Adaptation",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.13943v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-12T07:46:42.714986+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-a-riesz-map-preconditioned-extragradient-method-for-price-formation-in",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "A Riesz-Map Preconditioned Extragradient Method for Price Formation in Mean Field Games",
+            "titleZh": "A Riesz-Map Preconditioned Extragradient Method for Price Formation in Mean Field Games",
+            "url": "http://arxiv.org/abs/2610.13934v1",
+            "publishedAt": "2026-10-09T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.13934v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-09 收录/发布：A Riesz-Map Preconditioned Extragradient Method for Price Formation in Mean Field Games",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：A Riesz-Map Preconditioned Extragradient Method for Price Formation in Mean Field Games",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.13934v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-12T07:46:42.715013+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-the-haagerup-voa-at-c-8",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "The Haagerup VOA at $c=8$",
+            "titleZh": "The Haagerup VOA at $c=8$",
+            "url": "http://arxiv.org/abs/2610.13933v1",
+            "publishedAt": "2026-10-09T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.13933v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-09 收录/发布：The Haagerup VOA at $c=8$",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：The Haagerup VOA at $c=8$",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.13933v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-12T07:46:42.715036+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          }
+        ],
+        "topItemIds": [
+          "crossref-ion-channels-and-morphology-drive-widespread-resonance-in-human-cortic",
+          "crossref-effect-of-a-potassium-competitive-acid-blocker-on-the-gut-microbiota-i",
+          "crossref-il-33-st2-signalling-in-pediatric-food-allergy-and-eosinophilic-gastro",
+          "crossref-effects-of-an-eight-week-mindfulness-informed-psychoeducational-interv",
+          "crossref-advances-in-human-activity-recognition-system-through-computer-vision",
+          "crossref-changes-in-spinal-injection-utilization-in-korea-a-nationwide-compara",
+          "crossref-uric-acid-to-albumin-ratio-and-all-cause-mortality-in-dilated-cardiomy",
+          "crossref-igvfds2844enzy",
+          "clinicaltrials-gov-outcome-inference-in-the-sensory-preconditioning-task-in-opioid-use-di",
+          "clinicaltrials-gov-markers-of-bone-destruction-and-oxidative-stress-in-peri-implantitis"
+        ],
+        "coverage": [
+          {
+            "sourceId": "automated-weekly-pipeline",
+            "status": "ok",
+            "attempts": 1,
+            "checkedAt": "2026-10-12T07:46:42.698795+00:00",
+            "itemCount": 18,
+            "recordErrors": 0,
+            "pageErrors": 0,
+            "recencyWindowDays": 14
+          }
+        ],
+        "publishedAt": "2026-10-12T07:46:42.698795+00:00"
       }
     }
   ]
