@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T07:46:42.698795+00:00",
+  "generatedAt": "2026-10-19T06:35:19.530646+00:00",
   "reports": [
     {
       "entry": {
@@ -14497,6 +14497,1076 @@
           }
         ],
         "publishedAt": "2026-10-12T07:46:42.698795+00:00"
+      }
+    },
+    {
+      "entry": {
+        "id": "2026-W43-auto-202610190635",
+        "week": "2026-W43",
+        "issue": 43,
+        "issueLabel": "第43期",
+        "status": "published",
+        "path": "published/2026-W43-auto-202610190635.json",
+        "generatedAt": "2026-10-19T06:35:19.530646+00:00",
+        "publishedAt": "2026-10-19T06:35:19.530646+00:00"
+      },
+      "report": {
+        "schemaVersion": 1,
+        "week": "2026-W43",
+        "issue": 43,
+        "issueLabel": "第43期",
+        "status": "published",
+        "period": {
+          "from": "2026-10-19",
+          "to": "2026-10-25"
+        },
+        "generatedAt": "2026-10-19T06:35:19.530646+00:00",
+        "judgement": "自动采集、自动去重、自动分类和自动发布；读者只需浏览正式周报并提取有用信息。",
+        "opportunities": [],
+        "risks": [],
+        "actions": [],
+        "moduleOrder": [
+          "academic-frontier",
+          "industry-progress",
+          "health-food-competitors",
+          "food-ingredients",
+          "ai-applications"
+        ],
+        "items": [
+          {
+            "id": "crossref-review-of-the-human-factor-in-hr-5-0-technological-innovation-work",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Review of: \"The Human Factor in HR 5.0: Technological Innovation, Workforce Adaptability, and Cognitive Balance in Developing Economies\"",
+            "titleZh": "Review of: \"The Human Factor in HR 5.0: Technological Innovation, Workforce Adaptability, and Cognitive Balance in Developing Economies\"",
+            "url": "https://doi.org/10.32388/1hknmy",
+            "publishedAt": "2026-10-19T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.32388/1hknmy"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-19 收录/发布：Review of: \"The Human Factor in HR 5.0: Technological Innovation, Workforce Adaptability, and Cognitive Balance in Developing Economies\"",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Review of: \"The Human Factor in HR 5.0: Technological Innovation, Workforce Adaptability, and Cognitive Balance in Developing Economies\"",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.32388/1hknmy",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-19T06:35:19.540726+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-rethinking-digital-humanitarianism-in-rohingya-refugee-camps",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Rethinking digital humanitarianism in Rohingya refugee camps",
+            "titleZh": "Rethinking digital humanitarianism in Rohingya refugee camps",
+            "url": "https://doi.org/10.4324/9781042045228-7",
+            "publishedAt": "2026-10-19T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.4324/9781042045228-7"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-19 收录/发布：Rethinking digital humanitarianism in Rohingya refugee camps",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Rethinking digital humanitarianism in Rohingya refugee camps",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.4324/9781042045228-7",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-19T06:35:19.540763+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-from-chaos-to-consistency-a-human-centered-framework-for-ai-supported",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "From Chaos to Consistency: A Human-Centered Framework for AI-supported Assessment at a Mission-Driven Liberal Arts College",
+            "titleZh": "From Chaos to Consistency: A Human-Centered Framework for AI-supported Assessment at a Mission-Driven Liberal Arts College",
+            "url": "https://doi.org/10.61669/001c.172640",
+            "publishedAt": "2026-10-19T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.61669/001c.172640"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-19 收录/发布：From Chaos to Consistency: A Human-Centered Framework for AI-supported Assessment at a Mission-Driven Liberal Arts College",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：From Chaos to Consistency: A Human-Centered Framework for AI-supported Assessment at a Mission-Driven Liberal Arts College",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.61669/001c.172640",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-19T06:35:19.540791+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-智能时代人机协作中的角色重塑-边界演化-行为适应与非标准化判断力",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "智能时代人机协作中的角色重塑：边界演化、行为适应与非标准化判断力",
+            "titleZh": "智能时代人机协作中的角色重塑：边界演化、行为适应与非标准化判断力",
+            "url": "https://doi.org/10.68079/moglkx.2026.3.08",
+            "publishedAt": "2026-10-19T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.68079/moglkx.2026.3.08"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-19 收录/发布：智能时代人机协作中的角色重塑：边界演化、行为适应与非标准化判断力",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：智能时代人机协作中的角色重塑：边界演化、行为适应与非标准化判断力",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.68079/moglkx.2026.3.08",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-19T06:35:19.540814+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-towards-a-medical-artificial-society-develop-empirical-multi-agent-mo",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Towards a Medical Artificial Society: Develop Empirical Multi-Agent Models for Healthcare Environment",
+            "titleZh": "Towards a Medical Artificial Society: Develop Empirical Multi-Agent Models for Healthcare Environment",
+            "url": "https://doi.org/10.1007/978-981-95-5156-9_36",
+            "publishedAt": "2026-10-19T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1007/978-981-95-5156-9_36"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-19 收录/发布：Towards a Medical Artificial Society: Develop Empirical Multi-Agent Models for Healthcare Environment",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Towards a Medical Artificial Society: Develop Empirical Multi-Agent Models for Healthcare Environment",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1007/978-981-95-5156-9_36",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-19T06:35:19.540837+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-awareness-understanding-and-use-of-nutrition-labelling-in-japan-a-c",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Awareness, understanding, and use of nutrition labelling in Japan: a cross-sectional study using the Consumer Opinion Survey on Food Labelling",
+            "titleZh": "Awareness, understanding, and use of nutrition labelling in Japan: a cross-sectional study using the Consumer Opinion Survey on Food Labelling",
+            "url": "https://doi.org/10.1186/s40795-026-01508-9",
+            "publishedAt": "2026-10-19T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1186/s40795-026-01508-9"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-19 收录/发布：Awareness, understanding, and use of nutrition labelling in Japan: a cross-sectional study using the Consumer Opinion Survey on Food Labelling",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Awareness, understanding, and use of nutrition labelling in Japan: a cross-sectional study using the Consumer Opinion Survey on Food Labelling",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1186/s40795-026-01508-9",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-19T06:35:19.540938+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-ultra-sensitive-battery-free-wireless-humidity-sensor-for-real-time-di",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Ultra-Sensitive Battery-Free Wireless Humidity Sensor for Real-Time Diaper Monitoring",
+            "titleZh": "Ultra-Sensitive Battery-Free Wireless Humidity Sensor for Real-Time Diaper Monitoring",
+            "url": "https://doi.org/10.1021/acsami.6c13704",
+            "publishedAt": "2026-10-19T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1021/acsami.6c13704"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-19 收录/发布：Ultra-Sensitive Battery-Free Wireless Humidity Sensor for Real-Time Diaper Monitoring",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Ultra-Sensitive Battery-Free Wireless Humidity Sensor for Real-Time Diaper Monitoring",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1021/acsami.6c13704",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-19T06:35:19.540958+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-pls-sem-analysis-of-landslide-susceptibility-factors",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "PLS-SEM analysis of landslide susceptibility factors",
+            "titleZh": "PLS-SEM analysis of landslide susceptibility factors",
+            "url": "https://doi.org/10.1007/s12303-026-00132-w",
+            "publishedAt": "2026-10-19T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1007/s12303-026-00132-w"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-19 收录/发布：PLS-SEM analysis of landslide susceptibility factors",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：PLS-SEM analysis of landslide susceptibility factors",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1007/s12303-026-00132-w",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-19T06:35:19.540973+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-a-study-of-brenipatide-in-participants-with-alcohol-use-disorder",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "health-food-competitors"
+            ],
+            "primaryModuleId": "health-food-competitors",
+            "titleOriginal": "A Study of Brenipatide in Participants With Alcohol Use Disorder",
+            "titleZh": "A Study of Brenipatide in Participants With Alcohol Use Disorder",
+            "url": "https://clinicaltrials.gov/study/NCT07219953",
+            "publishedAt": "2026-10-08T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07219953"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-10-08 收录/发布：A Study of Brenipatide in Participants With Alcohol Use Disorder",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.5,
+              "actionability": 8.4
+            },
+            "significance": "更新企业/品牌池，记录产品、原料、功效宣称、证据与渠道动作：A Study of Brenipatide in Participants With Alcohol Use Disorder",
+            "recommendedAction": "更新企业档案，记录品牌、产品、成分、功效宣称、证据等级和商业动作。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07219953",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-19T06:35:19.541841+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-efficacy-of-psilocybin-in-ocd-a-double-blind-placebo-controlled-stud",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "industry-progress"
+            ],
+            "primaryModuleId": "industry-progress",
+            "titleOriginal": "Efficacy of Psilocybin in OCD: a Double-Blind, Placebo-Controlled Study.",
+            "titleZh": "Efficacy of Psilocybin in OCD: a Double-Blind, Placebo-Controlled Study.",
+            "url": "https://clinicaltrials.gov/study/NCT03356483",
+            "publishedAt": "2026-10-16T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT03356483"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-10-16 收录/发布：Efficacy of Psilocybin in OCD: a Double-Blind, Placebo-Controlled Study.",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "提取原料名称、剂量、规范、安全性和人体证据设计，判断是否值得进入原料库：Efficacy of Psilocybin in OCD: a Double-Blind, Placebo-Controlled Study.",
+            "recommendedAction": "整理原料名、适用人群、剂量、法规状态和证据设计，标注是否可进入后续深挖。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT03356483",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-19T06:35:19.541181+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "food-ingredients"
+            ]
+          },
+          {
+            "id": "arxiv-brennan-s-conjecture-and-the-universal-integral-means-spectrum",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Brennan's Conjecture and the Universal Integral Means Spectrum",
+            "titleZh": "Brennan's Conjecture and the Universal Integral Means Spectrum",
+            "url": "http://arxiv.org/abs/2610.23853v1",
+            "publishedAt": "2026-10-16T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.23853v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-16 收录/发布：Brennan's Conjecture and the Universal Integral Means Spectrum",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Brennan's Conjecture and the Universal Integral Means Spectrum",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.23853v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-19T06:35:19.540853+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-confluence-relations-hoffman-basis-over-mathbb-z-2-and-the-del",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Confluence relations, Hoffman basis over \\mathbb{Z}_{(2)}, and the Deligne--Drinfeld conjecture",
+            "titleZh": "Confluence relations, Hoffman basis over \\mathbb{Z}_{(2)}, and the Deligne--Drinfeld conjecture",
+            "url": "http://arxiv.org/abs/2610.23719v1",
+            "publishedAt": "2026-10-16T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.23719v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-16 收录/发布：Confluence relations, Hoffman basis over \\mathbb{Z}_{(2)}, and the Deligne--Drinfeld conjecture",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Confluence relations, Hoffman basis over \\mathbb{Z}_{(2)}, and the Deligne--Drinfeld conjecture",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.23719v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-19T06:35:19.540869+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-owlsight-a-panoramic-monitor-for-chain-of-thought-reasoning",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "OwlSight: A Panoramic Monitor for Chain-of-Thought Reasoning",
+            "titleZh": "OwlSight: A Panoramic Monitor for Chain-of-Thought Reasoning",
+            "url": "http://arxiv.org/abs/2610.23670v1",
+            "publishedAt": "2026-10-16T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.23670v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-16 收录/发布：OwlSight: A Panoramic Monitor for Chain-of-Thought Reasoning",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：OwlSight: A Panoramic Monitor for Chain-of-Thought Reasoning",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.23670v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-19T06:35:19.540889+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-deep-llm-layers-expose-passage-level-context-in-eeg-during-silent-read",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Deep LLM layers expose passage-level context in EEG during silent reading",
+            "titleZh": "Deep LLM layers expose passage-level context in EEG during silent reading",
+            "url": "http://arxiv.org/abs/2610.23638v1",
+            "publishedAt": "2026-10-16T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.23638v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-16 收录/发布：Deep LLM layers expose passage-level context in EEG during silent reading",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Deep LLM layers expose passage-level context in EEG during silent reading",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.23638v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-19T06:35:19.540900+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-distributional-signatures-of-computation-inferring-mechanisms-from-co",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Distributional signatures of computation: inferring mechanisms from computation time distributions",
+            "titleZh": "Distributional signatures of computation: inferring mechanisms from computation time distributions",
+            "url": "http://arxiv.org/abs/2610.23607v1",
+            "publishedAt": "2026-10-16T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.23607v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-16 收录/发布：Distributional signatures of computation: inferring mechanisms from computation time distributions",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Distributional signatures of computation: inferring mechanisms from computation time distributions",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.23607v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-19T06:35:19.540915+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-bad-diagnosis-analyzing-consent-and-data-collection-practices-of-mobi",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Bad Diagnosis: Analyzing Consent and Data Collection Practices of Mobile Medical Apps",
+            "titleZh": "Bad Diagnosis: Analyzing Consent and Data Collection Practices of Mobile Medical Apps",
+            "url": "http://arxiv.org/abs/2610.23851v1",
+            "publishedAt": "2026-10-16T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.23851v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-16 收录/发布：Bad Diagnosis: Analyzing Consent and Data Collection Practices of Mobile Medical Apps",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Bad Diagnosis: Analyzing Consent and Data Collection Practices of Mobile Medical Apps",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.23851v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-19T06:35:19.541030+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-ai-driven-reproducibility-and-analytical-robustness-in-scientific-disc",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
+            "titleZh": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
+            "url": "http://arxiv.org/abs/2610.23845v1",
+            "publishedAt": "2026-10-16T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.23845v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-16 收录/发布：AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.23845v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-19T06:35:19.541042+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-discoveryrsi-recursively-learning-to-discover-valuable-hypotheses",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses",
+            "titleZh": "DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses",
+            "url": "http://arxiv.org/abs/2610.23839v1",
+            "publishedAt": "2026-10-16T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.23839v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-16 收录/发布：DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.23839v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-19T06:35:19.541053+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          }
+        ],
+        "topItemIds": [
+          "clinicaltrials-gov-efficacy-of-psilocybin-in-ocd-a-double-blind-placebo-controlled-stud",
+          "crossref-review-of-the-human-factor-in-hr-5-0-technological-innovation-work",
+          "crossref-rethinking-digital-humanitarianism-in-rohingya-refugee-camps",
+          "crossref-from-chaos-to-consistency-a-human-centered-framework-for-ai-supported",
+          "crossref-智能时代人机协作中的角色重塑-边界演化-行为适应与非标准化判断力",
+          "crossref-towards-a-medical-artificial-society-develop-empirical-multi-agent-mo",
+          "crossref-awareness-understanding-and-use-of-nutrition-labelling-in-japan-a-c",
+          "crossref-ultra-sensitive-battery-free-wireless-humidity-sensor-for-real-time-di",
+          "crossref-pls-sem-analysis-of-landslide-susceptibility-factors",
+          "clinicaltrials-gov-a-study-of-brenipatide-in-participants-with-alcohol-use-disorder"
+        ],
+        "coverage": [
+          {
+            "sourceId": "automated-weekly-pipeline",
+            "status": "ok",
+            "attempts": 1,
+            "checkedAt": "2026-10-19T06:35:19.530646+00:00",
+            "itemCount": 18,
+            "recordErrors": 0,
+            "pageErrors": 0,
+            "recencyWindowDays": 14
+          }
+        ],
+        "publishedAt": "2026-10-19T06:35:19.530646+00:00"
       }
     }
   ]

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T07:46:42.638604+00:00",
+  "generatedAt": "2026-10-19T06:35:19.485311+00:00",
   "searchTaskCount": 348,
-  "candidateCount": 268,
+  "candidateCount": 261,
   "discoveryWindowDays": 14,
   "searchPlanQuality": {
     "missingSearchUrls": [],
@@ -28,218 +28,218 @@
     }
   },
   "candidateRecency": {
-    "datedCandidateCount": 259,
-    "staleCandidateCount": 146,
+    "datedCandidateCount": 253,
+    "staleCandidateCount": 177,
     "staleCandidates": [
       {
-        "id": "clinicaltrials-gov-exploratory-study-on-the-role-of-vitamin-c-in-promoting-health-in-midd",
-        "publishedAt": "2025-06-27",
-        "ageDays": 472,
-        "title": "Exploratory Study on the Role of Vitamin C in Promoting Health in Middle-Aged and Elderly Adults",
-        "url": "https://clinicaltrials.gov/study/NCT06794255"
+        "id": "pubmed-evidence-for-reduced-somatic-t-cell-receptor-sequence-diversity-profil",
+        "publishedAt": "2026-Oct-18",
+        "ageDays": 18,
+        "title": "Evidence for Reduced Somatic T-Cell Receptor Sequence Diversity Profiles Among Midwestern Amish in an Aging Cohort Study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42892741/"
       },
       {
-        "id": "clinicaltrials-gov-can-lifestyle-changes-reverse-early-stage-alzheimer-s-disease",
-        "publishedAt": "2022-09-15",
-        "ageDays": 1488,
-        "title": "Can Lifestyle Changes Reverse Early-Stage Alzheimer's Disease",
-        "url": "https://clinicaltrials.gov/study/NCT04606420"
-      },
-      {
-        "id": "clinicaltrials-gov-effects-of-a-6-months-fiber-and-polyphenol-rich-diet-on-brain-inflamm",
-        "publishedAt": "2026-03-30",
-        "ageDays": 196,
-        "title": "Effects of a 6-months Fiber- and Polyphenol-rich Diet on Brain Inflammatory Processes in Perimenopausal Women Living With Overweight or Obesity",
-        "url": "https://clinicaltrials.gov/study/NCT07501377"
-      },
-      {
-        "id": "clinicaltrials-gov-the-effect-of-consumption-of-almonds-and-snack-mix-daily-for-6-months",
-        "publishedAt": "2020-03-20",
-        "ageDays": 2397,
-        "title": "The Effect of Consumption of Almonds and Snack Mix Daily for 6 Months on Cognitive Function in Older Adults",
-        "url": "https://clinicaltrials.gov/study/NCT03093896"
-      },
-      {
-        "id": "clinicaltrials-gov-human-muscle-gene-expression-profiles-in-young-and-old-men",
-        "publishedAt": "2009-06-11",
-        "ageDays": 6332,
-        "title": "Human Muscle Gene Expression Profiles in Young and Old Men",
-        "url": "https://clinicaltrials.gov/study/NCT00725166"
-      },
-      {
-        "id": "clinicaltrials-gov-agn-cogni-q-acute-dose-safety-and-pharmacokinetics-dose-response-in-pr",
-        "publishedAt": "2026-06-02",
-        "ageDays": 132,
-        "title": "AGN-Cogni.Q Acute Dose Safety and Pharmacokinetics Dose-Response in Prostate Cancer Patients",
-        "url": "https://clinicaltrials.gov/study/NCT05375539"
-      },
-      {
-        "id": "clinicaltrials-gov-clinical-study-on-prodovite-vmp35-supplement-on-athletic-performance",
-        "publishedAt": "2021-05-07",
-        "ageDays": 1984,
-        "title": "Clinical Study on Prodovite® VMP35 Supplement on Athletic Performance",
-        "url": "https://clinicaltrials.gov/study/NCT04121481"
-      },
-      {
-        "id": "clinicaltrials-gov-huperzine-a-to-help-with-mental-problems-and-the-inability-to-care-for",
-        "publishedAt": "2009-11-13",
-        "ageDays": 6177,
-        "title": "Huperzine-A to Help With Mental Problems and the Inability to Care for Onself in Patients With Schizophrenia",
-        "url": "https://clinicaltrials.gov/study/NCT01012830"
-      },
-      {
-        "id": "clinicaltrials-gov-probiotic-use-in-patients-with-prior-copd-exacerbation",
-        "publishedAt": "2017-05-23",
-        "ageDays": 3429,
-        "title": "Probiotic Use in Patients With Prior COPD Exacerbation",
-        "url": "https://clinicaltrials.gov/study/NCT02185092"
-      },
-      {
-        "id": "clinicaltrials-gov-influence-of-strength-training-and-protein-supplementation-on-fitness",
-        "publishedAt": "2013-01-24",
-        "ageDays": 5009,
-        "title": "Influence of Strength Training and Protein Supplementation on Fitness of Institutionalized Elderly",
-        "url": "https://clinicaltrials.gov/study/NCT01775111"
-      },
-      {
-        "id": "clinicaltrials-gov-sleep-promoting-properties-of-a-botanical-extract-in-a-population-comp",
-        "publishedAt": "2025-08-26",
-        "ageDays": 412,
-        "title": "Sleep Promoting Properties of a Botanical Extract in a Population Complaining From Non-Restorative Sleep (NRS)",
-        "url": "https://clinicaltrials.gov/study/NCT07085819"
-      },
-      {
-        "id": "clinicaltrials-gov-minoxidil-2-solution-and-botanical-hair-regimen-in-women-with-thinnin",
-        "publishedAt": "2023-08-01",
-        "ageDays": 1168,
-        "title": "Minoxidil 2% Solution and Botanical Hair Regimen in Women With Thinning Hair and Female Pattern Hair Loss/Androgenic Alopecia",
-        "url": "https://clinicaltrials.gov/study/NCT02460497"
-      },
-      {
-        "id": "clinicaltrials-gov-evaluation-of-the-effect-of-nabiximols-oromucosal-spray-on-clinical-me",
-        "publishedAt": "2024-12-11",
-        "ageDays": 670,
-        "title": "Evaluation of the Effect of Nabiximols Oromucosal Spray on Clinical Measures of Spasticity in Participants With Multiple Sclerosis",
-        "url": "https://clinicaltrials.gov/study/NCT04984278"
-      },
-      {
-        "id": "clinicaltrials-gov-oral-essential-oils-efficacy-in-acute-respiratory-symptoms",
-        "publishedAt": "2026-04-08",
-        "ageDays": 187,
-        "title": "Oral Essential Oils Efficacy in Acute Respiratory Symptoms",
-        "url": "https://clinicaltrials.gov/study/NCT07518394"
-      },
-      {
-        "id": "clinicaltrials-gov-effects-of-ginger-on-muscle-soreness-and-dysfunction-stemming-from-dow",
-        "publishedAt": "2017-12-20",
-        "ageDays": 3218,
-        "title": "Effects of Ginger on Muscle Soreness and Dysfunction Stemming From Downhill Running",
-        "url": "https://clinicaltrials.gov/study/NCT03028454"
-      },
-      {
-        "id": "clinicaltrials-gov-canine-occlusal-relationship-changes-after-stainless-steel-crown-place",
-        "publishedAt": "2023-08-07",
-        "ageDays": 1162,
-        "title": "Canine Occlusal Relationship Changes After Stainless-Steel Crown Placement Under General Anesthesia",
-        "url": "https://clinicaltrials.gov/study/NCT04731337"
-      },
-      {
-        "id": "clinicaltrials-gov-effects-of-physical-activity-on-cardiovascular-risk-and-quality-of-lif",
-        "publishedAt": "2016-05-10",
-        "ageDays": 3807,
-        "title": "Effects of Physical Activity on Cardiovascular Risk and Quality of Life",
-        "url": "https://clinicaltrials.gov/study/NCT02767739"
-      },
-      {
-        "id": "clinicaltrials-gov-does-flaxseed-supplementation-improve-glycemic-control-in-individuals",
-        "publishedAt": "2012-10-02",
-        "ageDays": 5123,
-        "title": "Does Flaxseed Supplementation Improve Glycemic Control in Individuals With Pre-diabetes?",
-        "url": "https://clinicaltrials.gov/study/NCT01698112"
-      },
-      {
-        "id": "clinicaltrials-gov-comparison-of-the-cognitive-dual-task-and-physical-effects-of-6-progr",
-        "publishedAt": "2026-05-05",
-        "ageDays": 160,
-        "title": "Comparison of the Cognitive, Dual-task and Physical Effects of 6 Programs With Older Adults",
-        "url": "https://clinicaltrials.gov/study/NCT05991011"
-      },
-      {
-        "id": "clinicaltrials-gov-evaluation-of-efficacy-of-lycium-barbarum-polysaccharide-in-people-wit",
-        "publishedAt": "2021-11-19",
-        "ageDays": 1788,
-        "title": "Evaluation of Efficacy of Lycium Barbarum Polysaccharide in People With Subthreshold Depression",
-        "url": "https://clinicaltrials.gov/study/NCT04032795"
-      },
-      {
-        "id": "clinicaltrials-gov-chinese-medicine-for-patients-with-lcovid-19-symptoms",
-        "publishedAt": "2026-07-27",
+        "id": "clinicaltrials-gov-thiamine-intervention-and-coronary-artery-bypass-grafting",
+        "publishedAt": "2026-08-03",
         "ageDays": 77,
-        "title": "Chinese Medicine for Patients With LCOVID-19 Symptoms",
-        "url": "https://clinicaltrials.gov/study/NCT04924881"
+        "title": "Thiamine Intervention and Coronary Artery Bypass Grafting",
+        "url": "https://clinicaltrials.gov/study/NCT06326996"
       },
       {
-        "id": "clinicaltrials-gov-mg-granules-improve-covid-19-efficacy-and-safety-of-convalescent-exerc",
-        "publishedAt": "2023-02-10",
-        "ageDays": 1340,
-        "title": "MG Granules Improve COVID-19 Efficacy and Safety of Convalescent Exercise Tolerance",
-        "url": "https://clinicaltrials.gov/study/NCT05722093"
+        "id": "clinicaltrials-gov-effect-of-topical-agents-with-various-antioxidant-containts-on-photoda",
+        "publishedAt": "2025-04-08",
+        "ageDays": 559,
+        "title": "Effect of Topical Agents With Various Antioxidant Containts on Photodamage Skin Induced",
+        "url": "https://clinicaltrials.gov/study/NCT06170346"
       },
       {
-        "id": "clinicaltrials-gov-overnight-use-of-electroacustimulation-on-postoperative-nausea-and-vom",
-        "publishedAt": "2012-10-17",
-        "ageDays": 5108,
-        "title": "Overnight Use of Electroacustimulation on Postoperative Nausea and Vomiting in the Outpatient Surgery Population",
-        "url": "https://clinicaltrials.gov/study/NCT01394536"
+        "id": "clinicaltrials-gov-breathing-training-for-improving-cardiovascular-health-in-older-adults",
+        "publishedAt": "2025-10-08",
+        "ageDays": 376,
+        "title": "Breathing Training for Improving Cardiovascular Health in Older Adults With Sleep Apnea",
+        "url": "https://clinicaltrials.gov/study/NCT04932447"
       },
       {
-        "id": "clinicaltrials-gov-effects-of-transcutaneous-nerve-electrostimulation-tens-of-acupunctu",
-        "publishedAt": "2019-08-12",
-        "ageDays": 2618,
-        "title": "Effects of Transcutaneous Nerve Electrostimulation (TENS) of Acupuncture Points on Pulmonary Function and Dyspnea Symptoms in Patients With Pulmonary Nodules",
-        "url": "https://clinicaltrials.gov/study/NCT04051398"
+        "id": "clinicaltrials-gov-dna-damage-and-oxidative-stress-in-hospitalized-covid-19-patients",
+        "publishedAt": "2021-03-09",
+        "ageDays": 2050,
+        "title": "DNA Damage and Oxidative Stress in Hospitalized COVID-19 Patients",
+        "url": "https://clinicaltrials.gov/study/NCT04784468"
       },
       {
-        "id": "pubmed-mouse-models-for-aging-research-mechanistic-utility-translational-re",
-        "publishedAt": "2026-Sep-28",
-        "ageDays": 40,
-        "title": "Mouse Models for Aging Research: Mechanistic Utility, Translational Relevance, and Practical Model Selection.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42858327/"
+        "id": "clinicaltrials-gov-the-trinity-ulster-and-department-of-agriculture-cohort-study",
+        "publishedAt": "2016-01-27",
+        "ageDays": 3918,
+        "title": "The Trinity, Ulster and Department of Agriculture Cohort Study",
+        "url": "https://clinicaltrials.gov/study/NCT02664584"
       },
       {
-        "id": "clinicaltrials-gov-effects-of-a-supplement-to-target-ageing-mechanisms-on-vascular-functi",
-        "publishedAt": "2026-01-22",
-        "ageDays": 263,
-        "title": "Effects of a Supplement to Target Ageing Mechanisms on Vascular Function (STAMINA)",
-        "url": "https://clinicaltrials.gov/study/NCT06145087"
+        "id": "clinicaltrials-gov-prevention-of-recurrent-vulvovaginal-candidiasis-with-lactibiane-candi",
+        "publishedAt": "2021-04-20",
+        "ageDays": 2008,
+        "title": "Prevention of Recurrent Vulvovaginal Candidiasis With Lactibiane Candisis 5M®",
+        "url": "https://clinicaltrials.gov/study/NCT00915629"
       },
       {
-        "id": "clinicaltrials-gov-neurocircuitry-mechanisms-and-efficacy-of-lumateperone-as-adjunctive-t",
-        "publishedAt": "2026-01-27",
-        "ageDays": 258,
-        "title": "Neurocircuitry Mechanisms and Efficacy of Lumateperone as Adjunctive Therapy for Major Depressive Disorder and History of Early Life Abuse",
-        "url": "https://clinicaltrials.gov/study/NCT07369115"
+        "id": "clinicaltrials-gov-autologous-stem-cell-treatment-for-chronic-lung-disease-study",
+        "publishedAt": "2018-10-15",
+        "ageDays": 2926,
+        "title": "Autologous Stem Cell Treatment for Chronic Lung Disease Study",
+        "url": "https://clinicaltrials.gov/study/NCT03044431"
       },
       {
-        "id": "clinicaltrials-gov-glutathione-in-mild-cognitive-impairment",
-        "publishedAt": "2026-09-04",
-        "ageDays": 38,
-        "title": "Glutathione in Mild Cognitive Impairment",
-        "url": "https://clinicaltrials.gov/study/NCT03493178"
+        "id": "clinicaltrials-gov-the-effects-of-aggressive-patient-management-on-cancer-therapy-managem",
+        "publishedAt": "2012-04-09",
+        "ageDays": 5306,
+        "title": "The Effects of Aggressive Patient Management on Cancer Therapy Management",
+        "url": "https://clinicaltrials.gov/study/NCT00962572"
       },
       {
-        "id": "clinicaltrials-gov-lifestyle-interventions-to-prevent-cognitive-deficits-in-subjects-with",
-        "publishedAt": "2026-06-17",
-        "ageDays": 117,
-        "title": "Lifestyle Interventions to Prevent cOgnitive Deficits in Subjects With Depressive Symptoms: From mEchanisms to Clinical pRactice",
-        "url": "https://clinicaltrials.gov/study/NCT07462013"
+        "id": "clinicaltrials-gov-melatonin-plus-aminoacids-for-sarcopenic-elderly",
+        "publishedAt": "2018-12-24",
+        "ageDays": 2856,
+        "title": "Melatonin Plus Aminoacids for Sarcopenic Elderly",
+        "url": "https://clinicaltrials.gov/study/NCT03784495"
       },
       {
-        "id": "clinicaltrials-gov-prevalence-and-risk-factors-of-dermatoporosis-in-patients-over-75-year",
-        "publishedAt": "2022-09-27",
-        "ageDays": 1476,
-        "title": "Prevalence and Risk Factors of Dermatoporosis in Patients Over 75 Years of Age Hospitalized in Reeducation",
-        "url": "https://clinicaltrials.gov/study/NCT05092204"
+        "id": "clinicaltrials-gov-effects-of-teriparatide-in-the-treatment-of-postmenopausal-women-with",
+        "publishedAt": "2008-05-01",
+        "ageDays": 6745,
+        "title": "Effects of Teriparatide in the Treatment of Postmenopausal Women With Osteoporosis",
+        "url": "https://clinicaltrials.gov/study/NCT00670501"
+      },
+      {
+        "id": "clinicaltrials-gov-protandim-and-the-metabolic-syndrome",
+        "publishedAt": "2017-10-18",
+        "ageDays": 3288,
+        "title": "Protandim and the Metabolic Syndrome",
+        "url": "https://clinicaltrials.gov/study/NCT01125501"
+      },
+      {
+        "id": "clinicaltrials-gov-a-trial-of-a-botanical-drug-containing-east-indian-sandalwood-oil-eis",
+        "publishedAt": "2021-11-19",
+        "ageDays": 1795,
+        "title": "A Trial of a Botanical Drug Containing East Indian Sandalwood Oil (EISO) for the Treatment of Oral Mucositis",
+        "url": "https://clinicaltrials.gov/study/NCT02399228"
+      },
+      {
+        "id": "clinicaltrials-gov-efficacy-study-of-huatuo-zaizao-pills-in-improving-of-neural-function",
+        "publishedAt": "2013-01-23",
+        "ageDays": 5017,
+        "title": "Efficacy Study of Huatuo Zaizao Pills in Improving of Neural Function in Acute Ischemic Stroke",
+        "url": "https://clinicaltrials.gov/study/NCT01758536"
+      },
+      {
+        "id": "clinicaltrials-gov-impact-of-a-topical-cosmetic-product-on-women-s-hair",
+        "publishedAt": "2025-04-09",
+        "ageDays": 558,
+        "title": "Impact of a Topical Cosmetic Product on Women's Hair",
+        "url": "https://clinicaltrials.gov/study/NCT06060834"
+      },
+      {
+        "id": "clinicaltrials-gov-bioavailability-of-xanthones-from-mangosteen",
+        "publishedAt": "2011-09-02",
+        "ageDays": 5526,
+        "title": "Bioavailability of Xanthones From Mangosteen",
+        "url": "https://clinicaltrials.gov/study/NCT01425047"
+      },
+      {
+        "id": "clinicaltrials-gov-pregabalin-in-the-treatment-of-essential-tremor",
+        "publishedAt": "2021-04-26",
+        "ageDays": 2002,
+        "title": "Pregabalin in the Treatment of Essential Tremor",
+        "url": "https://clinicaltrials.gov/study/NCT00646451"
+      },
+      {
+        "id": "clinicaltrials-gov-efficacy-of-non-invasive-neuromodulation-treatments-for-covid-19-seque",
+        "publishedAt": "2025-09-18",
+        "ageDays": 396,
+        "title": "Efficacy of Non-invasive Neuromodulation Treatments for COVID-19 Sequelae",
+        "url": "https://clinicaltrials.gov/study/NCT06544395"
+      },
+      {
+        "id": "clinicaltrials-gov-studying-the-presence-of-cfrd-complications-with-thoughtful-recruitmen",
+        "publishedAt": "2026-02-10",
+        "ageDays": 251,
+        "title": "Studying the Presence of CFRD Complications With Thoughtful Recruitment (SPeCTRuM)",
+        "url": "https://clinicaltrials.gov/study/NCT06837181"
+      },
+      {
+        "id": "clinicaltrials-gov-effect-of-central-insulin-administration-on-whole-body-insulin-sensit",
+        "publishedAt": "2021-09-05",
+        "ageDays": 1870,
+        "title": "\"Effect of Central Insulin Administration on Whole-body Insulin Sensitivity in Women\"",
+        "url": "https://clinicaltrials.gov/study/NCT03929419"
+      },
+      {
+        "id": "clinicaltrials-gov-the-effect-of-probiotic-supplementation-in-drug-resistant-epilepsy-pat",
+        "publishedAt": "2018-01-19",
+        "ageDays": 3195,
+        "title": "The Effect of Probiotic Supplementation in Drug-resistant Epilepsy Patients",
+        "url": "https://clinicaltrials.gov/study/NCT03403907"
+      },
+      {
+        "id": "clinicaltrials-gov-implementing-the-wuqinxi-on-patients-with-pulmonary-arterial-hypertens",
+        "publishedAt": "2024-06-12",
+        "ageDays": 859,
+        "title": "Implementing the Wuqinxi on Patients With Pulmonary Arterial Hypertension",
+        "url": "https://clinicaltrials.gov/study/NCT06454422"
+      },
+      {
+        "id": "clinicaltrials-gov-the-evaluation-and-management-of-patients-with-acute-chest-pain-in-chi",
+        "publishedAt": "2018-01-09",
+        "ageDays": 3205,
+        "title": "The Evaluation and Management of Patients With Acute ChesT Pain in China",
+        "url": "https://clinicaltrials.gov/study/NCT02536677"
+      },
+      {
+        "id": "clinicaltrials-gov-a-study-on-postmarketing-xuezhikang-capsule-for-treating-dyslipidemia",
+        "publishedAt": "2014-02-07",
+        "ageDays": 4637,
+        "title": "A Study on Postmarketing Xuezhikang Capsule for Treating Dyslipidemia",
+        "url": "https://clinicaltrials.gov/study/NCT02057302"
+      },
+      {
+        "id": "clinicaltrials-gov-pregnancy-salt-substitution-trial-for-hypertensive-disorders-of-pregna",
+        "publishedAt": "2026-08-28",
+        "ageDays": 52,
+        "title": "Pregnancy Salt Substitution Trial for Hypertensive Disorders of Pregnancy Prevention (PREG-Salt)",
+        "url": "https://clinicaltrials.gov/study/NCT07294807"
+      },
+      {
+        "id": "clinicaltrials-gov-af-ablation-for-hf-with-reduced-ef",
+        "publishedAt": "2023-04-24",
+        "ageDays": 1274,
+        "title": "AF Ablation for HF With Reduced EF",
+        "url": "https://clinicaltrials.gov/study/NCT05827172"
+      },
+      {
+        "id": "pubmed-the-foxo-aging-axis-epigenetic-insights-and-chromatin-mechanisms",
+        "publishedAt": "2026-Oct-16",
+        "ageDays": 18,
+        "title": "The FOXO-Aging Axis: Epigenetic Insights and Chromatin Mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42887702/"
+      },
+      {
+        "id": "pubmed-elf1-exacerbates-intervertebral-disc-degeneration-by-promoting-acsl4-d",
+        "publishedAt": "2026-Oct-15",
+        "ageDays": 18,
+        "title": "ELF1 exacerbates intervertebral disc degeneration by promoting ACSL4-dependent ferro-aging of nucleus pulposus cells through the IFITM3-PTPRO axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42880403/"
+      },
+      {
+        "id": "clinicaltrials-gov-patient-and-care-partner-experiences-living-with-multiple-myeloma-pac",
+        "publishedAt": "2024-12-12",
+        "ageDays": 676,
+        "title": "Patient and Care Partner Experiences Living With Multiple Myeloma (PaCE-MM)",
+        "url": "https://clinicaltrials.gov/study/NCT05276622"
+      },
+      {
+        "id": "clinicaltrials-gov-respiratory-virome-diversity-and-baseline-immunity-in-healthy-individu",
+        "publishedAt": "2024-10-29",
+        "ageDays": 720,
+        "title": "Respiratory Virome Diversity and Baseline Immunity in Healthy Individuals in Shanghai",
+        "url": "https://clinicaltrials.gov/study/NCT06641856"
       }
     ]
   },
