@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T06:35:19.530646+00:00",
+  "generatedAt": "2026-10-26T06:44:23.767116+00:00",
   "reports": [
     {
       "entry": {
@@ -15567,6 +15567,1186 @@
           }
         ],
         "publishedAt": "2026-10-19T06:35:19.530646+00:00"
+      }
+    },
+    {
+      "entry": {
+        "id": "2026-W44-auto-202610260644",
+        "week": "2026-W44",
+        "issue": 44,
+        "issueLabel": "第44期",
+        "status": "published",
+        "path": "published/2026-W44-auto-202610260644.json",
+        "generatedAt": "2026-10-26T06:44:23.767116+00:00",
+        "publishedAt": "2026-10-26T06:44:23.767116+00:00"
+      },
+      "report": {
+        "schemaVersion": 1,
+        "week": "2026-W44",
+        "issue": 44,
+        "issueLabel": "第44期",
+        "status": "published",
+        "period": {
+          "from": "2026-10-26",
+          "to": "2026-11-01"
+        },
+        "generatedAt": "2026-10-26T06:44:23.767116+00:00",
+        "judgement": "自动采集、自动去重、自动分类和自动发布；读者只需浏览正式周报并提取有用信息。",
+        "opportunities": [],
+        "risks": [],
+        "actions": [],
+        "moduleOrder": [
+          "academic-frontier",
+          "industry-progress",
+          "health-food-competitors",
+          "food-ingredients",
+          "ai-applications"
+        ],
+        "items": [
+          {
+            "id": "crossref-multi-omics-liquid-biopsy-identifies-mitochondrial-dysfunction-in-geog",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Multi-omics liquid biopsy identifies mitochondrial dysfunction in geographic atrophy and supports intraocular bioavailability of α-ketoglutarate",
+            "titleZh": "Multi-omics liquid biopsy identifies mitochondrial dysfunction in geographic atrophy and supports intraocular bioavailability of α-ketoglutarate",
+            "url": "https://doi.org/10.1038/s43856-026-01982-z",
+            "publishedAt": "2026-10-26T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1038/s43856-026-01982-z"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-26 收录/发布：Multi-omics liquid biopsy identifies mitochondrial dysfunction in geographic atrophy and supports intraocular bioavailability of α-ketoglutarate",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Multi-omics liquid biopsy identifies mitochondrial dysfunction in geographic atrophy and supports intraocular bioavailability of α-ketoglutarate",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1038/s43856-026-01982-z",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-26T06:44:23.782541+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-optimizing-the-duty-cycle-in-smartwatches-for-sleep-sensing",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Optimizing the Duty Cycle in Smartwatches for Sleep Sensing",
+            "titleZh": "Optimizing the Duty Cycle in Smartwatches for Sleep Sensing",
+            "url": "https://doi.org/10.1145/3842436.3843813",
+            "publishedAt": "2026-10-26T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1145/3842436.3843813"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-26 收录/发布：Optimizing the Duty Cycle in Smartwatches for Sleep Sensing",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Optimizing the Duty Cycle in Smartwatches for Sleep Sensing",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1145/3842436.3843813",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-26T06:44:23.782599+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-sustainable-human-robot-services-esg-diversity-and-attractiveness-i",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Sustainable human-robot services: ESG, diversity, and attractiveness in job pursuit",
+            "titleZh": "Sustainable human-robot services: ESG, diversity, and attractiveness in job pursuit",
+            "url": "https://doi.org/10.1108/jhtt-11-2025-1085",
+            "publishedAt": "2026-10-26T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1108/jhtt-11-2025-1085"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-26 收录/发布：Sustainable human-robot services: ESG, diversity, and attractiveness in job pursuit",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Sustainable human-robot services: ESG, diversity, and attractiveness in job pursuit",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1108/jhtt-11-2025-1085",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-26T06:44:23.782640+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-gastrodia-elata-in-neurological-disorders-a-systematic-review-of-anti",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Gastrodia elata in neurological disorders: a systematic review of anti-inflammatory mechanisms and cross-disease therapeutic potential",
+            "titleZh": "Gastrodia elata in neurological disorders: a systematic review of anti-inflammatory mechanisms and cross-disease therapeutic potential",
+            "url": "https://doi.org/10.3389/fnagi.2026.1967946",
+            "publishedAt": "2026-10-26T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.3389/fnagi.2026.1967946"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-26 收录/发布：Gastrodia elata in neurological disorders: a systematic review of anti-inflammatory mechanisms and cross-disease therapeutic potential",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Gastrodia elata in neurological disorders: a systematic review of anti-inflammatory mechanisms and cross-disease therapeutic potential",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.3389/fnagi.2026.1967946",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-26T06:44:23.782683+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-editorial-glucose-metabolism-in-brain-and-neurodegenerative-diseases",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Editorial: Glucose metabolism in brain and neurodegenerative diseases: multifactorial effects",
+            "titleZh": "Editorial: Glucose metabolism in brain and neurodegenerative diseases: multifactorial effects",
+            "url": "https://doi.org/10.3389/fnagi.2026.1991548",
+            "publishedAt": "2026-10-26T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.3389/fnagi.2026.1991548"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-26 收录/发布：Editorial: Glucose metabolism in brain and neurodegenerative diseases: multifactorial effects",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Editorial: Glucose metabolism in brain and neurodegenerative diseases: multifactorial effects",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.3389/fnagi.2026.1991548",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-26T06:44:23.782727+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-gay-rights-in-the-age-of-democratic-backsliding-bolsonaro-s-brazil-wi",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Gay Rights in the Age of Democratic Backsliding: Bolsonaro’s Brazil with Reflections on the United States",
+            "titleZh": "Gay Rights in the Age of Democratic Backsliding: Bolsonaro’s Brazil with Reflections on the United States",
+            "url": "https://doi.org/10.1017/lar.2026.10165",
+            "publishedAt": "2026-10-26T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1017/lar.2026.10165"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-26 收录/发布：Gay Rights in the Age of Democratic Backsliding: Bolsonaro’s Brazil with Reflections on the United States",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Gay Rights in the Age of Democratic Backsliding: Bolsonaro’s Brazil with Reflections on the United States",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1017/lar.2026.10165",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-26T06:44:23.782947+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-enabling-passive-localization-with-a-single-moving-receiver-through-pe",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Enabling Passive Localization with a Single Moving Receiver through Periodic 5G Reference Signals",
+            "titleZh": "Enabling Passive Localization with a Single Moving Receiver through Periodic 5G Reference Signals",
+            "url": "https://doi.org/10.1145/3831662.3844171",
+            "publishedAt": "2026-10-26T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1145/3831662.3844171"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-26 收录/发布：Enabling Passive Localization with a Single Moving Receiver through Periodic 5G Reference Signals",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Enabling Passive Localization with a Single Moving Receiver through Periodic 5G Reference Signals",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1145/3831662.3844171",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-26T06:44:23.782988+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-systemic-coagulation-inflammation-index-and-risk-of-mortality-in-perit",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Systemic coagulation inflammation index and risk of mortality in peritoneal dialysis patients: a multicenter cohort study",
+            "titleZh": "Systemic coagulation inflammation index and risk of mortality in peritoneal dialysis patients: a multicenter cohort study",
+            "url": "https://doi.org/10.3389/fmed.2026.2005361",
+            "publishedAt": "2026-10-26T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.3389/fmed.2026.2005361"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-10-26 收录/发布：Systemic coagulation inflammation index and risk of mortality in peritoneal dialysis patients: a multicenter cohort study",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Systemic coagulation inflammation index and risk of mortality in peritoneal dialysis patients: a multicenter cohort study",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.3389/fmed.2026.2005361",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-26T06:44:23.783028+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-flap-assessment-with-regional-oximetry-for-early-detection-of-compromi",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "health-food-competitors"
+            ],
+            "primaryModuleId": "health-food-competitors",
+            "titleOriginal": "Flap Assessment With Regional Oximetry for Early Detection of Compromise in Free Flap Reconstructive Surgery - FLARE Study",
+            "titleZh": "Flap Assessment With Regional Oximetry for Early Detection of Compromise in Free Flap Reconstructive Surgery - FLARE Study",
+            "url": "https://clinicaltrials.gov/study/NCT07887256",
+            "publishedAt": "2026-10-21T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07887256"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-10-21 收录/发布：Flap Assessment With Regional Oximetry for Early Detection of Compromise in Free Flap Reconstructive Surgery - FLARE Study",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.9,
+              "actionability": 8.4
+            },
+            "significance": "更新企业/品牌池，记录产品、原料、功效宣称、证据与渠道动作：Flap Assessment With Regional Oximetry for Early Detection of Compromise in Free Flap Reconstructive Surgery - FLARE Study",
+            "recommendedAction": "更新企业档案，记录品牌、产品、成分、功效宣称、证据等级和商业动作。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07887256",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-26T06:44:23.783691+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-evaluation-of-a-structured-nutrition-educational-program-among-patient",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "health-food-competitors"
+            ],
+            "primaryModuleId": "health-food-competitors",
+            "titleOriginal": "Evaluation of a Structured Nutrition Educational Program Among Patients With Type 2 Diabetes",
+            "titleZh": "Evaluation of a Structured Nutrition Educational Program Among Patients With Type 2 Diabetes",
+            "url": "https://clinicaltrials.gov/study/NCT07598266",
+            "publishedAt": "2026-10-22T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07598266"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-10-22 收录/发布：Evaluation of a Structured Nutrition Educational Program Among Patients With Type 2 Diabetes",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.9,
+              "actionability": 8.4
+            },
+            "significance": "更新企业/品牌池，记录产品、原料、功效宣称、证据与渠道动作：Evaluation of a Structured Nutrition Educational Program Among Patients With Type 2 Diabetes",
+            "recommendedAction": "更新企业档案，记录品牌、产品、成分、功效宣称、证据等级和商业动作。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07598266",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-26T06:44:23.783429+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-uterine-transplant-in-absolute-uterine-infertility-auif",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "health-food-competitors"
+            ],
+            "primaryModuleId": "health-food-competitors",
+            "titleOriginal": "Uterine Transplant in Absolute Uterine Infertility (AUIF)",
+            "titleZh": "Uterine Transplant in Absolute Uterine Infertility (AUIF)",
+            "url": "https://clinicaltrials.gov/study/NCT02741102",
+            "publishedAt": "2026-10-15T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT02741102"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-10-15 收录/发布：Uterine Transplant in Absolute Uterine Infertility (AUIF)",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.5,
+              "actionability": 8.4
+            },
+            "significance": "更新企业/品牌池，记录产品、原料、功效宣称、证据与渠道动作：Uterine Transplant in Absolute Uterine Infertility (AUIF)",
+            "recommendedAction": "更新企业档案，记录品牌、产品、成分、功效宣称、证据等级和商业动作。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT02741102",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-26T06:44:23.784218+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-assessing-the-pharmacokinetics-and-drug-interaction-liability-of-krato",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "industry-progress"
+            ],
+            "primaryModuleId": "industry-progress",
+            "titleOriginal": "Assessing the Pharmacokinetics and Drug Interaction Liability of Kratom, an Opioid-like Natural Product",
+            "titleZh": "Assessing the Pharmacokinetics and Drug Interaction Liability of Kratom, an Opioid-like Natural Product",
+            "url": "https://clinicaltrials.gov/study/NCT04392011",
+            "publishedAt": "2026-10-19T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT04392011"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-10-19 收录/发布：Assessing the Pharmacokinetics and Drug Interaction Liability of Kratom, an Opioid-like Natural Product",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.7,
+              "actionability": 8.4
+            },
+            "significance": "提取原料名称、剂量、规范、安全性和人体证据设计，判断是否值得进入原料库：Assessing the Pharmacokinetics and Drug Interaction Liability of Kratom, an Opioid-like Natural Product",
+            "recommendedAction": "整理原料名、适用人群、剂量、法规状态和证据设计，标注是否可进入后续深挖。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT04392011",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-26T06:44:23.782753+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "food-ingredients"
+            ]
+          },
+          {
+            "id": "arxiv-shared-clones-make-random-cell-halves-look-reproducible-in-pooled-scre",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Shared clones make random cell halves look reproducible in pooled screens",
+            "titleZh": "Shared clones make random cell halves look reproducible in pooled screens",
+            "url": "http://arxiv.org/abs/2610.32962v1",
+            "publishedAt": "2026-10-23T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.32962v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-23 收录/发布：Shared clones make random cell halves look reproducible in pooled screens",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Shared clones make random cell halves look reproducible in pooled screens",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.32962v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-26T06:44:23.782778+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-a-central-limit-theorem-for-the-driver-site-frequency-spectrum",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "A Central Limit Theorem for the Driver Site Frequency Spectrum",
+            "titleZh": "A Central Limit Theorem for the Driver Site Frequency Spectrum",
+            "url": "http://arxiv.org/abs/2610.32942v1",
+            "publishedAt": "2026-10-23T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.32942v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-23 收录/发布：A Central Limit Theorem for the Driver Site Frequency Spectrum",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：A Central Limit Theorem for the Driver Site Frequency Spectrum",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.32942v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-26T06:44:23.782808+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-zeno-nonlinear-filtering-with-zakai-equation-neural-operators",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "ZENO: Nonlinear filtering with Zakai Equation Neural Operators",
+            "titleZh": "ZENO: Nonlinear filtering with Zakai Equation Neural Operators",
+            "url": "http://arxiv.org/abs/2610.32926v1",
+            "publishedAt": "2026-10-23T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.32926v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-23 收录/发布：ZENO: Nonlinear filtering with Zakai Equation Neural Operators",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：ZENO: Nonlinear filtering with Zakai Equation Neural Operators",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.32926v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-26T06:44:23.782831+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-computational-de-novo-design-of-miniprotein-candidate-neutralizers-tar",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Computational De Novo Design of Miniprotein Candidate Neutralizers Targeting the IL-23 Cytokine Subunit p19",
+            "titleZh": "Computational De Novo Design of Miniprotein Candidate Neutralizers Targeting the IL-23 Cytokine Subunit p19",
+            "url": "http://arxiv.org/abs/2610.32779v1",
+            "publishedAt": "2026-10-23T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.32779v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-23 收录/发布：Computational De Novo Design of Miniprotein Candidate Neutralizers Targeting the IL-23 Cytokine Subunit p19",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Computational De Novo Design of Miniprotein Candidate Neutralizers Targeting the IL-23 Cytokine Subunit p19",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.32779v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-26T06:44:23.782855+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-video-rate-quantitative-phase-and-polarimetric-imaging-qp2i-for-labe",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Video-rate quantitative phase and polarimetric imaging (QP2I) for label-free imaging of contracting muscle cells",
+            "titleZh": "Video-rate quantitative phase and polarimetric imaging (QP2I) for label-free imaging of contracting muscle cells",
+            "url": "http://arxiv.org/abs/2610.32756v1",
+            "publishedAt": "2026-10-23T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.32756v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-23 收录/发布：Video-rate quantitative phase and polarimetric imaging (QP2I) for label-free imaging of contracting muscle cells",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Video-rate quantitative phase and polarimetric imaging (QP2I) for label-free imaging of contracting muscle cells",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.32756v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-26T06:44:23.782892+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-the-language-of-instruction-genre-and-generative-ai",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "The Language of Instruction: Genre and Generative AI",
+            "titleZh": "The Language of Instruction: Genre and Generative AI",
+            "url": "http://arxiv.org/abs/2610.32982v1",
+            "publishedAt": "2026-10-23T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.32982v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-23 收录/发布：The Language of Instruction: Genre and Generative AI",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：The Language of Instruction: Genre and Generative AI",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.32982v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-26T06:44:23.783128+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-robustrllib-a-unified-library-and-benchmark-for-robust-reinforcement",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+            "titleZh": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+            "url": "http://arxiv.org/abs/2610.32971v1",
+            "publishedAt": "2026-10-23T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.32971v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-23 收录/发布：RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.32971v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-26T06:44:23.783154+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-rynnunify-towards-unified-embodied-brain",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "RynnUnify: Towards Unified Embodied Brain",
+            "titleZh": "RynnUnify: Towards Unified Embodied Brain",
+            "url": "http://arxiv.org/abs/2610.32965v1",
+            "publishedAt": "2026-10-23T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.32965v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-23 收录/发布：RynnUnify: Towards Unified Embodied Brain",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：RynnUnify: Towards Unified Embodied Brain",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.32965v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-10-26T06:44:23.783177+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          }
+        ],
+        "topItemIds": [
+          "clinicaltrials-gov-flap-assessment-with-regional-oximetry-for-early-detection-of-compromi",
+          "clinicaltrials-gov-evaluation-of-a-structured-nutrition-educational-program-among-patient",
+          "crossref-multi-omics-liquid-biopsy-identifies-mitochondrial-dysfunction-in-geog",
+          "crossref-optimizing-the-duty-cycle-in-smartwatches-for-sleep-sensing",
+          "crossref-sustainable-human-robot-services-esg-diversity-and-attractiveness-i",
+          "crossref-gastrodia-elata-in-neurological-disorders-a-systematic-review-of-anti",
+          "crossref-editorial-glucose-metabolism-in-brain-and-neurodegenerative-diseases",
+          "crossref-gay-rights-in-the-age-of-democratic-backsliding-bolsonaro-s-brazil-wi",
+          "crossref-enabling-passive-localization-with-a-single-moving-receiver-through-pe",
+          "crossref-systemic-coagulation-inflammation-index-and-risk-of-mortality-in-perit"
+        ],
+        "coverage": [
+          {
+            "sourceId": "automated-weekly-pipeline",
+            "status": "ok",
+            "attempts": 1,
+            "checkedAt": "2026-10-26T06:44:23.767116+00:00",
+            "itemCount": 20,
+            "recordErrors": 0,
+            "pageErrors": 0,
+            "recencyWindowDays": 14
+          }
+        ],
+        "publishedAt": "2026-10-26T06:44:23.767116+00:00"
       }
     }
   ]

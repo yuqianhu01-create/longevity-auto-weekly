@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T06:35:19.485311+00:00",
+  "generatedAt": "2026-10-26T06:44:23.709511+00:00",
   "searchTaskCount": 348,
-  "candidateCount": 261,
+  "candidateCount": 250,
   "discoveryWindowDays": 14,
   "searchPlanQuality": {
     "missingSearchUrls": [],
@@ -28,218 +28,218 @@
     }
   },
   "candidateRecency": {
-    "datedCandidateCount": 253,
-    "staleCandidateCount": 177,
+    "datedCandidateCount": 244,
+    "staleCandidateCount": 178,
     "staleCandidates": [
       {
-        "id": "pubmed-evidence-for-reduced-somatic-t-cell-receptor-sequence-diversity-profil",
-        "publishedAt": "2026-Oct-18",
-        "ageDays": 18,
-        "title": "Evidence for Reduced Somatic T-Cell Receptor Sequence Diversity Profiles Among Midwestern Amish in an Aging Cohort Study.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42892741/"
+        "id": "pubmed-reshaping-the-tumor-immune-microenvironment-via-therapy-induced-senesc",
+        "publishedAt": "2026-Oct-25",
+        "ageDays": 24,
+        "title": "Reshaping the tumor immune microenvironment via therapy-induced senescence: senescence-associated secretory phenotype networks and senolytic strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42927531/"
       },
       {
-        "id": "clinicaltrials-gov-thiamine-intervention-and-coronary-artery-bypass-grafting",
-        "publishedAt": "2026-08-03",
-        "ageDays": 77,
-        "title": "Thiamine Intervention and Coronary Artery Bypass Grafting",
-        "url": "https://clinicaltrials.gov/study/NCT06326996"
+        "id": "pubmed-concordance-between-changes-in-epigenetic-clocks-and-changes-in-clinic",
+        "publishedAt": "2026-Oct-24",
+        "ageDays": 24,
+        "title": "Concordance between changes in epigenetic clocks and changes in clinical outcomes in geroscience intervention trials: A systematic review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42926120/"
       },
       {
-        "id": "clinicaltrials-gov-effect-of-topical-agents-with-various-antioxidant-containts-on-photoda",
-        "publishedAt": "2025-04-08",
-        "ageDays": 559,
-        "title": "Effect of Topical Agents With Various Antioxidant Containts on Photodamage Skin Induced",
-        "url": "https://clinicaltrials.gov/study/NCT06170346"
+        "id": "pubmed-cellular-senescence-as-a-core-mechanistic-link-between-ckd-cardiac-fi",
+        "publishedAt": "2026-Oct-22",
+        "ageDays": 24,
+        "title": "Cellular Senescence as a Core Mechanistic Link between CKD, Cardiac Fibrosis, and Aging.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42911667/"
       },
       {
-        "id": "clinicaltrials-gov-breathing-training-for-improving-cardiovascular-health-in-older-adults",
-        "publishedAt": "2025-10-08",
-        "ageDays": 376,
-        "title": "Breathing Training for Improving Cardiovascular Health in Older Adults With Sleep Apnea",
-        "url": "https://clinicaltrials.gov/study/NCT04932447"
+        "id": "clinicaltrials-gov-the-effects-of-flavonoid-supplementation-on-cognition-and-neural-mecha",
+        "publishedAt": "2018-05-24",
+        "ageDays": 3077,
+        "title": "The Effects of Flavonoid Supplementation on Cognition and Neural Mechanisms in Healthy Older Adults",
+        "url": "https://clinicaltrials.gov/study/NCT03030053"
       },
       {
-        "id": "clinicaltrials-gov-dna-damage-and-oxidative-stress-in-hospitalized-covid-19-patients",
-        "publishedAt": "2021-03-09",
-        "ageDays": 2050,
-        "title": "DNA Damage and Oxidative Stress in Hospitalized COVID-19 Patients",
-        "url": "https://clinicaltrials.gov/study/NCT04784468"
+        "id": "clinicaltrials-gov-identifying-challenges-to-healthy-aging-in-persons-with-human-immunode",
+        "publishedAt": "2026-08-27",
+        "ageDays": 60,
+        "title": "Identifying Challenges to Healthy Aging in Persons With Human Immunodeficiency Virus (HIV) Age 50 and Older",
+        "url": "https://clinicaltrials.gov/study/NCT05858034"
       },
       {
-        "id": "clinicaltrials-gov-the-trinity-ulster-and-department-of-agriculture-cohort-study",
-        "publishedAt": "2016-01-27",
-        "ageDays": 3918,
-        "title": "The Trinity, Ulster and Department of Agriculture Cohort Study",
-        "url": "https://clinicaltrials.gov/study/NCT02664584"
+        "id": "clinicaltrials-gov-boosting-exercise-capacity-with-autonomic-neuromodulation",
+        "publishedAt": "2023-08-02",
+        "ageDays": 1181,
+        "title": "Boosting Exercise cApaCity With autOnomic Neuromodulation",
+        "url": "https://clinicaltrials.gov/study/NCT05619107"
       },
       {
-        "id": "clinicaltrials-gov-prevention-of-recurrent-vulvovaginal-candidiasis-with-lactibiane-candi",
-        "publishedAt": "2021-04-20",
-        "ageDays": 2008,
-        "title": "Prevention of Recurrent Vulvovaginal Candidiasis With Lactibiane Candisis 5M®",
-        "url": "https://clinicaltrials.gov/study/NCT00915629"
+        "id": "clinicaltrials-gov-partnered-rhythmic-rehabilitation-in-prodromal-alzheimer-s-disease",
+        "publishedAt": "2026-05-26",
+        "ageDays": 153,
+        "title": "Partnered Rhythmic Rehabilitation in Prodromal Alzheimer's Disease",
+        "url": "https://clinicaltrials.gov/study/NCT04029623"
       },
       {
-        "id": "clinicaltrials-gov-autologous-stem-cell-treatment-for-chronic-lung-disease-study",
-        "publishedAt": "2018-10-15",
-        "ageDays": 2926,
-        "title": "Autologous Stem Cell Treatment for Chronic Lung Disease Study",
-        "url": "https://clinicaltrials.gov/study/NCT03044431"
+        "id": "clinicaltrials-gov-mcr-syndrome-in-quebec-results-from-nuage-study",
+        "publishedAt": "2024-02-23",
+        "ageDays": 976,
+        "title": "MCR Syndrome in Quebec : Results From NuAge Study",
+        "url": "https://clinicaltrials.gov/study/NCT05046275"
       },
       {
-        "id": "clinicaltrials-gov-the-effects-of-aggressive-patient-management-on-cancer-therapy-managem",
-        "publishedAt": "2012-04-09",
-        "ageDays": 5306,
-        "title": "The Effects of Aggressive Patient Management on Cancer Therapy Management",
-        "url": "https://clinicaltrials.gov/study/NCT00962572"
+        "id": "clinicaltrials-gov-supporting-sustained-hiv-treatment-adherence-after-initiation",
+        "publishedAt": "2026-07-06",
+        "ageDays": 112,
+        "title": "Supporting Sustained HIV Treatment Adherence After Initiation",
+        "url": "https://clinicaltrials.gov/study/NCT05040841"
       },
       {
-        "id": "clinicaltrials-gov-melatonin-plus-aminoacids-for-sarcopenic-elderly",
-        "publishedAt": "2018-12-24",
-        "ageDays": 2856,
-        "title": "Melatonin Plus Aminoacids for Sarcopenic Elderly",
-        "url": "https://clinicaltrials.gov/study/NCT03784495"
+        "id": "clinicaltrials-gov-eliminating-monitor-overuse-trial-emo-trial",
+        "publishedAt": "2026-02-13",
+        "ageDays": 255,
+        "title": "Eliminating Monitor Overuse Trial (EMO Trial)",
+        "url": "https://clinicaltrials.gov/study/NCT05132322"
       },
       {
-        "id": "clinicaltrials-gov-effects-of-teriparatide-in-the-treatment-of-postmenopausal-women-with",
-        "publishedAt": "2008-05-01",
-        "ageDays": 6745,
-        "title": "Effects of Teriparatide in the Treatment of Postmenopausal Women With Osteoporosis",
-        "url": "https://clinicaltrials.gov/study/NCT00670501"
+        "id": "clinicaltrials-gov-effects-of-ketone-monoesters-on-brain-function",
+        "publishedAt": "2025-02-20",
+        "ageDays": 613,
+        "title": "Effects of Ketone Monoesters on Brain Function",
+        "url": "https://clinicaltrials.gov/study/NCT06395051"
       },
       {
-        "id": "clinicaltrials-gov-protandim-and-the-metabolic-syndrome",
-        "publishedAt": "2017-10-18",
-        "ageDays": 3288,
-        "title": "Protandim and the Metabolic Syndrome",
-        "url": "https://clinicaltrials.gov/study/NCT01125501"
+        "id": "clinicaltrials-gov-efficacy-of-locally-delivered-tea-tree-oil-gel-as-an-adjunct-to-non-su",
+        "publishedAt": "2023-04-07",
+        "ageDays": 1298,
+        "title": "Efficacy of Locally Delivered Tea Tree Oil Gel as an Adjunct to Non-Surgical Periodontal Management",
+        "url": "https://clinicaltrials.gov/study/NCT05803031"
       },
       {
-        "id": "clinicaltrials-gov-a-trial-of-a-botanical-drug-containing-east-indian-sandalwood-oil-eis",
-        "publishedAt": "2021-11-19",
-        "ageDays": 1795,
-        "title": "A Trial of a Botanical Drug Containing East Indian Sandalwood Oil (EISO) for the Treatment of Oral Mucositis",
-        "url": "https://clinicaltrials.gov/study/NCT02399228"
+        "id": "clinicaltrials-gov-pain-rehabilitation-virtual-reality-prvr-innovations-to-enhance-mob",
+        "publishedAt": "2025-11-14",
+        "ageDays": 346,
+        "title": "Pain Rehabilitation Virtual Reality (PRVR): Innovations to Enhance Mobility in the Presence of Pain",
+        "url": "https://clinicaltrials.gov/study/NCT04636177"
       },
       {
-        "id": "clinicaltrials-gov-efficacy-study-of-huatuo-zaizao-pills-in-improving-of-neural-function",
-        "publishedAt": "2013-01-23",
-        "ageDays": 5017,
-        "title": "Efficacy Study of Huatuo Zaizao Pills in Improving of Neural Function in Acute Ischemic Stroke",
-        "url": "https://clinicaltrials.gov/study/NCT01758536"
+        "id": "clinicaltrials-gov-botanical-oil-supplementation-in-diabetic-and-metabolic-syndrome-subje",
+        "publishedAt": "2019-07-18",
+        "ageDays": 2657,
+        "title": "Botanical Oil Supplementation in Diabetic and Metabolic Syndrome Subjects",
+        "url": "https://clinicaltrials.gov/study/NCT01145066"
       },
       {
-        "id": "clinicaltrials-gov-impact-of-a-topical-cosmetic-product-on-women-s-hair",
-        "publishedAt": "2025-04-09",
-        "ageDays": 558,
-        "title": "Impact of a Topical Cosmetic Product on Women's Hair",
-        "url": "https://clinicaltrials.gov/study/NCT06060834"
+        "id": "clinicaltrials-gov-the-effect-of-consuming-enzymes-and-prebiotics-on-body-composition-and",
+        "publishedAt": "2020-03-11",
+        "ageDays": 2420,
+        "title": "The Effect of Consuming Enzymes and Prebiotics on Body Composition and Blood Biochemical Index",
+        "url": "https://clinicaltrials.gov/study/NCT04303481"
       },
       {
-        "id": "clinicaltrials-gov-bioavailability-of-xanthones-from-mangosteen",
-        "publishedAt": "2011-09-02",
-        "ageDays": 5526,
-        "title": "Bioavailability of Xanthones From Mangosteen",
-        "url": "https://clinicaltrials.gov/study/NCT01425047"
+        "id": "clinicaltrials-gov-a-clinical-intervention-study-of-tangningtongluo-on-diabetic-foot-ulce",
+        "publishedAt": "2022-03-18",
+        "ageDays": 1683,
+        "title": "A Clinical Intervention Study of Tangningtongluo on Diabetic Foot Ulcer",
+        "url": "https://clinicaltrials.gov/study/NCT05145140"
       },
       {
-        "id": "clinicaltrials-gov-pregabalin-in-the-treatment-of-essential-tremor",
-        "publishedAt": "2021-04-26",
-        "ageDays": 2002,
-        "title": "Pregabalin in the Treatment of Essential Tremor",
-        "url": "https://clinicaltrials.gov/study/NCT00646451"
+        "id": "clinicaltrials-gov-study-to-evaluate-safety-tolerability-and-efficacy-of-oral-e-b-fahf-2",
+        "publishedAt": "2025-09-23",
+        "ageDays": 398,
+        "title": "Study to Evaluate Safety, Tolerability and Efficacy of Oral E-B-FAHF-2 in Mild-to-Moderate Crohn's Disease",
+        "url": "https://clinicaltrials.gov/study/NCT03992469"
       },
       {
-        "id": "clinicaltrials-gov-efficacy-of-non-invasive-neuromodulation-treatments-for-covid-19-seque",
-        "publishedAt": "2025-09-18",
-        "ageDays": 396,
-        "title": "Efficacy of Non-invasive Neuromodulation Treatments for COVID-19 Sequelae",
-        "url": "https://clinicaltrials.gov/study/NCT06544395"
+        "id": "clinicaltrials-gov-dietary-protein-sources-and-glycemic-variability",
+        "publishedAt": "2024-07-31",
+        "ageDays": 817,
+        "title": "Dietary Protein Sources and Glycemic Variability",
+        "url": "https://clinicaltrials.gov/study/NCT06525441"
       },
       {
-        "id": "clinicaltrials-gov-studying-the-presence-of-cfrd-complications-with-thoughtful-recruitmen",
-        "publishedAt": "2026-02-10",
-        "ageDays": 251,
-        "title": "Studying the Presence of CFRD Complications With Thoughtful Recruitment (SPeCTRuM)",
-        "url": "https://clinicaltrials.gov/study/NCT06837181"
+        "id": "clinicaltrials-gov-nad-supplementation-in-parkinson-s-disease",
+        "publishedAt": "2026-08-12",
+        "ageDays": 75,
+        "title": "NAD Supplementation in Parkinson's Disease",
+        "url": "https://clinicaltrials.gov/study/NCT07703137"
       },
       {
-        "id": "clinicaltrials-gov-effect-of-central-insulin-administration-on-whole-body-insulin-sensit",
-        "publishedAt": "2021-09-05",
-        "ageDays": 1870,
-        "title": "\"Effect of Central Insulin Administration on Whole-body Insulin Sensitivity in Women\"",
-        "url": "https://clinicaltrials.gov/study/NCT03929419"
+        "id": "clinicaltrials-gov-the-role-of-secretin-on-the-energy-homeostasis",
+        "publishedAt": "2020-11-05",
+        "ageDays": 2181,
+        "title": "The Role of Secretin on the Energy Homeostasis",
+        "url": "https://clinicaltrials.gov/study/NCT04613700"
       },
       {
-        "id": "clinicaltrials-gov-the-effect-of-probiotic-supplementation-in-drug-resistant-epilepsy-pat",
-        "publishedAt": "2018-01-19",
-        "ageDays": 3195,
-        "title": "The Effect of Probiotic Supplementation in Drug-resistant Epilepsy Patients",
-        "url": "https://clinicaltrials.gov/study/NCT03403907"
+        "id": "clinicaltrials-gov-a-study-of-iv-casopitant-for-the-prevention-of-chemotherapy-induced-na",
+        "publishedAt": "2018-01-17",
+        "ageDays": 3204,
+        "title": "A Study Of IV Casopitant For The Prevention Of Chemotherapy Induced Nausea And Vomiting.",
+        "url": "https://clinicaltrials.gov/study/NCT00601172"
       },
       {
-        "id": "clinicaltrials-gov-implementing-the-wuqinxi-on-patients-with-pulmonary-arterial-hypertens",
-        "publishedAt": "2024-06-12",
-        "ageDays": 859,
-        "title": "Implementing the Wuqinxi on Patients With Pulmonary Arterial Hypertension",
-        "url": "https://clinicaltrials.gov/study/NCT06454422"
+        "id": "clinicaltrials-gov-cdss-of-traditional-chinese-medicine-intervention-for-dry-eye-syndrome",
+        "publishedAt": "2021-03-19",
+        "ageDays": 2047,
+        "title": "CDSS of Traditional Chinese Medicine Intervention for Dry Eye Syndrome",
+        "url": "https://clinicaltrials.gov/study/NCT04806256"
       },
       {
-        "id": "clinicaltrials-gov-the-evaluation-and-management-of-patients-with-acute-chest-pain-in-chi",
-        "publishedAt": "2018-01-09",
-        "ageDays": 3205,
-        "title": "The Evaluation and Management of Patients With Acute ChesT Pain in China",
-        "url": "https://clinicaltrials.gov/study/NCT02536677"
+        "id": "clinicaltrials-gov-quality-of-life-and-symptoms-in-patients-with-newly-diagnosed-myelodys",
+        "publishedAt": "2020-12-22",
+        "ageDays": 2134,
+        "title": "Quality of Life and Symptoms in Patients With Newly Diagnosed Myelodysplastic Syndromes",
+        "url": "https://clinicaltrials.gov/study/NCT00809575"
       },
       {
-        "id": "clinicaltrials-gov-a-study-on-postmarketing-xuezhikang-capsule-for-treating-dyslipidemia",
-        "publishedAt": "2014-02-07",
-        "ageDays": 4637,
-        "title": "A Study on Postmarketing Xuezhikang Capsule for Treating Dyslipidemia",
-        "url": "https://clinicaltrials.gov/study/NCT02057302"
+        "id": "clinicaltrials-gov-effect-of-qigong-therapy-in-patients-with-advanced-lung-and-gastrointe",
+        "publishedAt": "2019-08-16",
+        "ageDays": 2628,
+        "title": "Effect of Qigong Therapy in Patients With Advanced Lung and Gastrointestinal Cancer Undergoing Chemotherapy",
+        "url": "https://clinicaltrials.gov/study/NCT01374100"
       },
       {
-        "id": "clinicaltrials-gov-pregnancy-salt-substitution-trial-for-hypertensive-disorders-of-pregna",
-        "publishedAt": "2026-08-28",
-        "ageDays": 52,
-        "title": "Pregnancy Salt Substitution Trial for Hypertensive Disorders of Pregnancy Prevention (PREG-Salt)",
-        "url": "https://clinicaltrials.gov/study/NCT07294807"
+        "id": "clinicaltrials-gov-effects-of-traditional-chinese-medicine-on-bronchiectasis-patients",
+        "publishedAt": "2018-02-23",
+        "ageDays": 3167,
+        "title": "Effects of Traditional Chinese Medicine on Bronchiectasis Patients",
+        "url": "https://clinicaltrials.gov/study/NCT03443531"
       },
       {
-        "id": "clinicaltrials-gov-af-ablation-for-hf-with-reduced-ef",
-        "publishedAt": "2023-04-24",
-        "ageDays": 1274,
-        "title": "AF Ablation for HF With Reduced EF",
-        "url": "https://clinicaltrials.gov/study/NCT05827172"
+        "id": "clinicaltrials-gov-hvpg-guided-laparoscopic-versus-endoscopic-therapy-for-variceal-reblee",
+        "publishedAt": "2021-08-17",
+        "ageDays": 1896,
+        "title": "HVPG-guided Laparoscopic Versus Endoscopic Therapy for Variceal Rebleeding in Portal Hypertension: A Multicenter Randomized Controlled Trial (CHESS1803)",
+        "url": "https://clinicaltrials.gov/study/NCT03783065"
       },
       {
-        "id": "pubmed-the-foxo-aging-axis-epigenetic-insights-and-chromatin-mechanisms",
-        "publishedAt": "2026-Oct-16",
-        "ageDays": 18,
-        "title": "The FOXO-Aging Axis: Epigenetic Insights and Chromatin Mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42887702/"
+        "id": "pubmed-dioscin-attenuates-aniline-induced-liver-injury-by-targeting-the-acot2",
+        "publishedAt": "2026-Oct-24",
+        "ageDays": 24,
+        "title": "Dioscin attenuates aniline-induced liver injury by targeting the ACOT2-mediated ROS-JAK2/STAT3-CLN5 axis and restoring mitochondrial fatty acid oxidation and lysosomal lipophagy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42926116/"
       },
       {
-        "id": "pubmed-elf1-exacerbates-intervertebral-disc-degeneration-by-promoting-acsl4-d",
-        "publishedAt": "2026-Oct-15",
-        "ageDays": 18,
-        "title": "ELF1 exacerbates intervertebral disc degeneration by promoting ACSL4-dependent ferro-aging of nucleus pulposus cells through the IFITM3-PTPRO axis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42880403/"
+        "id": "pubmed-a-senescence-driven-fibroblast-macrophage-feed-forward-circuit-promote",
+        "publishedAt": "2026-Oct-24",
+        "ageDays": 24,
+        "title": "A senescence-driven fibroblast-macrophage feed-forward circuit promotes radiation induced cutaneous fibrosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42925940/"
       },
       {
-        "id": "clinicaltrials-gov-patient-and-care-partner-experiences-living-with-multiple-myeloma-pac",
-        "publishedAt": "2024-12-12",
-        "ageDays": 676,
-        "title": "Patient and Care Partner Experiences Living With Multiple Myeloma (PaCE-MM)",
-        "url": "https://clinicaltrials.gov/study/NCT05276622"
+        "id": "pubmed-exposomic-determinants-in-heart-failure-among-older-adults-mechanist",
+        "publishedAt": "2026-Oct-24",
+        "ageDays": 24,
+        "title": "Exposomic Determinants in Heart Failure Among Older Adults - Mechanistic Links, Clinical Evidence, and Future Perspectives.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42925369/"
       },
       {
-        "id": "clinicaltrials-gov-respiratory-virome-diversity-and-baseline-immunity-in-healthy-individu",
-        "publishedAt": "2024-10-29",
-        "ageDays": 720,
-        "title": "Respiratory Virome Diversity and Baseline Immunity in Healthy Individuals in Shanghai",
-        "url": "https://clinicaltrials.gov/study/NCT06641856"
+        "id": "pubmed-thioredoxin-interacting-protein-regulated-in-development-and-dna-damag",
+        "publishedAt": "2026-Oct-23",
+        "ageDays": 24,
+        "title": "Thioredoxin-Interacting Protein-Regulated in Development and DNA Damage-Response 1-Driven Macrophage Senescence Promotes Hypoxia-Induced Pulmonary Hypertension.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42924848/"
       }
     ]
   },
