@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T06:44:23.767116+00:00",
+  "generatedAt": "2026-11-02T07:59:25.083816+00:00",
   "reports": [
     {
       "entry": {
@@ -16747,6 +16747,1131 @@
           }
         ],
         "publishedAt": "2026-10-26T06:44:23.767116+00:00"
+      }
+    },
+    {
+      "entry": {
+        "id": "2026-W45-auto-202611020759",
+        "week": "2026-W45",
+        "issue": 45,
+        "issueLabel": "第45期",
+        "status": "published",
+        "path": "published/2026-W45-auto-202611020759.json",
+        "generatedAt": "2026-11-02T07:59:25.083816+00:00",
+        "publishedAt": "2026-11-02T07:59:25.083816+00:00"
+      },
+      "report": {
+        "schemaVersion": 1,
+        "week": "2026-W45",
+        "issue": 45,
+        "issueLabel": "第45期",
+        "status": "published",
+        "period": {
+          "from": "2026-11-02",
+          "to": "2026-11-08"
+        },
+        "generatedAt": "2026-11-02T07:59:25.083816+00:00",
+        "judgement": "自动采集、自动去重、自动分类和自动发布；读者只需浏览正式周报并提取有用信息。",
+        "opportunities": [],
+        "risks": [],
+        "actions": [],
+        "moduleOrder": [
+          "academic-frontier",
+          "industry-progress",
+          "health-food-competitors",
+          "food-ingredients",
+          "ai-applications"
+        ],
+        "items": [
+          {
+            "id": "crossref-cased-hole-tractor-conveyance-restoressurveillance-and-intervention-ac",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Cased Hole Tractor Conveyance RestoresSurveillance and Intervention Access in Long, Deep Horizontal Wells: A 20-Well Middle EastCampaign",
+            "titleZh": "Cased Hole Tractor Conveyance RestoresSurveillance and Intervention Access in Long, Deep Horizontal Wells: A 20-Well Middle EastCampaign",
+            "url": "https://doi.org/10.2118/235553-ms",
+            "publishedAt": "2026-11-02T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.2118/235553-ms"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-02 收录/发布：Cased Hole Tractor Conveyance RestoresSurveillance and Intervention Access in Long, Deep Horizontal Wells: A 20-Well Middle EastCampaign",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Cased Hole Tractor Conveyance RestoresSurveillance and Intervention Access in Long, Deep Horizontal Wells: A 20-Well Middle EastCampaign",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.2118/235553-ms",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-02T07:59:25.100650+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-enhancing-structural-integrity-of-aging-arabian-gulf-platforms-through",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Enhancing Structural Integrity of Aging Arabian Gulf Platforms Through API RP 2SIM: A Brownfield Modification Case Study",
+            "titleZh": "Enhancing Structural Integrity of Aging Arabian Gulf Platforms Through API RP 2SIM: A Brownfield Modification Case Study",
+            "url": "https://doi.org/10.2118/235713-ms",
+            "publishedAt": "2026-11-02T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.2118/235713-ms"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-02 收录/发布：Enhancing Structural Integrity of Aging Arabian Gulf Platforms Through API RP 2SIM: A Brownfield Modification Case Study",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Enhancing Structural Integrity of Aging Arabian Gulf Platforms Through API RP 2SIM: A Brownfield Modification Case Study",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.2118/235713-ms",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-02T07:59:25.100722+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-deciphering-natural-alkaline-water-induced-human-molecular-homeostatic",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "industry-progress"
+            ],
+            "primaryModuleId": "industry-progress",
+            "titleOriginal": "Deciphering natural alkaline water-induced human molecular homeostatic regulation via non-invasive sweat metabolic profiling",
+            "titleZh": "Deciphering natural alkaline water-induced human molecular homeostatic regulation via non-invasive sweat metabolic profiling",
+            "url": "https://doi.org/10.3389/fbioe.2026.1965411",
+            "publishedAt": "2026-11-02T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.3389/fbioe.2026.1965411"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-02 收录/发布：Deciphering natural alkaline water-induced human molecular homeostatic regulation via non-invasive sweat metabolic profiling",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Deciphering natural alkaline water-induced human molecular homeostatic regulation via non-invasive sweat metabolic profiling",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.3389/fbioe.2026.1965411",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-02T07:59:25.100770+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-serum-context-shapes-macrophage-baseline-state-and-lps-responsiveness",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Serum context shapes macrophage baseline state and LPS responsiveness in human monocyte-derived macrophages",
+            "titleZh": "Serum context shapes macrophage baseline state and LPS responsiveness in human monocyte-derived macrophages",
+            "url": "https://doi.org/10.3389/fimmu.2026.1981520",
+            "publishedAt": "2026-11-02T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.3389/fimmu.2026.1981520"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-02 收录/发布：Serum context shapes macrophage baseline state and LPS responsiveness in human monocyte-derived macrophages",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Serum context shapes macrophage baseline state and LPS responsiveness in human monocyte-derived macrophages",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.3389/fimmu.2026.1981520",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-02T07:59:25.100811+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-investigation-of-the-abo-gene-as-a-biomarker-in-breast-invasive-carcin",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Investigation of the ABO gene as a biomarker in breast invasive carcinoma using cancer profiling and blood type distribution",
+            "titleZh": "Investigation of the ABO gene as a biomarker in breast invasive carcinoma using cancer profiling and blood type distribution",
+            "url": "https://doi.org/10.3389/fonc.2026.1956695",
+            "publishedAt": "2026-11-02T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.3389/fonc.2026.1956695"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-02 收录/发布：Investigation of the ABO gene as a biomarker in breast invasive carcinoma using cancer profiling and blood type distribution",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Investigation of the ABO gene as a biomarker in breast invasive carcinoma using cancer profiling and blood type distribution",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.3389/fonc.2026.1956695",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-02T07:59:25.100862+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-an-assessment-of-age-related-physiological-decline-arpd-in-the-elder",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "An assessment of age-related physiological decline (ARPD) in the elderly: An observational study in a tertiary care center in Eastern Odisha",
+            "titleZh": "An assessment of age-related physiological decline (ARPD) in the elderly: An observational study in a tertiary care center in Eastern Odisha",
+            "url": "https://doi.org/10.18231/j.ijcap.17680.1788774322",
+            "publishedAt": "2026-11-02T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.18231/j.ijcap.17680.1788774322"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-02 收录/发布：An assessment of age-related physiological decline (ARPD) in the elderly: An observational study in a tertiary care center in Eastern Odisha",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：An assessment of age-related physiological decline (ARPD) in the elderly: An observational study in a tertiary care center in Eastern Odisha",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.18231/j.ijcap.17680.1788774322",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-02T07:59:25.101045+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-rapid-removal-of-illegal-fishing-gear-as-an-operational-link-in-life-c",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Rapid removal of illegal fishing gear as an operational link in life-cycle fishing gear governance: comparative institutional analysis and pilot evidence from South Korea",
+            "titleZh": "Rapid removal of illegal fishing gear as an operational link in life-cycle fishing gear governance: comparative institutional analysis and pilot evidence from South Korea",
+            "url": "https://doi.org/10.3389/fmars.2026.1947570",
+            "publishedAt": "2026-11-02T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.3389/fmars.2026.1947570"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-02 收录/发布：Rapid removal of illegal fishing gear as an operational link in life-cycle fishing gear governance: comparative institutional analysis and pilot evidence from South Korea",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Rapid removal of illegal fishing gear as an operational link in life-cycle fishing gear governance: comparative institutional analysis and pilot evidence from South Korea",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.3389/fmars.2026.1947570",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-02T07:59:25.101094+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-living-anionic-polymerization-of-1-cyclohexyl-3-dendralene",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Living Anionic Polymerization of 1-Cyclohexyl[3]dendralene",
+            "titleZh": "Living Anionic Polymerization of 1-Cyclohexyl[3]dendralene",
+            "url": "https://doi.org/10.1021/acs.macromol.6c02252",
+            "publishedAt": "2026-11-02T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1021/acs.macromol.6c02252"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-02 收录/发布：Living Anionic Polymerization of 1-Cyclohexyl[3]dendralene",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Living Anionic Polymerization of 1-Cyclohexyl[3]dendralene",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1021/acs.macromol.6c02252",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-02T07:59:25.101134+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-effects-of-trigonelline-monohydrate-on-nad-metabolism-pharmacokineti",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "health-food-competitors"
+            ],
+            "primaryModuleId": "health-food-competitors",
+            "titleOriginal": "Effects of Trigonelline Monohydrate on NAD+ Metabolism, Pharmacokinetics, Safety, and Tolerability in Healthy Adults",
+            "titleZh": "Effects of Trigonelline Monohydrate on NAD+ Metabolism, Pharmacokinetics, Safety, and Tolerability in Healthy Adults",
+            "url": "https://clinicaltrials.gov/study/NCT07880925",
+            "publishedAt": "2026-10-19T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07880925"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-10-19 收录/发布：Effects of Trigonelline Monohydrate on NAD+ Metabolism, Pharmacokinetics, Safety, and Tolerability in Healthy Adults",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.3,
+              "actionability": 8.4
+            },
+            "significance": "更新企业/品牌池，记录产品、原料、功效宣称、证据与渠道动作：Effects of Trigonelline Monohydrate on NAD+ Metabolism, Pharmacokinetics, Safety, and Tolerability in Healthy Adults",
+            "recommendedAction": "更新企业档案，记录品牌、产品、成分、功效宣称、证据等级和商业动作。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07880925",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-02T07:59:25.102057+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-life-monitoring-for-rural-older-adults",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "health-food-competitors"
+            ],
+            "primaryModuleId": "health-food-competitors",
+            "titleOriginal": "Life Monitoring for Rural Older Adults",
+            "titleZh": "Life Monitoring for Rural Older Adults",
+            "url": "https://clinicaltrials.gov/study/NCT06974006",
+            "publishedAt": "2026-10-19T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT06974006"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-10-19 收录/发布：Life Monitoring for Rural Older Adults",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.3,
+              "actionability": 8.4
+            },
+            "significance": "更新企业/品牌池，记录产品、原料、功效宣称、证据与渠道动作：Life Monitoring for Rural Older Adults",
+            "recommendedAction": "更新企业档案，记录品牌、产品、成分、功效宣称、证据等级和商业动作。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT06974006",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-02T07:59:25.102620+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-a-research-study-to-evaluate-the-effects-of-a-new-oral-medicine-called",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "industry-progress"
+            ],
+            "primaryModuleId": "industry-progress",
+            "titleOriginal": "A Research Study to Evaluate the Effects of a New Oral Medicine Called Cenerimod in Adults With Systemic Lupus Erythematosus",
+            "titleZh": "A Research Study to Evaluate the Effects of a New Oral Medicine Called Cenerimod in Adults With Systemic Lupus Erythematosus",
+            "url": "https://clinicaltrials.gov/study/NCT05648500",
+            "publishedAt": "2026-10-30T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT05648500"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-10-30 收录/发布：A Research Study to Evaluate the Effects of a New Oral Medicine Called Cenerimod in Adults With Systemic Lupus Erythematosus",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "提取原料名称、剂量、规范、安全性和人体证据设计，判断是否值得进入原料库：A Research Study to Evaluate the Effects of a New Oral Medicine Called Cenerimod in Adults With Systemic Lupus Erythematosus",
+            "recommendedAction": "整理原料名、适用人群、剂量、法规状态和证据设计，标注是否可进入后续深挖。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT05648500",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-02T07:59:25.101565+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "food-ingredients"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-effect-of-opioid-free-anesthesia-on-sleep-quality-cognitive-function",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Effect of Opioid-free Anesthesia on Sleep Quality, Cognitive Function and Recovery Quality After General Anesthesia in Elderly Patients",
+            "titleZh": "Effect of Opioid-free Anesthesia on Sleep Quality, Cognitive Function and Recovery Quality After General Anesthesia in Elderly Patients",
+            "url": "https://clinicaltrials.gov/study/NCT06493396",
+            "publishedAt": "2026-10-20T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT06493396"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-10-20 收录/发布：Effect of Opioid-free Anesthesia on Sleep Quality, Cognitive Function and Recovery Quality After General Anesthesia in Elderly Patients",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.3,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Effect of Opioid-free Anesthesia on Sleep Quality, Cognitive Function and Recovery Quality After General Anesthesia in Elderly Patients",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT06493396",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-02T07:59:25.102175+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-physiological-trajectories-and-observation-patterns-in-icu-mortality-p",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Physiological Trajectories and Observation Patterns in ICU Mortality Prediction: Transportability Under Changing Measurement Conditions",
+            "titleZh": "Physiological Trajectories and Observation Patterns in ICU Mortality Prediction: Transportability Under Changing Measurement Conditions",
+            "url": "http://arxiv.org/abs/2610.42126v1",
+            "publishedAt": "2026-10-30T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.42126v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-30 收录/发布：Physiological Trajectories and Observation Patterns in ICU Mortality Prediction: Transportability Under Changing Measurement Conditions",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Physiological Trajectories and Observation Patterns in ICU Mortality Prediction: Transportability Under Changing Measurement Conditions",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.42126v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-02T07:59:25.100890+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-towards-understanding-the-impact-of-plasticity-loss-on-reinforcement-l",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Towards Understanding the Impact of Plasticity Loss on Reinforcement Learning in Stochastic Environments",
+            "titleZh": "Towards Understanding the Impact of Plasticity Loss on Reinforcement Learning in Stochastic Environments",
+            "url": "http://arxiv.org/abs/2610.42100v1",
+            "publishedAt": "2026-10-30T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.42100v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-30 收录/发布：Towards Understanding the Impact of Plasticity Loss on Reinforcement Learning in Stochastic Environments",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Towards Understanding the Impact of Plasticity Loss on Reinforcement Learning in Stochastic Environments",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.42100v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-02T07:59:25.100919+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-a-richness-sensitive-acoustic-biodiversity-index-from-species-level-de",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "A richness-sensitive Acoustic Biodiversity Index from species-level detections: classifier benchmarking, false-positive control and validation against standard soundscape indices in an African savanna and an urban zoo",
+            "titleZh": "A richness-sensitive Acoustic Biodiversity Index from species-level detections: classifier benchmarking, false-positive control and validation against standard soundscape indices in an African savanna and an urban zoo",
+            "url": "http://arxiv.org/abs/2610.42042v1",
+            "publishedAt": "2026-10-30T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.42042v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-30 收录/发布：A richness-sensitive Acoustic Biodiversity Index from species-level detections: classifier benchmarking, false-positive control and validation against standard soundscape indices in an African savanna and an urban zoo",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：A richness-sensitive Acoustic Biodiversity Index from species-level detections: classifier benchmarking, false-positive control and validation against standard soundscape indices in an African savanna and an urban zoo",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.42042v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-02T07:59:25.100949+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-3sum-made-simpler-without-matrix-multiplication-k-sum-hypothesis",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "3SUM Made Simpler (Without Matrix Multiplication), $k$-SUM Hypothesis Refuted for Odd $k$, and Real 3SUM/APSP Derandomized",
+            "titleZh": "3SUM Made Simpler (Without Matrix Multiplication), $k$-SUM Hypothesis Refuted for Odd $k$, and Real 3SUM/APSP Derandomized",
+            "url": "http://arxiv.org/abs/2610.42012v1",
+            "publishedAt": "2026-10-30T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.42012v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-30 收录/发布：3SUM Made Simpler (Without Matrix Multiplication), $k$-SUM Hypothesis Refuted for Odd $k$, and Real 3SUM/APSP Derandomized",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：3SUM Made Simpler (Without Matrix Multiplication), $k$-SUM Hypothesis Refuted for Odd $k$, and Real 3SUM/APSP Derandomized",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.42012v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-02T07:59:25.100976+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-microswimmers-lose-by-swimming-selfishly",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Microswimmers lose by swimming selfishly",
+            "titleZh": "Microswimmers lose by swimming selfishly",
+            "url": "http://arxiv.org/abs/2610.41965v1",
+            "publishedAt": "2026-10-30T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.41965v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-30 收录/发布：Microswimmers lose by swimming selfishly",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Microswimmers lose by swimming selfishly",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.41965v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-02T07:59:25.100999+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-value-of-adding-ai-weather-model-ensembles-to-a-multi-model-probabilis",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Value of Adding AI Weather Model Ensembles to a Multi-model Probabilistic Blend",
+            "titleZh": "Value of Adding AI Weather Model Ensembles to a Multi-model Probabilistic Blend",
+            "url": "http://arxiv.org/abs/2610.42130v1",
+            "publishedAt": "2026-10-30T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.42130v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-30 收录/发布：Value of Adding AI Weather Model Ensembles to a Multi-model Probabilistic Blend",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Value of Adding AI Weather Model Ensembles to a Multi-model Probabilistic Blend",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.42130v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-02T07:59:25.101231+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-subquadratic-attention-with-a-hierarchical-tree-structured-indexer",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Subquadratic Attention with a Hierarchical Tree-Structured Indexer",
+            "titleZh": "Subquadratic Attention with a Hierarchical Tree-Structured Indexer",
+            "url": "http://arxiv.org/abs/2610.42112v1",
+            "publishedAt": "2026-10-30T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2610.42112v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-10-30 收录/发布：Subquadratic Attention with a Hierarchical Tree-Structured Indexer",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Subquadratic Attention with a Hierarchical Tree-Structured Indexer",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2610.42112v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-02T07:59:25.101261+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          }
+        ],
+        "topItemIds": [
+          "clinicaltrials-gov-a-research-study-to-evaluate-the-effects-of-a-new-oral-medicine-called",
+          "crossref-cased-hole-tractor-conveyance-restoressurveillance-and-intervention-ac",
+          "crossref-enhancing-structural-integrity-of-aging-arabian-gulf-platforms-through",
+          "crossref-deciphering-natural-alkaline-water-induced-human-molecular-homeostatic",
+          "crossref-serum-context-shapes-macrophage-baseline-state-and-lps-responsiveness",
+          "crossref-investigation-of-the-abo-gene-as-a-biomarker-in-breast-invasive-carcin",
+          "crossref-an-assessment-of-age-related-physiological-decline-arpd-in-the-elder",
+          "crossref-rapid-removal-of-illegal-fishing-gear-as-an-operational-link-in-life-c",
+          "crossref-living-anionic-polymerization-of-1-cyclohexyl-3-dendralene",
+          "clinicaltrials-gov-effects-of-trigonelline-monohydrate-on-nad-metabolism-pharmacokineti"
+        ],
+        "coverage": [
+          {
+            "sourceId": "automated-weekly-pipeline",
+            "status": "ok",
+            "attempts": 1,
+            "checkedAt": "2026-11-02T07:59:25.083816+00:00",
+            "itemCount": 19,
+            "recordErrors": 0,
+            "pageErrors": 0,
+            "recencyWindowDays": 14
+          }
+        ],
+        "publishedAt": "2026-11-02T07:59:25.083816+00:00"
       }
     }
   ]
