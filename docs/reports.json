@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T07:59:25.083816+00:00",
+  "generatedAt": "2026-11-09T08:28:08.922606+00:00",
   "reports": [
     {
       "entry": {
@@ -17872,6 +17872,1078 @@
           }
         ],
         "publishedAt": "2026-11-02T07:59:25.083816+00:00"
+      }
+    },
+    {
+      "entry": {
+        "id": "2026-W46-auto-202611090828",
+        "week": "2026-W46",
+        "issue": 46,
+        "issueLabel": "第46期",
+        "status": "published",
+        "path": "published/2026-W46-auto-202611090828.json",
+        "generatedAt": "2026-11-09T08:28:08.922606+00:00",
+        "publishedAt": "2026-11-09T08:28:08.922606+00:00"
+      },
+      "report": {
+        "schemaVersion": 1,
+        "week": "2026-W46",
+        "issue": 46,
+        "issueLabel": "第46期",
+        "status": "published",
+        "period": {
+          "from": "2026-11-09",
+          "to": "2026-11-15"
+        },
+        "generatedAt": "2026-11-09T08:28:08.922606+00:00",
+        "judgement": "自动采集、自动去重、自动分类和自动发布；读者只需浏览正式周报并提取有用信息。",
+        "opportunities": [],
+        "risks": [],
+        "actions": [],
+        "moduleOrder": [
+          "academic-frontier",
+          "industry-progress",
+          "health-food-competitors",
+          "food-ingredients",
+          "ai-applications"
+        ],
+        "items": [
+          {
+            "id": "crossref-pamu-personalized-affective-music-generation-using-u-transformer-with",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "PAMU: Personalized Affective Music Generation Using U-Transformer with EEG-driven Multimodal Control",
+            "titleZh": "PAMU: Personalized Affective Music Generation Using U-Transformer with EEG-driven Multimodal Control",
+            "url": "https://doi.org/10.1145/3840470.3841782",
+            "publishedAt": "2026-11-09T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1145/3840470.3841782"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-09 收录/发布：PAMU: Personalized Affective Music Generation Using U-Transformer with EEG-driven Multimodal Control",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：PAMU: Personalized Affective Music Generation Using U-Transformer with EEG-driven Multimodal Control",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1145/3840470.3841782",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-09T08:28:08.936858+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-tactidex-a-real-world-tactile-guided-benchmark-for-human-like-dextero",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "TactiDex: A Real-World Tactile-Guided Benchmark for Human-Like Dexterous Manipulation",
+            "titleZh": "TactiDex: A Real-World Tactile-Guided Benchmark for Human-Like Dexterous Manipulation",
+            "url": "https://doi.org/10.1145/3767308.3836369",
+            "publishedAt": "2026-11-09T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1145/3767308.3836369"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-09 收录/发布：TactiDex: A Real-World Tactile-Guided Benchmark for Human-Like Dexterous Manipulation",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：TactiDex: A Real-World Tactile-Guided Benchmark for Human-Like Dexterous Manipulation",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1145/3767308.3836369",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-09T08:28:08.936903+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-multi-layer-diffusion-strategy-for-multi-ip-interaction-aware-human-er",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Multi-Layer Diffusion Strategy for Multi-IP Interaction-Aware Human Erasing",
+            "titleZh": "Multi-Layer Diffusion Strategy for Multi-IP Interaction-Aware Human Erasing",
+            "url": "https://doi.org/10.1145/3767308.3836350",
+            "publishedAt": "2026-11-09T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1145/3767308.3836350"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-09 收录/发布：Multi-Layer Diffusion Strategy for Multi-IP Interaction-Aware Human Erasing",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Multi-Layer Diffusion Strategy for Multi-IP Interaction-Aware Human Erasing",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1145/3767308.3836350",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-09T08:28:08.936934+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-decoupled-multimodal-subspace-clustering-for-human-centric-multimodal",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Decoupled Multimodal Subspace Clustering for Human-Centric Multimodal Understanding",
+            "titleZh": "Decoupled Multimodal Subspace Clustering for Human-Centric Multimodal Understanding",
+            "url": "https://doi.org/10.1145/3767308.3835523",
+            "publishedAt": "2026-11-09T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1145/3767308.3835523"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-09 收录/发布：Decoupled Multimodal Subspace Clustering for Human-Centric Multimodal Understanding",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Decoupled Multimodal Subspace Clustering for Human-Centric Multimodal Understanding",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1145/3767308.3835523",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-09T08:28:08.936959+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-causalpatch-count-constrained-causal-repair-for-user-edited-multi-sho",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "CausalPatch: Count-Constrained Causal Repair for User-Edited Multi-Shot Narratives",
+            "titleZh": "CausalPatch: Count-Constrained Causal Repair for User-Edited Multi-Shot Narratives",
+            "url": "https://doi.org/10.1145/3841192.3841748",
+            "publishedAt": "2026-11-09T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1145/3841192.3841748"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-09 收录/发布：CausalPatch: Count-Constrained Causal Repair for User-Edited Multi-Shot Narratives",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：CausalPatch: Count-Constrained Causal Repair for User-Edited Multi-Shot Narratives",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1145/3841192.3841748",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-09T08:28:08.936991+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-personalized-image-aesthetic-assessment-via-preference-rich-sample-min",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Personalized Image Aesthetic Assessment via Preference-rich Sample Mining and Cohort Merging",
+            "titleZh": "Personalized Image Aesthetic Assessment via Preference-rich Sample Mining and Cohort Merging",
+            "url": "https://doi.org/10.1145/3767308.3835792",
+            "publishedAt": "2026-11-09T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1145/3767308.3835792"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-09 收录/发布：Personalized Image Aesthetic Assessment via Preference-rich Sample Mining and Cohort Merging",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Personalized Image Aesthetic Assessment via Preference-rich Sample Mining and Cohort Merging",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1145/3767308.3835792",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-09T08:28:08.937120+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-restorative-interiors-for-the-digital-age-a-literature-review-on-inte",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Restorative Interiors for the Digital Age: A Literature Review on Interior Design Strategies for Digital Fatigue",
+            "titleZh": "Restorative Interiors for the Digital Age: A Literature Review on Interior Design Strategies for Digital Fatigue",
+            "url": "https://doi.org/10.31091/bbwp.v6i1.714",
+            "publishedAt": "2026-11-09T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.31091/bbwp.v6i1.714"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-09 收录/发布：Restorative Interiors for the Digital Age: A Literature Review on Interior Design Strategies for Digital Fatigue",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Restorative Interiors for the Digital Age: A Literature Review on Interior Design Strategies for Digital Fatigue",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.31091/bbwp.v6i1.714",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-09T08:28:08.937147+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-ai-driven-personalization-transforming-customer-engagement-in-the-dig",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "AI-Driven Personalization: Transforming Customer Engagement in the Digital Age",
+            "titleZh": "AI-Driven Personalization: Transforming Customer Engagement in the Digital Age",
+            "url": "https://doi.org/10.33774/coe-2026-4rlmv",
+            "publishedAt": "2026-11-09T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.33774/coe-2026-4rlmv"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-09 收录/发布：AI-Driven Personalization: Transforming Customer Engagement in the Digital Age",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：AI-Driven Personalization: Transforming Customer Engagement in the Digital Age",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.33774/coe-2026-4rlmv",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-09T08:28:08.937177+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-the-impact-of-nicotinamide-mononucleotide-sustained-release-tablets-on",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "The Impact of Nicotinamide Mononucleotide Sustained-release Tablets on Immunosenescence and Metabolism in Middle-aged and Elderly Individuals With Metabolic Disorders.",
+            "titleZh": "The Impact of Nicotinamide Mononucleotide Sustained-release Tablets on Immunosenescence and Metabolism in Middle-aged and Elderly Individuals With Metabolic Disorders.",
+            "url": "https://clinicaltrials.gov/study/NCT06907329",
+            "publishedAt": "2026-11-03T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT06907329"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-11-03 收录/发布：The Impact of Nicotinamide Mononucleotide Sustained-release Tablets on Immunosenescence and Metabolism in Middle-aged and Elderly Individuals With Metabolic Disorders.",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.8,
+              "actionability": 8.4
+            },
+            "significance": "更新企业/品牌池，记录产品、原料、功效宣称、证据与渠道动作：The Impact of Nicotinamide Mononucleotide Sustained-release Tablets on Immunosenescence and Metabolism in Middle-aged and Elderly Individuals With Metabolic Disorders.",
+            "recommendedAction": "更新企业档案，记录品牌、产品、成分、功效宣称、证据等级和商业动作。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT06907329",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-09T08:28:08.937776+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "health-food-competitors"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-a-bioequivalence-study-of-olanzapine-samidofen-tablets-in-healthy-subj",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "industry-progress"
+            ],
+            "primaryModuleId": "industry-progress",
+            "titleOriginal": "A Bioequivalence Study of Olanzapine Samidofen Tablets in Healthy Subjects Under Fasting Conditions.",
+            "titleZh": "A Bioequivalence Study of Olanzapine Samidofen Tablets in Healthy Subjects Under Fasting Conditions.",
+            "url": "https://clinicaltrials.gov/study/NCT07922070",
+            "publishedAt": "2026-11-06T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07922070"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-11-06 收录/发布：A Bioequivalence Study of Olanzapine Samidofen Tablets in Healthy Subjects Under Fasting Conditions.",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "提取原料名称、剂量、规范、安全性和人体证据设计，判断是否值得进入原料库：A Bioequivalence Study of Olanzapine Samidofen Tablets in Healthy Subjects Under Fasting Conditions.",
+            "recommendedAction": "整理原料名、适用人群、剂量、法规状态和证据设计，标注是否可进入后续深挖。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07922070",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-09T08:28:08.938092+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "food-ingredients"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-deployment-and-evaluation-of-humanoid-robotics-in-coalition-aligned-cl",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Deployment and Evaluation of Humanoid Robotics in Coalition-Aligned Clinical Care Settings",
+            "titleZh": "Deployment and Evaluation of Humanoid Robotics in Coalition-Aligned Clinical Care Settings",
+            "url": "https://clinicaltrials.gov/study/NCT07214896",
+            "publishedAt": "2026-11-05T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07214896"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-11-05 收录/发布：Deployment and Evaluation of Humanoid Robotics in Coalition-Aligned Clinical Care Settings",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.9,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Deployment and Evaluation of Humanoid Robotics in Coalition-Aligned Clinical Care Settings",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07214896",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-09T08:28:08.938003+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-efficacy-of-magnesio-total-on-sleep-quality-and-quality-of-life-in-adu",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Efficacy of MAGNESIO TOTAL on Sleep Quality and Quality of Life in Adults",
+            "titleZh": "Efficacy of MAGNESIO TOTAL on Sleep Quality and Quality of Life in Adults",
+            "url": "https://clinicaltrials.gov/study/NCT07894562",
+            "publishedAt": "2026-11-02T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07894562"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-11-02 收录/发布：Efficacy of MAGNESIO TOTAL on Sleep Quality and Quality of Life in Adults",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.7,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Efficacy of MAGNESIO TOTAL on Sleep Quality and Quality of Life in Adults",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07894562",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-09T08:28:08.937723+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-health-system-wide-mapping-of-demographic-information-in-routine-clini",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Health-System-Wide Mapping of Demographic Information in Routine Clinical Histopathology",
+            "titleZh": "Health-System-Wide Mapping of Demographic Information in Routine Clinical Histopathology",
+            "url": "http://arxiv.org/abs/2611.09851v1",
+            "publishedAt": "2026-11-06T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2611.09851v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-11-06 收录/发布：Health-System-Wide Mapping of Demographic Information in Routine Clinical Histopathology",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Health-System-Wide Mapping of Demographic Information in Routine Clinical Histopathology",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2611.09851v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-09T08:28:08.937014+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-predicting-fitness-from-genomic-offset-a-multivariate-latent-trait-fr",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Predicting fitness from genomic offset: a multivariate latent-trait framework",
+            "titleZh": "Predicting fitness from genomic offset: a multivariate latent-trait framework",
+            "url": "http://arxiv.org/abs/2611.09748v1",
+            "publishedAt": "2026-11-06T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2611.09748v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-11-06 收录/发布：Predicting fitness from genomic offset: a multivariate latent-trait framework",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Predicting fitness from genomic offset: a multivariate latent-trait framework",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2611.09748v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-09T08:28:08.937033+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-safety-is-π-1-provability-is-σ-1-one-framework-for-the-hugging-f",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Safety Is $Π_1$, Provability Is $Σ_1$: One Framework for the Hugging Face Breach and OpenAI's Mathematical Proofs",
+            "titleZh": "Safety Is $Π_1$, Provability Is $Σ_1$: One Framework for the Hugging Face Breach and OpenAI's Mathematical Proofs",
+            "url": "http://arxiv.org/abs/2611.09736v1",
+            "publishedAt": "2026-11-06T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2611.09736v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-11-06 收录/发布：Safety Is $Π_1$, Provability Is $Σ_1$: One Framework for the Hugging Face Breach and OpenAI's Mathematical Proofs",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Safety Is $Π_1$, Provability Is $Σ_1$: One Framework for the Hugging Face Breach and OpenAI's Mathematical Proofs",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2611.09736v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-09T08:28:08.937058+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-one-run-is-not-enough-a-monte-carlo-protocol-for-evaluating-llm-relia",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "One Run Is Not Enough: A Monte Carlo Protocol for Evaluating LLM Reliability on Data Science Tasks",
+            "titleZh": "One Run Is Not Enough: A Monte Carlo Protocol for Evaluating LLM Reliability on Data Science Tasks",
+            "url": "http://arxiv.org/abs/2611.09729v1",
+            "publishedAt": "2026-11-06T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2611.09729v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-11-06 收录/发布：One Run Is Not Enough: A Monte Carlo Protocol for Evaluating LLM Reliability on Data Science Tasks",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：One Run Is Not Enough: A Monte Carlo Protocol for Evaluating LLM Reliability on Data Science Tasks",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2611.09729v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-09T08:28:08.937081+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-tensor-value-and-the-9-4-bound-for-matrix-multiplication",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Tensor value and the 9/4 bound for matrix multiplication",
+            "titleZh": "Tensor value and the 9/4 bound for matrix multiplication",
+            "url": "http://arxiv.org/abs/2611.09716v1",
+            "publishedAt": "2026-11-06T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2611.09716v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-11-06 收录/发布：Tensor value and the 9/4 bound for matrix multiplication",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Tensor value and the 9/4 bound for matrix multiplication",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2611.09716v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-09T08:28:08.937096+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-video-coder-reinforcing-agentic-coding-for-video-generation",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Video-Coder: Reinforcing Agentic Coding for Video Generation",
+            "titleZh": "Video-Coder: Reinforcing Agentic Coding for Video Generation",
+            "url": "http://arxiv.org/abs/2611.09894v1",
+            "publishedAt": "2026-11-06T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2611.09894v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-11-06 收录/发布：Video-Coder: Reinforcing Agentic Coding for Video Generation",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Video-Coder: Reinforcing Agentic Coding for Video Generation",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2611.09894v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-09T08:28:08.937264+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          }
+        ],
+        "topItemIds": [
+          "clinicaltrials-gov-a-bioequivalence-study-of-olanzapine-samidofen-tablets-in-healthy-subj",
+          "clinicaltrials-gov-deployment-and-evaluation-of-humanoid-robotics-in-coalition-aligned-cl",
+          "crossref-pamu-personalized-affective-music-generation-using-u-transformer-with",
+          "crossref-tactidex-a-real-world-tactile-guided-benchmark-for-human-like-dextero",
+          "crossref-multi-layer-diffusion-strategy-for-multi-ip-interaction-aware-human-er",
+          "crossref-decoupled-multimodal-subspace-clustering-for-human-centric-multimodal",
+          "crossref-causalpatch-count-constrained-causal-repair-for-user-edited-multi-sho",
+          "crossref-personalized-image-aesthetic-assessment-via-preference-rich-sample-min",
+          "crossref-restorative-interiors-for-the-digital-age-a-literature-review-on-inte",
+          "crossref-ai-driven-personalization-transforming-customer-engagement-in-the-dig"
+        ],
+        "coverage": [
+          {
+            "sourceId": "automated-weekly-pipeline",
+            "status": "ok",
+            "attempts": 1,
+            "checkedAt": "2026-11-09T08:28:08.922606+00:00",
+            "itemCount": 18,
+            "recordErrors": 0,
+            "pageErrors": 0,
+            "recencyWindowDays": 14
+          }
+        ],
+        "publishedAt": "2026-11-09T08:28:08.922606+00:00"
       }
     }
   ]

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T07:59:25.031334+00:00",
+  "generatedAt": "2026-11-09T08:28:08.872918+00:00",
   "searchTaskCount": 348,
-  "candidateCount": 263,
+  "candidateCount": 266,
   "discoveryWindowDays": 14,
   "searchPlanQuality": {
     "missingSearchUrls": [],
@@ -28,218 +28,218 @@
     }
   },
   "candidateRecency": {
-    "datedCandidateCount": 245,
-    "staleCandidateCount": 161,
+    "datedCandidateCount": 246,
+    "staleCandidateCount": 149,
     "staleCandidates": [
       {
-        "id": "pubmed-targeting-lipid-peroxidation-derived-aldehydes-in-parkinson-s-disease",
+        "id": "pubmed-eight-week-omega-3-polyunsaturated-fatty-acid-supplementation-alters-b",
+        "publishedAt": "2026-Oct-31",
+        "ageDays": 37,
+        "title": "Eight-week omega-3 polyunsaturated fatty acid supplementation alters but does not attenuate exercise-induced muscle damage in older adults: a randomised controlled trial.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42998283/"
+      },
+      {
+        "id": "clinicaltrials-gov-obesity-inflammation-and-aging-effects-of-physical-exercise-and-omeg",
+        "publishedAt": "2020-11-30",
+        "ageDays": 2170,
+        "title": "Obesity, Inflammation and Aging: Effects of Physical Exercise and Omega-3 Fatty Acids.",
+        "url": "https://clinicaltrials.gov/study/NCT03300388"
+      },
+      {
+        "id": "clinicaltrials-gov-service-dog-training-program-for-military-veterans-with-ptsd",
+        "publishedAt": "2024-07-26",
+        "ageDays": 836,
+        "title": "Service Dog Training Program for Military Veterans With PTSD",
+        "url": "https://clinicaltrials.gov/study/NCT03777020"
+      },
+      {
+        "id": "clinicaltrials-gov-dietary-protein-and-resistance-exercise-in-elderly",
+        "publishedAt": "2019-07-22",
+        "ageDays": 2667,
+        "title": "Dietary Protein and Resistance Exercise in Elderly",
+        "url": "https://clinicaltrials.gov/study/NCT04023513"
+      },
+      {
+        "id": "clinicaltrials-gov-lifestyle-intervention-trial-in-obese-elderly",
+        "publishedAt": "2020-01-22",
+        "ageDays": 2483,
+        "title": "Lifestyle Intervention Trial in Obese Elderly",
+        "url": "https://clinicaltrials.gov/study/NCT01065636"
+      },
+      {
+        "id": "clinicaltrials-gov-effectiveness-of-a-strength-program-over-cognitive-functionality-in-ol",
+        "publishedAt": "2024-05-30",
+        "ageDays": 893,
+        "title": "Effectiveness of a Strength Program Over Cognitive Functionality in Older Adults",
+        "url": "https://clinicaltrials.gov/study/NCT06434857"
+      },
+      {
+        "id": "clinicaltrials-gov-na-aion-risk-factors-new-perspectives",
+        "publishedAt": "2024-11-22",
+        "ageDays": 717,
+        "title": "NA-AION Risk Factors: New Perspectives",
+        "url": "https://clinicaltrials.gov/study/NCT05305079"
+      },
+      {
+        "id": "clinicaltrials-gov-comparison-of-absorption-of-vitamin-d-in-cystic-fibrosis",
+        "publishedAt": "2015-11-20",
+        "ageDays": 4007,
+        "title": "Comparison of Absorption of Vitamin D in Cystic Fibrosis",
+        "url": "https://clinicaltrials.gov/study/NCT01880346"
+      },
+      {
+        "id": "clinicaltrials-gov-effects-of-neo40-tm-with-caffeine-on-cycling-time-trial-performance",
+        "publishedAt": "2013-01-23",
+        "ageDays": 5038,
+        "title": "Effects of Neo40(TM) With Caffeine on Cycling Time Trial Performance",
+        "url": "https://clinicaltrials.gov/study/NCT01710761"
+      },
+      {
+        "id": "clinicaltrials-gov-effect-of-enteral-genistein-supplementation-in-sepsis",
+        "publishedAt": "2016-06-13",
+        "ageDays": 3801,
+        "title": "Effect of Enteral Genistein Supplementation in Sepsis",
+        "url": "https://clinicaltrials.gov/study/NCT02796794"
+      },
+      {
+        "id": "clinicaltrials-gov-lipid-lowering-effect-of-a-plant-stanol-ester-supplement-product",
+        "publishedAt": "2015-10-29",
+        "ageDays": 4029,
+        "title": "Lipid-lowering Effect of a Plant Stanol Ester Supplement Product",
+        "url": "https://clinicaltrials.gov/study/NCT02221297"
+      },
+      {
+        "id": "clinicaltrials-gov-a-feasibility-study-to-determine-whether-the-botanical-garden-become-a",
+        "publishedAt": "2025-06-04",
+        "ageDays": 523,
+        "title": "A Feasibility Study to Determine Whether the Botanical Garden Become a Region of Forest Therapy for Cancer Survivors",
+        "url": "https://clinicaltrials.gov/study/NCT06001723"
+      },
+      {
+        "id": "clinicaltrials-gov-treatment-of-rheumatoid-arthritis-with-marine-and-botanical-oils",
+        "publishedAt": "2008-08-25",
+        "ageDays": 6650,
+        "title": "Treatment of Rheumatoid Arthritis With Marine and Botanical Oils",
+        "url": "https://clinicaltrials.gov/study/NCT00072982"
+      },
+      {
+        "id": "clinicaltrials-gov-a-study-to-investigate-the-safety-tolerability-and-pharmacokinetics",
+        "publishedAt": "2026-10-09",
+        "ageDays": 31,
+        "title": "A Study to Investigate the Safety, Tolerability, and Pharmacokinetics of ATI-105 in Healthy Adults",
+        "url": "https://clinicaltrials.gov/study/NCT07869654"
+      },
+      {
+        "id": "clinicaltrials-gov-rct-of-a-polyherbal-dietary-supplement-for-prediabetes",
+        "publishedAt": "2022-06-28",
+        "ageDays": 1595,
+        "title": "RCT of a Polyherbal Dietary Supplement for Prediabetes",
+        "url": "https://clinicaltrials.gov/study/NCT03388762"
+      },
+      {
+        "id": "clinicaltrials-gov-a-clinical-study-to-assess-the-safety-and-effectiveness-of-plant-based",
+        "publishedAt": "2025-03-03",
+        "ageDays": 616,
+        "title": "A Clinical Study to Assess the Safety and Effectiveness of Plant-based Biotin and Plant Based Biotin with Silica in Healthy Human Subjects with Complaints of Hair Fall, Thin, Dry, & Brittle Hair, and Dry Skin",
+        "url": "https://clinicaltrials.gov/study/NCT05972512"
+      },
+      {
+        "id": "clinicaltrials-gov-twelve-year-follow-up-on-the-treatment-of-obese-pregnant-women-top-s",
+        "publishedAt": "2025-11-21",
+        "ageDays": 353,
+        "title": "Twelve-year Follow-up on the Treatment of Obese Pregnant Women (TOP) Study",
+        "url": "https://clinicaltrials.gov/study/NCT05446220"
+      },
+      {
+        "id": "clinicaltrials-gov-intervention-study-on-iodine-and-molybdenum-biofortification-vegetable",
+        "publishedAt": "2021-08-02",
+        "ageDays": 1925,
+        "title": "Intervention Study on Iodine and Molybdenum Biofortification Vegetables ( Nutri-I-Mo )",
+        "url": "https://clinicaltrials.gov/study/NCT04984746"
+      },
+      {
+        "id": "clinicaltrials-gov-effectiveness-and-safety-of-milk-ladders-in-children-with-ige-mediated",
+        "publishedAt": "2025-03-18",
+        "ageDays": 601,
+        "title": "Effectiveness and Safety of Milk Ladders in Children with IgE-Mediated Cow's Milk Protein Allergy",
+        "url": "https://clinicaltrials.gov/study/NCT06664918"
+      },
+      {
+        "id": "clinicaltrials-gov-exploring-the-efficacy-and-safety-of-herbal-medicine-on-korean-obese-w",
+        "publishedAt": "2021-04-12",
+        "ageDays": 2037,
+        "title": "Exploring the Efficacy and Safety of Herbal Medicine on Korean Obese Women With or Without Metabolic Syndrome Risk Factors - A Study Protocol for a Double-blind, Randomised, Multi-center, Placebo-controlled Clinical Trial",
+        "url": "https://clinicaltrials.gov/study/NCT03479346"
+      },
+      {
+        "id": "clinicaltrials-gov-nutritional-strategies-for-metabolic-health-in-aging",
+        "publishedAt": "2022-04-14",
+        "ageDays": 1670,
+        "title": "Nutritional Strategies for Metabolic Health in Aging",
+        "url": "https://clinicaltrials.gov/study/NCT04282603"
+      },
+      {
+        "id": "clinicaltrials-gov-clinical-study-on-the-prevention-and-treatment-of-postoperative-metast",
+        "publishedAt": "2024-05-03",
+        "ageDays": 920,
+        "title": "Clinical Study on the Prevention and Treatment of Postoperative Metastasis of Lung Cancer by Fuzheng Quxie Recipe",
+        "url": "https://clinicaltrials.gov/study/NCT06381960"
+      },
+      {
+        "id": "clinicaltrials-gov-efficacy-and-safety-of-cettum-for-knee-osteoarthritis",
+        "publishedAt": "2017-10-19",
+        "ageDays": 3308,
+        "title": "Efficacy and Safety of Cettum for Knee Osteoarthritis",
+        "url": "https://clinicaltrials.gov/study/NCT03287570"
+      },
+      {
+        "id": "clinicaltrials-gov-optimized-acupuncture-treatment-for-female-stress-urinary-incontinence",
+        "publishedAt": "2025-05-22",
+        "ageDays": 536,
+        "title": "Optimized Acupuncture Treatment for Female Stress Urinary Incontinence",
+        "url": "https://clinicaltrials.gov/study/NCT05635669"
+      },
+      {
+        "id": "clinicaltrials-gov-efficacy-of-hipec-in-patients-with-colorectal-cancer-at-high-risk-of-p",
+        "publishedAt": "2020-06-16",
+        "ageDays": 2337,
+        "title": "Efficacy of HIPEC in Patients With Colorectal Cancer at High Risk of Peritoneal Carcinomatosis",
+        "url": "https://clinicaltrials.gov/study/NCT04370925"
+      },
+      {
+        "id": "clinicaltrials-gov-efficacy-evaluation-study-of-bat5906-and-lucentis-in-patients-with-di",
+        "publishedAt": "2026-04-07",
+        "ageDays": 216,
+        "title": "Efficacy Evaluation Study of BAT5906 and Lucentis® in Patients With Diabetic Macular Edema",
+        "url": "https://clinicaltrials.gov/study/NCT07515079"
+      },
+      {
+        "id": "pubmed-snord42a-serves-as-an-oncogenic-biomarker-in-non-small-cell-lung-cance",
         "publishedAt": "2026-Oct-30",
-        "ageDays": 30,
-        "title": "Targeting lipid peroxidation-derived aldehydes in Parkinson's Disease and ageing: Antioxidant investigations and mechanistic insights.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42962772/"
+        "ageDays": 37,
+        "title": "SNORD42A serves as an oncogenic biomarker in non-small cell lung cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42996944/"
       },
       {
-        "id": "pubmed-an-exceptional-mobility-group-among-older-adults-protocol-for-the-sup",
-        "publishedAt": "2026-Oct-30",
-        "ageDays": 30,
-        "title": "An Exceptional Mobility Group Among Older Adults: Protocol for the Super Movers Study.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42962081/"
+        "id": "clinicaltrials-gov-adversity-and-its-association-with-the-development-and-expression-of-r",
+        "publishedAt": "2024-05-03",
+        "ageDays": 920,
+        "title": "Adversity and Its Association With the Development and Expression of Rheumatic Diseases",
+        "url": "https://clinicaltrials.gov/study/NCT06386380"
       },
       {
-        "id": "clinicaltrials-gov-molecular-and-organizational-changes-in-the-human-oral-mucosa-during-a",
-        "publishedAt": "2023-05-25",
-        "ageDays": 1257,
-        "title": "Molecular and Organizational Changes in the Human Oral Mucosa During Aging",
-        "url": "https://clinicaltrials.gov/study/NCT04178668"
+        "id": "clinicaltrials-gov-immune-cells-phenotypes-during-covid-19",
+        "publishedAt": "2021-03-25",
+        "ageDays": 2055,
+        "title": "Immune Cells Phenotypes During COVID-19",
+        "url": "https://clinicaltrials.gov/study/NCT04816760"
       },
       {
-        "id": "clinicaltrials-gov-impact-of-an-enhanced-screening-program-on-the-detection-of-non-aids-n",
-        "publishedAt": "2021-02-03",
-        "ageDays": 2098,
-        "title": "IMPACt of an Enhanced Screening Program on the Detection of Non-AIDS NEOplasms in HIV Patients",
-        "url": "https://clinicaltrials.gov/study/NCT04735445"
-      },
-      {
-        "id": "clinicaltrials-gov-dna-damage-and-oxidative-stress-in-hospitalized-covid-19-patients",
-        "publishedAt": "2021-03-09",
-        "ageDays": 2064,
-        "title": "DNA Damage and Oxidative Stress in Hospitalized COVID-19 Patients",
-        "url": "https://clinicaltrials.gov/study/NCT04784468"
-      },
-      {
-        "id": "clinicaltrials-gov-study-diet-and-exercise-study-to-improve-brain-blood-flow-blood-flow",
-        "publishedAt": "2019-12-26",
-        "ageDays": 2503,
-        "title": "Study: Diet and Exercise Study to Improve Brain Blood Flow: Blood Flow Improvement Trial",
-        "url": "https://clinicaltrials.gov/study/NCT03117829"
-      },
-      {
-        "id": "clinicaltrials-gov-identifying-challenges-to-healthy-aging-in-persons-with-human-immunode",
-        "publishedAt": "2026-08-27",
-        "ageDays": 67,
-        "title": "Identifying Challenges to Healthy Aging in Persons With Human Immunodeficiency Virus (HIV) Age 50 and Older",
-        "url": "https://clinicaltrials.gov/study/NCT05858034"
-      },
-      {
-        "id": "clinicaltrials-gov-reresveratrol-administered-to-healthy-male-subjects",
-        "publishedAt": "2016-09-15",
-        "ageDays": 3700,
-        "title": "Reresveratrol Administered to Healthy Male Subjects",
-        "url": "https://clinicaltrials.gov/study/NCT01768507"
-      },
-      {
-        "id": "clinicaltrials-gov-effects-of-carrageenan-elimination-diet-on-ulcerative-colitis-disease",
-        "publishedAt": "2019-11-26",
-        "ageDays": 2533,
-        "title": "Effects of Carrageenan-Elimination Diet on Ulcerative Colitis Disease Activity",
-        "url": "https://clinicaltrials.gov/study/NCT01065571"
-      },
-      {
-        "id": "clinicaltrials-gov-impact-of-a-nutritional-supplement-on-metabolic-health",
-        "publishedAt": "2017-04-18",
-        "ageDays": 3485,
-        "title": "Impact of a Nutritional Supplement on Metabolic Health",
-        "url": "https://clinicaltrials.gov/study/NCT02239198"
-      },
-      {
-        "id": "clinicaltrials-gov-to-evaluate-the-effects-of-systemic-probiotics-antibiotics-and-local",
-        "publishedAt": "2025-02-19",
-        "ageDays": 621,
-        "title": "To Evaluate the Effects of Systemic Probiotics & Antibiotics and Local Application of Antibiotics As an Adjuvant to NSPT",
-        "url": "https://clinicaltrials.gov/study/NCT06570863"
-      },
-      {
-        "id": "clinicaltrials-gov-prophylactic-inhaled-steroids-to-reduce-radiation-pneumonitis-frequenc",
-        "publishedAt": "2026-04-08",
-        "ageDays": 208,
-        "title": "Prophylactic Inhaled Steroids to Reduce Radiation Pneumonitis Frequency and Severity in Lung Cancer Patients",
-        "url": "https://clinicaltrials.gov/study/NCT03803787"
-      },
-      {
-        "id": "clinicaltrials-gov-turmeric-and-turmeric-containing-tablets-and-sebum-production",
-        "publishedAt": "2018-12-20",
-        "ageDays": 2874,
-        "title": "Turmeric and Turmeric-containing Tablets and Sebum Production",
-        "url": "https://clinicaltrials.gov/study/NCT03065504"
-      },
-      {
-        "id": "clinicaltrials-gov-tgir-randomized-placebo-controlled-healthy-subject-study",
-        "publishedAt": "2023-03-24",
-        "ageDays": 1319,
-        "title": "TGIR Randomized Placebo-controlled Healthy Subject Study",
-        "url": "https://clinicaltrials.gov/study/NCT05783193"
-      },
-      {
-        "id": "clinicaltrials-gov-hot-flash-and-night-sweat-virtual-study",
-        "publishedAt": "2024-03-04",
-        "ageDays": 973,
-        "title": "Hot Flash and Night Sweat Virtual Study",
-        "url": "https://clinicaltrials.gov/study/NCT06289907"
-      },
-      {
-        "id": "clinicaltrials-gov-kavalactones-on-sleep-and-cortisol-in-healthy-special-forces-trainees",
-        "publishedAt": "2022-10-13",
-        "ageDays": 1481,
-        "title": "Kavalactones on Sleep and Cortisol in Healthy Special Forces Trainees",
-        "url": "https://clinicaltrials.gov/study/NCT05381025"
-      },
-      {
-        "id": "clinicaltrials-gov-study-to-reinforce-immunity-stri-phase-2-clinical-trial",
-        "publishedAt": "2022-09-09",
-        "ageDays": 1515,
-        "title": "Study to Reinforce Immunity (STRI) Phase 2 Clinical Trial",
-        "url": "https://clinicaltrials.gov/study/NCT05046561"
-      },
-      {
-        "id": "clinicaltrials-gov-effects-of-protein-on-muscle-gut-microbiota-and-clinical-outcome-in-p",
-        "publishedAt": "2023-03-16",
-        "ageDays": 1327,
-        "title": "Effects of Protein on Muscle, Gut Microbiota and Clinical Outcome in Patients With Lung Cancer-related Sarcopenia",
-        "url": "https://clinicaltrials.gov/study/NCT05771207"
-      },
-      {
-        "id": "clinicaltrials-gov-the-role-of-fodmaps-in-upper-gi-effects-colonic-motor-activity-and-gu",
-        "publishedAt": "2016-12-02",
-        "ageDays": 3622,
-        "title": "The Role of FODMAPs in Upper GI Effects, Colonic Motor Activity and Gut-brain Signaling at the Behavioral Level",
-        "url": "https://clinicaltrials.gov/study/NCT02980406"
-      },
-      {
-        "id": "clinicaltrials-gov-fmri-study-of-treatment-recommendations-comparing-recently-diagnosed-m",
-        "publishedAt": "2014-06-04",
-        "ageDays": 4534,
-        "title": "fMRI Study of Treatment Recommendations Comparing Recently Diagnosed Multiple Sclerosis (MS) Patients to Controls",
-        "url": "https://clinicaltrials.gov/study/NCT00391352"
-      },
-      {
-        "id": "clinicaltrials-gov-ganmaidazao-concentrated-beverage-sleep-assisting-trial",
-        "publishedAt": "2026-07-24",
-        "ageDays": 101,
-        "title": "Ganmaidazao Concentrated Beverage Sleep-Assisting Trial",
-        "url": "https://clinicaltrials.gov/study/NCT07726719"
-      },
-      {
-        "id": "clinicaltrials-gov-mesenchymal-stem-cell-infusion-for-covid-19-infection",
-        "publishedAt": "2020-06-30",
-        "ageDays": 2316,
-        "title": "Mesenchymal Stem Cell Infusion for COVID-19 Infection",
-        "url": "https://clinicaltrials.gov/study/NCT04444271"
-      },
-      {
-        "id": "clinicaltrials-gov-lingzhi-and-sen-miao-san-for-the-treatment-of-rheumatoid-arthritis",
-        "publishedAt": "2008-05-09",
-        "ageDays": 6751,
-        "title": "Lingzhi and Sen Miao San for the Treatment of Rheumatoid Arthritis",
-        "url": "https://clinicaltrials.gov/study/NCT00432484"
-      },
-      {
-        "id": "clinicaltrials-gov-a-phase-ii-multicenter-randomized-placebo-controlled-double-blinded",
-        "publishedAt": "2019-05-22",
-        "ageDays": 2721,
-        "title": "A Phase II Multicenter, Randomized, Placebo Controlled, Double Blinded Clinical Study of KD018 as a Modulator of Irinotecan Chemotherapy in Patients With Metastatic Colorectal Cancer",
-        "url": "https://clinicaltrials.gov/study/NCT00730158"
-      },
-      {
-        "id": "clinicaltrials-gov-traditional-chinese-medicine-for-treatment-of-chronic-heart-failure",
-        "publishedAt": "2013-10-10",
-        "ageDays": 4771,
-        "title": "Traditional Chinese Medicine for Treatment of Chronic Heart Failure",
-        "url": "https://clinicaltrials.gov/study/NCT01939236"
-      },
-      {
-        "id": "clinicaltrials-gov-randomised-research-comparing-acupuncture-herbal-treatment-and-artifi",
-        "publishedAt": "2016-08-05",
-        "ageDays": 3741,
-        "title": "Randomised Research Comparing Acupuncture, Herbal Treatment and Artificial Tear Eye Drops in Dry Eye",
-        "url": "https://clinicaltrials.gov/study/NCT02219204"
-      },
-      {
-        "id": "pubmed-sirt3-deficiency-triggers-mitochondrial-dysfunction-associated-senesce",
-        "publishedAt": "2026-Oct-31",
-        "ageDays": 30,
-        "title": "SIRT3 deficiency triggers mitochondrial dysfunction-associated senescence to suppress colorectal cancer progression via SLC25A13 acetylation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42966746/"
-      },
-      {
-        "id": "pubmed-the-senescent-macrophage-as-a-central-hub-in-skeletal-aging-mechanism",
-        "publishedAt": "2026-Oct-31",
-        "ageDays": 30,
-        "title": "The Senescent Macrophage as a Central Hub in Skeletal Aging: Mechanisms, Niche Disruption, and Systemic Consequences.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42966513/"
-      },
-      {
-        "id": "pubmed-a-three-hit-sequential-model-of-chemo-brain-from-peripheral-inflammat",
-        "publishedAt": "2026-Oct-31",
-        "ageDays": 30,
-        "title": "A three-hit sequential model of chemo-brain: from peripheral inflammation to central oxidative stress and synaptic dysfunction.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42966467/"
-      },
-      {
-        "id": "clinicaltrials-gov-nsclc-burden-of-illness-study",
-        "publishedAt": "2014-03-31",
-        "ageDays": 4599,
-        "title": "NSCLC Burden of Illness Study",
-        "url": "https://clinicaltrials.gov/study/NCT01772225"
+        "id": "clinicaltrials-gov-lymphocyte-phenotype-of-autosomal-recessive-congenital-ichthyoses-muta",
+        "publishedAt": "2026-03-17",
+        "ageDays": 237,
+        "title": "Lymphocyte Phenotype of Autosomal Recessive Congenital Ichthyoses Mutated NIPAL4 (Nipal4-nEDD)",
+        "url": "https://clinicaltrials.gov/study/NCT07477769"
       }
     ]
   },
