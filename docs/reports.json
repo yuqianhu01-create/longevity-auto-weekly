@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T08:28:08.922606+00:00",
+  "generatedAt": "2026-11-16T08:21:29.465921+00:00",
   "reports": [
     {
       "entry": {
@@ -18944,6 +18944,1133 @@
           }
         ],
         "publishedAt": "2026-11-09T08:28:08.922606+00:00"
+      }
+    },
+    {
+      "entry": {
+        "id": "2026-W47-auto-202611160821",
+        "week": "2026-W47",
+        "issue": 47,
+        "issueLabel": "第47期",
+        "status": "published",
+        "path": "published/2026-W47-auto-202611160821.json",
+        "generatedAt": "2026-11-16T08:21:29.465921+00:00",
+        "publishedAt": "2026-11-16T08:21:29.465921+00:00"
+      },
+      "report": {
+        "schemaVersion": 1,
+        "week": "2026-W47",
+        "issue": 47,
+        "issueLabel": "第47期",
+        "status": "published",
+        "period": {
+          "from": "2026-11-16",
+          "to": "2026-11-22"
+        },
+        "generatedAt": "2026-11-16T08:21:29.465921+00:00",
+        "judgement": "自动采集、自动去重、自动分类和自动发布；读者只需浏览正式周报并提取有用信息。",
+        "opportunities": [],
+        "risks": [],
+        "actions": [],
+        "moduleOrder": [
+          "academic-frontier",
+          "industry-progress",
+          "health-food-competitors",
+          "food-ingredients",
+          "ai-applications"
+        ],
+        "items": [
+          {
+            "id": "crossref-freeze-dried-human-amniotic-membrane-graft-insertion-for-the-managemen",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Freeze-dried human amniotic membrane graft insertion for the management of large and refractory macular holes",
+            "titleZh": "Freeze-dried human amniotic membrane graft insertion for the management of large and refractory macular holes",
+            "url": "https://doi.org/10.1038/s41433-026-04896-1",
+            "publishedAt": "2026-11-16T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1038/s41433-026-04896-1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-16 收录/发布：Freeze-dried human amniotic membrane graft insertion for the management of large and refractory macular holes",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Freeze-dried human amniotic membrane graft insertion for the management of large and refractory macular holes",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1038/s41433-026-04896-1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-16T08:21:29.481125+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-emergency-decompressive-craniectomy-for-acute-subdural-hematoma-in-a-p",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Emergency Decompressive Craniectomy for Acute Subdural Hematoma in a Patient Receiving Duel Antiplatelet Therapy Following Recent Percutaneous Coronary Intervention With Previous Coronary Artery Bypass Grafting: A Case Report",
+            "titleZh": "Emergency Decompressive Craniectomy for Acute Subdural Hematoma in a Patient Receiving Duel Antiplatelet Therapy Following Recent Percutaneous Coronary Intervention With Previous Coronary Artery Bypass Grafting: A Case Report",
+            "url": "https://doi.org/10.52793/jnsr.2026.6(2)-65",
+            "publishedAt": "2026-11-16T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.52793/jnsr.2026.6(2)-65"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-16 收录/发布：Emergency Decompressive Craniectomy for Acute Subdural Hematoma in a Patient Receiving Duel Antiplatelet Therapy Following Recent Percutaneous Coronary Intervention With Previous Coronary Artery Bypass Grafting: A Case Report",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Emergency Decompressive Craniectomy for Acute Subdural Hematoma in a Patient Receiving Duel Antiplatelet Therapy Following Recent Percutaneous Coronary Intervention With Previous Coronary Artery Bypass Grafting: A Case Report",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.52793/jnsr.2026.6(2)-65",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-16T08:21:29.481177+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-restoring-human-functional-capacity-a-practice-based-approach-to-psyc",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "industry-progress"
+            ],
+            "primaryModuleId": "industry-progress",
+            "titleOriginal": "Restoring Human Functional Capacity: A Practice-Based Approach to Psychosomatic Self-Regulation under Conditions of Stress",
+            "titleZh": "Restoring Human Functional Capacity: A Practice-Based Approach to Psychosomatic Self-Regulation under Conditions of Stress",
+            "url": "https://doi.org/10.61936/themind/2026111649",
+            "publishedAt": "2026-11-16T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.61936/themind/2026111649"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-16 收录/发布：Restoring Human Functional Capacity: A Practice-Based Approach to Psychosomatic Self-Regulation under Conditions of Stress",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Restoring Human Functional Capacity: A Practice-Based Approach to Psychosomatic Self-Regulation under Conditions of Stress",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.61936/themind/2026111649",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-16T08:21:29.481213+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-design-to-operation-built-asset-productivity-and-human-well-being-with",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Design to operation-built asset productivity and human well-being with digital twins",
+            "titleZh": "Design to operation-built asset productivity and human well-being with digital twins",
+            "url": "https://doi.org/10.1680/jensu.26.00012",
+            "publishedAt": "2026-11-16T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1680/jensu.26.00012"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-16 收录/发布：Design to operation-built asset productivity and human well-being with digital twins",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Design to operation-built asset productivity and human well-being with digital twins",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1680/jensu.26.00012",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-16T08:21:29.481240+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-reciprocal-haptic-cross-entropy-links-gibsonian-specification-and-shan",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Reciprocal haptic cross-entropy links Gibsonian specification and Shannon uncertainty in human gait",
+            "titleZh": "Reciprocal haptic cross-entropy links Gibsonian specification and Shannon uncertainty in human gait",
+            "url": "https://doi.org/10.3389/fpsyg.2026.1977382",
+            "publishedAt": "2026-11-16T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.3389/fpsyg.2026.1977382"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-16 收录/发布：Reciprocal haptic cross-entropy links Gibsonian specification and Shannon uncertainty in human gait",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Reciprocal haptic cross-entropy links Gibsonian specification and Shannon uncertainty in human gait",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.3389/fpsyg.2026.1977382",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-16T08:21:29.481268+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-exploring-how-virtual-social-interaction-relates-to-perceptions-of-rea",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Exploring How Virtual Social Interaction Relates to Perceptions of Real-World Counterparts: An Infant-Care VR Study",
+            "titleZh": "Exploring How Virtual Social Interaction Relates to Perceptions of Real-World Counterparts: An Infant-Care VR Study",
+            "url": "https://doi.org/10.1145/3822517.3849899",
+            "publishedAt": "2026-11-16T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1145/3822517.3849899"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-16 收录/发布：Exploring How Virtual Social Interaction Relates to Perceptions of Real-World Counterparts: An Infant-Care VR Study",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Exploring How Virtual Social Interaction Relates to Perceptions of Real-World Counterparts: An Infant-Care VR Study",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1145/3822517.3849899",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-16T08:21:29.481390+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-screening-with-the-fundal-reflex-test-a-two-year-retrospective-cohort",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Screening with the fundal reflex test: a two-year retrospective cohort study of referrals to a tertiary paediatric ophthalmology department and literature review",
+            "titleZh": "Screening with the fundal reflex test: a two-year retrospective cohort study of referrals to a tertiary paediatric ophthalmology department and literature review",
+            "url": "https://doi.org/10.1007/s11845-026-04622-6",
+            "publishedAt": "2026-11-16T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1007/s11845-026-04622-6"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-16 收录/发布：Screening with the fundal reflex test: a two-year retrospective cohort study of referrals to a tertiary paediatric ophthalmology department and literature review",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Screening with the fundal reflex test: a two-year retrospective cohort study of referrals to a tertiary paediatric ophthalmology department and literature review",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1007/s11845-026-04622-6",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-16T08:21:29.481418+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-correction-to-physical-activity-and-weight-status-of-children-in-germ",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Correction to: Physical activity and weight status of children in Germany: cross-sectional results from the MoMo Wave 3 (2018–2020)",
+            "titleZh": "Correction to: Physical activity and weight status of children in Germany: cross-sectional results from the MoMo Wave 3 (2018–2020)",
+            "url": "https://doi.org/10.1007/s00431-026-07641-8",
+            "publishedAt": "2026-11-16T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1007/s00431-026-07641-8"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-16 收录/发布：Correction to: Physical activity and weight status of children in Germany: cross-sectional results from the MoMo Wave 3 (2018–2020)",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Correction to: Physical activity and weight status of children in Germany: cross-sectional results from the MoMo Wave 3 (2018–2020)",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1007/s00431-026-07641-8",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-16T08:21:29.481457+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-clinical-trial-of-avasopasem-in-patients-with-metastatic-hormone-recep",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "health-food-competitors"
+            ],
+            "primaryModuleId": "health-food-competitors",
+            "titleOriginal": "Clinical Trial of Avasopasem in Patients With Metastatic Hormone Receptor Positive Breast Cancer With Progression on a CDK 4/6 Inhibitor and Hormonal Therapy",
+            "titleZh": "Clinical Trial of Avasopasem in Patients With Metastatic Hormone Receptor Positive Breast Cancer With Progression on a CDK 4/6 Inhibitor and Hormonal Therapy",
+            "url": "https://clinicaltrials.gov/study/NCT07137871",
+            "publishedAt": "2026-11-04T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07137871"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-11-04 收录/发布：Clinical Trial of Avasopasem in Patients With Metastatic Hormone Receptor Positive Breast Cancer With Progression on a CDK 4/6 Inhibitor and Hormonal Therapy",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.4,
+              "actionability": 8.4
+            },
+            "significance": "更新企业/品牌池，记录产品、原料、功效宣称、证据与渠道动作：Clinical Trial of Avasopasem in Patients With Metastatic Hormone Receptor Positive Breast Cancer With Progression on a CDK 4/6 Inhibitor and Hormonal Therapy",
+            "recommendedAction": "更新企业档案，记录品牌、产品、成分、功效宣称、证据等级和商业动作。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07137871",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-16T08:21:29.482454+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-evaluation-of-arts-based-storytelling-program-in-adolescents-with-diab",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "industry-progress"
+            ],
+            "primaryModuleId": "industry-progress",
+            "titleOriginal": "Evaluation of Arts-Based Storytelling Program in Adolescents With Diabetes",
+            "titleZh": "Evaluation of Arts-Based Storytelling Program in Adolescents With Diabetes",
+            "url": "https://clinicaltrials.gov/study/NCT07625254",
+            "publishedAt": "2026-11-09T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07625254"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-11-09 收录/发布：Evaluation of Arts-Based Storytelling Program in Adolescents With Diabetes",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.7,
+              "actionability": 8.4
+            },
+            "significance": "提取原料名称、剂量、规范、安全性和人体证据设计，判断是否值得进入原料库：Evaluation of Arts-Based Storytelling Program in Adolescents With Diabetes",
+            "recommendedAction": "整理原料名、适用人群、剂量、法规状态和证据设计，标注是否可进入后续深挖。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07625254",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-16T08:21:29.482117+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "food-ingredients"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-clinical-study-of-cs-001-as-a-treatment-for-canities-grey-hair",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "industry-progress"
+            ],
+            "primaryModuleId": "industry-progress",
+            "titleOriginal": "Clinical Study of CS-001 as a Treatment for Canities (Grey Hair)",
+            "titleZh": "Clinical Study of CS-001 as a Treatment for Canities (Grey Hair)",
+            "url": "https://clinicaltrials.gov/study/NCT06745336",
+            "publishedAt": "2026-11-02T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT06745336"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-11-02 收录/发布：Clinical Study of CS-001 as a Treatment for Canities (Grey Hair)",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.3,
+              "actionability": 8.4
+            },
+            "significance": "提取原料名称、剂量、规范、安全性和人体证据设计，判断是否值得进入原料库：Clinical Study of CS-001 as a Treatment for Canities (Grey Hair)",
+            "recommendedAction": "整理原料名、适用人群、剂量、法规状态和证据设计，标注是否可进入后续深挖。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT06745336",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-16T08:21:29.482552+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "food-ingredients"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-epigenetic-changes-in-long-covid-patients",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Epigenetic Changes in Long COVID Patients",
+            "titleZh": "Epigenetic Changes in Long COVID Patients",
+            "url": "https://clinicaltrials.gov/study/NCT07757620",
+            "publishedAt": "2026-11-04T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07757620"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-11-04 收录/发布：Epigenetic Changes in Long COVID Patients",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.4,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Epigenetic Changes in Long COVID Patients",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07757620",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-16T08:21:29.481794+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-fettuccine-fast-and-efficient-brain-to-text-decoding-on-mobile-device",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices",
+            "titleZh": "FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices",
+            "url": "http://arxiv.org/abs/2611.18561v1",
+            "publishedAt": "2026-11-13T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2611.18561v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-11-13 收录/发布：FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2611.18561v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-16T08:21:29.481286+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-alignment-by-socialization-learning-tradeoffs-under-selection",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Alignment by Socialization: Learning Tradeoffs Under Selection",
+            "titleZh": "Alignment by Socialization: Learning Tradeoffs Under Selection",
+            "url": "http://arxiv.org/abs/2611.18531v1",
+            "publishedAt": "2026-11-13T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2611.18531v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-11-13 收录/发布：Alignment by Socialization: Learning Tradeoffs Under Selection",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Alignment by Socialization: Learning Tradeoffs Under Selection",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2611.18531v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-16T08:21:29.481301+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-toward-resilient-self-driving-laboratories-through-telerobotic-interve",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Toward Resilient Self-Driving Laboratories through Telerobotic Interventions",
+            "titleZh": "Toward Resilient Self-Driving Laboratories through Telerobotic Interventions",
+            "url": "http://arxiv.org/abs/2611.18496v1",
+            "publishedAt": "2026-11-13T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2611.18496v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-11-13 收录/发布：Toward Resilient Self-Driving Laboratories through Telerobotic Interventions",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Toward Resilient Self-Driving Laboratories through Telerobotic Interventions",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2611.18496v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-16T08:21:29.481318+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-emergent-intercellular-contact-force-networks-shaped-by-deformability",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Emergent intercellular contact-force networks shaped by deformability",
+            "titleZh": "Emergent intercellular contact-force networks shaped by deformability",
+            "url": "http://arxiv.org/abs/2611.18414v1",
+            "publishedAt": "2026-11-13T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2611.18414v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-11-13 收录/发布：Emergent intercellular contact-force networks shaped by deformability",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Emergent intercellular contact-force networks shaped by deformability",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2611.18414v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-16T08:21:29.481331+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-carve-a-glycan-specific-framework-for-assessing-protein-glycan-bindin",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "CARVE: A glycan-specific framework for assessing protein-glycan binding-pose quality",
+            "titleZh": "CARVE: A glycan-specific framework for assessing protein-glycan binding-pose quality",
+            "url": "http://arxiv.org/abs/2611.18259v1",
+            "publishedAt": "2026-11-13T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2611.18259v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-11-13 收录/发布：CARVE: A glycan-specific framework for assessing protein-glycan binding-pose quality",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：CARVE: A glycan-specific framework for assessing protein-glycan binding-pose quality",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2611.18259v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-16T08:21:29.481349+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-pairing-ais-with-rf-analysis-of-a-markovian-approach-for-maritime-dat",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion",
+            "titleZh": "Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion",
+            "url": "http://arxiv.org/abs/2611.18563v1",
+            "publishedAt": "2026-11-13T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2611.18563v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-11-13 收录/发布：Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2611.18563v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-16T08:21:29.481539+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-internal-diameter-bounds-for-dla-on-random-planar-maps-under-invarianc",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Internal diameter bounds for DLA on random planar maps under invariance principles",
+            "titleZh": "Internal diameter bounds for DLA on random planar maps under invariance principles",
+            "url": "http://arxiv.org/abs/2611.18540v1",
+            "publishedAt": "2026-11-13T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2611.18540v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-11-13 收录/发布：Internal diameter bounds for DLA on random planar maps under invariance principles",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Internal diameter bounds for DLA on random planar maps under invariance principles",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2611.18540v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-16T08:21:29.481554+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          }
+        ],
+        "topItemIds": [
+          "crossref-freeze-dried-human-amniotic-membrane-graft-insertion-for-the-managemen",
+          "crossref-emergency-decompressive-craniectomy-for-acute-subdural-hematoma-in-a-p",
+          "crossref-restoring-human-functional-capacity-a-practice-based-approach-to-psyc",
+          "crossref-design-to-operation-built-asset-productivity-and-human-well-being-with",
+          "crossref-reciprocal-haptic-cross-entropy-links-gibsonian-specification-and-shan",
+          "crossref-exploring-how-virtual-social-interaction-relates-to-perceptions-of-rea",
+          "crossref-screening-with-the-fundal-reflex-test-a-two-year-retrospective-cohort",
+          "crossref-correction-to-physical-activity-and-weight-status-of-children-in-germ",
+          "clinicaltrials-gov-evaluation-of-arts-based-storytelling-program-in-adolescents-with-diab",
+          "clinicaltrials-gov-clinical-trial-of-avasopasem-in-patients-with-metastatic-hormone-recep"
+        ],
+        "coverage": [
+          {
+            "sourceId": "automated-weekly-pipeline",
+            "status": "ok",
+            "attempts": 1,
+            "checkedAt": "2026-11-16T08:21:29.465921+00:00",
+            "itemCount": 19,
+            "recordErrors": 0,
+            "pageErrors": 0,
+            "recencyWindowDays": 14
+          }
+        ],
+        "publishedAt": "2026-11-16T08:21:29.465921+00:00"
       }
     }
   ]
