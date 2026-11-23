@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T08:21:29.419139+00:00",
+  "generatedAt": "2026-11-23T09:31:44.213183+00:00",
   "searchTaskCount": 348,
-  "candidateCount": 262,
+  "candidateCount": 256,
   "discoveryWindowDays": 14,
   "searchPlanQuality": {
     "missingSearchUrls": [],
@@ -28,218 +28,218 @@
     }
   },
   "candidateRecency": {
-    "datedCandidateCount": 258,
-    "staleCandidateCount": 172,
+    "datedCandidateCount": 254,
+    "staleCandidateCount": 180,
     "staleCandidates": [
       {
-        "id": "pubmed-the-disrupted-navigational-compass-pathophysiological-mechanisms-and",
-        "publishedAt": "2026-Nov-15",
-        "ageDays": 15,
-        "title": "The disrupted navigational compass: pathophysiological mechanisms and clinical interventions for spatial navigation deficits.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43035211/"
+        "id": "pubmed-a-single-cell-aging-phenotypic-index-from-nanosensor-chemical-cytometr",
+        "publishedAt": "2026-Nov-22",
+        "ageDays": 21,
+        "title": "A Single-Cell Aging Phenotypic Index From Nanosensor Chemical Cytometry Associated With Therapeutic Potency.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43068896/"
       },
       {
-        "id": "clinicaltrials-gov-human-albumin-combined-with-plasma-exchange-for-frailty-intervention",
-        "publishedAt": "2026-09-23",
-        "ageDays": 54,
-        "title": "Human Albumin Combined With Plasma Exchange for Frailty Intervention",
-        "url": "https://clinicaltrials.gov/study/NCT07836127"
+        "id": "pubmed-cellular-senescence-as-a-multiorgan-driver-of-diabetes-associated-card",
+        "publishedAt": "2026-Nov-21",
+        "ageDays": 21,
+        "title": "Cellular Senescence as a Multiorgan Driver of Diabetes-Associated Cardiovascular and Kidney Disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43067532/"
       },
       {
-        "id": "clinicaltrials-gov-the-calerie-legacy-study",
-        "publishedAt": "2026-06-09",
-        "ageDays": 160,
-        "title": "The CALERIE™ Legacy Study",
-        "url": "https://clinicaltrials.gov/study/NCT05651620"
+        "id": "pubmed-uncovering-the-genetic-architecture-of-optic-nerve-integrity-estimates",
+        "publishedAt": "2026-Nov-21",
+        "ageDays": 21,
+        "title": "Uncovering the genetic architecture of optic nerve integrity estimates through genome-wide association study meta-analyses.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43067070/"
       },
       {
-        "id": "clinicaltrials-gov-human-muscle-gene-expression-profiles-in-young-and-old-men",
-        "publishedAt": "2009-06-11",
-        "ageDays": 6367,
-        "title": "Human Muscle Gene Expression Profiles in Young and Old Men",
-        "url": "https://clinicaltrials.gov/study/NCT00725166"
+        "id": "pubmed-the-association-between-physical-activity-and-higher-corticolimbic-syn",
+        "publishedAt": "2026-Nov-20",
+        "ageDays": 21,
+        "title": "The Association between Physical Activity and Higher Corticolimbic Synaptic Density is Independent of Body Mass Index.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43064241/"
       },
       {
-        "id": "clinicaltrials-gov-synbiotic-approach-to-immunity-and-metabolism-in-the-elderly-study",
-        "publishedAt": "2017-05-30",
-        "ageDays": 3457,
-        "title": "Synbiotic Approach to Immunity and Metabolism in the Elderly Study",
-        "url": "https://clinicaltrials.gov/study/NCT03168503"
+        "id": "pubmed-fermented-foods-target-multiple-hallmarks-of-aging-to-promote-healthy",
+        "publishedAt": "2026-Nov-20",
+        "ageDays": 21,
+        "title": "Fermented Foods Target Multiple Hallmarks of Aging to Promote Healthy Longevity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43064202/"
       },
       {
-        "id": "clinicaltrials-gov-financial-incentives-randomization-with-stepped-treatment-trial",
-        "publishedAt": "2024-04-15",
-        "ageDays": 945,
-        "title": "Financial Incentives, Randomization With Stepped Treatment Trial",
-        "url": "https://clinicaltrials.gov/study/NCT03089320"
+        "id": "clinicaltrials-gov-pilot-study-of-a-dietary-intervention-based-upon-advanced-glycation-en",
+        "publishedAt": "2011-11-23",
+        "ageDays": 5479,
+        "title": "Pilot Study of a Dietary Intervention Based Upon Advanced Glycation End Products",
+        "url": "https://clinicaltrials.gov/study/NCT01402973"
       },
       {
-        "id": "clinicaltrials-gov-evaluate-the-efficacy-and-safety-of-fb2001-in-hospitalized-patients-wi",
-        "publishedAt": "2023-01-05",
-        "ageDays": 1411,
-        "title": "Evaluate the Efficacy and Safety of FB2001 in Hospitalized Patients With Moderate to Severe COVID-19 (BRIGHT Study)",
-        "url": "https://clinicaltrials.gov/study/NCT05445934"
+        "id": "clinicaltrials-gov-exploring-how-osteopathic-manipulative-treatment-may-affect-spinal-flu",
+        "publishedAt": "2026-06-05",
+        "ageDays": 171,
+        "title": "Exploring How Osteopathic Manipulative Treatment May Affect Spinal Fluid Flow: An MRI Study",
+        "url": "https://clinicaltrials.gov/study/NCT07629765"
       },
       {
-        "id": "clinicaltrials-gov-an-exploratory-investigation-of-dietary-supplementation-and-the-effect",
-        "publishedAt": "2022-10-26",
-        "ageDays": 1482,
-        "title": "An Exploratory Investigation of Dietary Supplementation and the Effect on Common Symptoms of Hormonal Imbalance",
-        "url": "https://clinicaltrials.gov/study/NCT05328609"
+        "id": "clinicaltrials-gov-mitophagy-and-autophagy-in-elderly-subjects",
+        "publishedAt": "2016-08-01",
+        "ageDays": 3766,
+        "title": "Mitophagy and Autophagy in Elderly Subjects",
+        "url": "https://clinicaltrials.gov/study/NCT02472340"
       },
       {
-        "id": "clinicaltrials-gov-gelatin-collagen-gummy-and-pinp",
-        "publishedAt": "2018-11-09",
-        "ageDays": 2929,
-        "title": "Gelatin, Collagen, Gummy and PINP",
-        "url": "https://clinicaltrials.gov/study/NCT03357432"
+        "id": "clinicaltrials-gov-msflash-02-interventions-for-relief-of-menopausal-symptoms-a-3-by-2",
+        "publishedAt": "2014-08-22",
+        "ageDays": 4476,
+        "title": "MsFLASH-02: Interventions for Relief of Menopausal Symptoms: A 3-by-2 Factorial Design Examining Yoga, Exercise, and Omega-3 Supplementation",
+        "url": "https://clinicaltrials.gov/study/NCT01178892"
       },
       {
-        "id": "clinicaltrials-gov-normast3-for-adults-with-diabetic-polyneuropathy",
-        "publishedAt": "2026-07-08",
-        "ageDays": 131,
-        "title": "Normast3 for Adults With Diabetic Polyneuropathy",
-        "url": "https://clinicaltrials.gov/study/NCT07689214"
+        "id": "clinicaltrials-gov-immunosenescence-and-hepatitis-b-virus-hbv-vaccine-efficacy-in-chron",
+        "publishedAt": "2018-04-05",
+        "ageDays": 3154,
+        "title": "Immunosenescence and Hepatitis B Virus (HBV) Vaccine Efficacy in Chronic Renal Disease Patient",
+        "url": "https://clinicaltrials.gov/study/NCT02375711"
       },
       {
-        "id": "clinicaltrials-gov-prospective-safety-and-tolerability-assessment-of-a-cardiovascular-hea",
-        "publishedAt": "2018-03-15",
-        "ageDays": 3168,
-        "title": "Prospective Safety and Tolerability Assessment of a Cardiovascular Health Dietary Supplement",
-        "url": "https://clinicaltrials.gov/study/NCT02452749"
+        "id": "clinicaltrials-gov-ginger-pd-ginger-as-a-modifier-of-ghrelin-levels-and-gut-function-in",
+        "publishedAt": "2026-10-21",
+        "ageDays": 33,
+        "title": "Ginger-PD: Ginger as a Modifier of Ghrelin Levels and Gut Function in Parkinson's Disease",
+        "url": "https://clinicaltrials.gov/study/NCT07882108"
       },
       {
-        "id": "clinicaltrials-gov-a-feasibility-study-to-determine-whether-the-botanical-garden-become-a",
-        "publishedAt": "2025-06-04",
-        "ageDays": 530,
-        "title": "A Feasibility Study to Determine Whether the Botanical Garden Become a Region of Forest Therapy for Cancer Survivors",
-        "url": "https://clinicaltrials.gov/study/NCT06001723"
+        "id": "clinicaltrials-gov-comparing-the-efficacy-and-safety-of-high-titer-versus-low-titer-anti",
+        "publishedAt": "2019-06-25",
+        "ageDays": 2708,
+        "title": "Comparing the Efficacy and Safety of High-Titer Versus Low-Titer Anti-Influenza Immune Plasma for the Treatment of Severe Influenza A",
+        "url": "https://clinicaltrials.gov/study/NCT02572817"
       },
       {
-        "id": "clinicaltrials-gov-rct-of-a-polyherbal-dietary-supplement-for-prediabetes",
-        "publishedAt": "2022-06-28",
-        "ageDays": 1602,
-        "title": "RCT of a Polyherbal Dietary Supplement for Prediabetes",
-        "url": "https://clinicaltrials.gov/study/NCT03388762"
+        "id": "clinicaltrials-gov-supplemental-adjuvants-for-intracellular-nutrition-and-treatment",
+        "publishedAt": "2011-07-20",
+        "ageDays": 5605,
+        "title": "Supplemental Adjuvants for Intracellular Nutrition and Treatment",
+        "url": "https://clinicaltrials.gov/study/NCT00893724"
       },
       {
-        "id": "clinicaltrials-gov-botanical-therapy-for-acute-viral-respiratory-infections",
-        "publishedAt": "2026-09-04",
-        "ageDays": 73,
-        "title": "Botanical Therapy for Acute Viral Respiratory Infections",
-        "url": "https://clinicaltrials.gov/study/NCT07805447"
+        "id": "clinicaltrials-gov-evaluation-of-the-metabolome-in-diverticular-disease",
+        "publishedAt": "2014-10-17",
+        "ageDays": 4420,
+        "title": "Evaluation of the Metabolome in Diverticular Disease",
+        "url": "https://clinicaltrials.gov/study/NCT01831323"
       },
       {
-        "id": "clinicaltrials-gov-minoxidil-5-botanical-hair-regimen-in-men-with-thinning-hair-and-ma",
-        "publishedAt": "2023-08-01",
-        "ageDays": 1203,
-        "title": "Minoxidil 5% / Botanical Hair Regimen in Men With Thinning Hair and Male Pattern Hair Loss/Androgenic Alopecia",
-        "url": "https://clinicaltrials.gov/study/NCT02460289"
+        "id": "clinicaltrials-gov-on-demand-oxygen-delivery-system-study",
+        "publishedAt": "2026-04-30",
+        "ageDays": 207,
+        "title": "On-Demand Oxygen Delivery System Study",
+        "url": "https://clinicaltrials.gov/study/NCT02962570"
       },
       {
-        "id": "clinicaltrials-gov-clinical-study-for-palliative-preventive-treatment-of-chronic-back-pai",
-        "publishedAt": "2023-11-27",
-        "ageDays": 1085,
-        "title": "Clinical Study for Palliative/Preventive Treatment of Chronic Back Pain",
-        "url": "https://clinicaltrials.gov/study/NCT05597189"
+        "id": "clinicaltrials-gov-safety-and-tolerability-of-a-nutritional-formula-designed-to-aid-in-ma",
+        "publishedAt": "2026-03-05",
+        "ageDays": 263,
+        "title": "Safety and Tolerability of a Nutritional Formula Designed to Aid in Maintenance of Muscle During Periods of Caloric Restriction in Adults",
+        "url": "https://clinicaltrials.gov/study/NCT07447843"
       },
       {
-        "id": "clinicaltrials-gov-remote-cognitive-multidomain-assessment-in-people-with-cognitive-disor",
-        "publishedAt": "2024-03-12",
-        "ageDays": 979,
-        "title": "Remote Cognitive Multidomain Assessment in People With Cognitive Disorders",
-        "url": "https://clinicaltrials.gov/study/NCT06078332"
+        "id": "clinicaltrials-gov-efficacy-and-safety-of-acute-topical-and-aromatic-essential-oil-based",
+        "publishedAt": "2026-10-15",
+        "ageDays": 39,
+        "title": "Efficacy and Safety of Acute Topical and Aromatic Essential Oil-Based Products for Cognitive Support",
+        "url": "https://clinicaltrials.gov/study/NCT07623811"
       },
       {
-        "id": "clinicaltrials-gov-arginase-inhibitor-incb001158-as-a-single-agent-and-in-combination-wit",
-        "publishedAt": "2025-08-05",
-        "ageDays": 468,
-        "title": "Arginase Inhibitor INCB001158 as a Single Agent and in Combination With Immune Checkpoint Therapy in Patients With Advanced/Metastatic Solid Tumors",
-        "url": "https://clinicaltrials.gov/study/NCT02903914"
+        "id": "clinicaltrials-gov-investigations-of-botanicals-on-food-intake-satiety-weight-loss-and",
+        "publishedAt": "2014-03-31",
+        "ageDays": 4620,
+        "title": "Investigations of Botanicals on Food Intake, Satiety, Weight Loss, and Oxidative Stress",
+        "url": "https://clinicaltrials.gov/study/NCT01238887"
       },
       {
-        "id": "clinicaltrials-gov-impact-of-consumption-of-beta-glucans-on-the-intestinal-microbiota-and",
-        "publishedAt": "2019-06-03",
-        "ageDays": 2723,
-        "title": "Impact of Consumption of Beta-glucans on the Intestinal Microbiota and Glucose and Lipid Metabolism",
-        "url": "https://clinicaltrials.gov/study/NCT02041104"
+        "id": "clinicaltrials-gov-a-trial-of-a-botanical-drug-containing-east-indian-sandalwood-oil-eis",
+        "publishedAt": "2021-05-03",
+        "ageDays": 2030,
+        "title": "A Trial of a Botanical Drug Containing East Indian Sandalwood Oil (EISO) for the Treatment of External Genital Warts",
+        "url": "https://clinicaltrials.gov/study/NCT03158974"
       },
       {
-        "id": "clinicaltrials-gov-study-of-tuvusertib-m1774-in-combination-with-dna-damage-response-in",
-        "publishedAt": "2026-09-14",
-        "ageDays": 63,
-        "title": "Study of Tuvusertib (M1774) in Combination With DNA Damage Response Inhibitor or Immune Checkpoint Inhibitor (DDRiver Solid Tumors 320)",
-        "url": "https://clinicaltrials.gov/study/NCT05396833"
+        "id": "clinicaltrials-gov-efficacy-of-myalgesin-to-support-joint-function-in-patients-with-knee",
+        "publishedAt": "2007-12-28",
+        "ageDays": 6905,
+        "title": "Efficacy of Myalgesin™ to Support Joint Function in Patients With Knee Osteoarthritis",
+        "url": "https://clinicaltrials.gov/study/NCT00577330"
       },
       {
-        "id": "clinicaltrials-gov-efficacy-and-safety-of-susu-zhike-granules-for-treating-acute-cough-du",
-        "publishedAt": "2024-09-05",
-        "ageDays": 802,
-        "title": "Efficacy and Safety of Susu Zhike Granules for Treating Acute Cough Due to Common Cold With Cold-cough Syndrome in Children",
-        "url": "https://clinicaltrials.gov/study/NCT04457011"
+        "id": "clinicaltrials-gov-developmental-origins-of-healthy-and-unhealthy-ageing-the-role-of-mat",
+        "publishedAt": "2016-03-22",
+        "ageDays": 3898,
+        "title": "Developmental ORIgins of Healthy and Unhealthy AgeiNg: the Role of Maternal Obesity",
+        "url": "https://clinicaltrials.gov/study/NCT01931540"
       },
       {
-        "id": "clinicaltrials-gov-how-different-sedatives-affect-hip-fracture-patient-s-postoperative-de",
-        "publishedAt": "2017-12-13",
-        "ageDays": 3260,
-        "title": "How Different Sedatives Affect Hip Fracture Patient's Postoperative Delirium",
-        "url": "https://clinicaltrials.gov/study/NCT03346226"
+        "id": "clinicaltrials-gov-alternation-of-non-alcoholic-fatty-liver-disease-nafld-and-cardiovas",
+        "publishedAt": "2024-02-07",
+        "ageDays": 1020,
+        "title": "Alternation of Non-alcoholic Fatty Liver Disease (NAFLD) and Cardiovascular Risks After Liftestyle Modification: A Ultrasound Attenuation Imaging-Based Study",
+        "url": "https://clinicaltrials.gov/study/NCT04440540"
       },
       {
-        "id": "clinicaltrials-gov-xuefu-zhuyu-capsule-for-the-treatment-of-qizhi-xueyu-zheng-qi-stagn",
-        "publishedAt": "2022-11-15",
-        "ageDays": 1462,
-        "title": "Xuefu-Zhuyu Capsule for the Treatment of \"Qizhi Xueyu Zheng\" (Qi Stagnation and Blood Stasis Syndrome)",
-        "url": "https://clinicaltrials.gov/study/NCT04218487"
+        "id": "clinicaltrials-gov-effect-of-electroacupuncture-on-obesity",
+        "publishedAt": "2022-11-10",
+        "ageDays": 1474,
+        "title": "Effect of Electroacupuncture on Obesity",
+        "url": "https://clinicaltrials.gov/study/NCT05237089"
       },
       {
-        "id": "clinicaltrials-gov-efficacy-of-extended-letermovir-prophylaxis-to-prevent-cmv-reactivatio",
-        "publishedAt": "2026-01-21",
-        "ageDays": 299,
-        "title": "Efficacy of Extended Letermovir Prophylaxis to Prevent CMV Reactivation in High-Risk Chinese Adults Undergoing Allogeneic HSCT",
-        "url": "https://clinicaltrials.gov/study/NCT06812598"
+        "id": "clinicaltrials-gov-red-fleshed-apple-as-a-novel-anthocyanin-biofortified-food-to-improve",
+        "publishedAt": "2019-01-07",
+        "ageDays": 2877,
+        "title": "Red-fleshed Apple as a Novel Anthocyanin-biofortified Food to Improve Cardiometabolic Risk Factors.",
+        "url": "https://clinicaltrials.gov/study/NCT03795324"
       },
       {
-        "id": "clinicaltrials-gov-a-study-testing-how-well-the-drug-extract-of-ginkgo-biloba-leaves-tabl",
-        "publishedAt": "2026-10-30",
-        "ageDays": 17,
-        "title": "A Study Testing How Well the Drug Extract of Ginkgo Biloba Leaves Tablets Works for People With Memory or Thinking Problems After a Stroke When Added to Standard Treatment",
-        "url": "https://clinicaltrials.gov/study/NCT07220538"
+        "id": "clinicaltrials-gov-study-of-key-electro-acupuncture-technique-on-migraine",
+        "publishedAt": "2020-02-05",
+        "ageDays": 2483,
+        "title": "Study of Key Electro-acupuncture Technique on Migraine",
+        "url": "https://clinicaltrials.gov/study/NCT02580968"
       },
       {
-        "id": "pubmed-aryl-hydrocarbon-receptor-cytoplasmic-retention-by-p27-kip1-in-senesce",
-        "publishedAt": "2026-Nov-15",
-        "ageDays": 15,
-        "title": "Aryl hydrocarbon receptor cytoplasmic retention by p27^Kip1 in senescent astrocytes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43034942/"
+        "id": "clinicaltrials-gov-evaluating-the-effectiveness-of-a-smart-screening-and-tiered-managemen",
+        "publishedAt": "2026-07-16",
+        "ageDays": 130,
+        "title": "Evaluating the Effectiveness of a Smart Screening and Tiered Management Tool for Diabetic Kidney Disease in Primary Care: A Cluster Randomized Trial",
+        "url": "https://clinicaltrials.gov/study/NCT07707518"
       },
       {
-        "id": "pubmed-cellular-senescence-and-the-hallmarks-of-ageing-evaluating-evidence-f",
-        "publishedAt": "2026-Nov-13",
-        "ageDays": 15,
-        "title": "Cellular senescence and the hallmarks of ageing: Evaluating evidence for a causal mechanistic role.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43033797/"
+        "id": "clinicaltrials-gov-clinical-trial-scheme-of-shu-gan-yi-yang-capsule",
+        "publishedAt": "2017-09-25",
+        "ageDays": 3346,
+        "title": "Clinical Trial Scheme of Shu Gan yi Yang Capsule",
+        "url": "https://clinicaltrials.gov/study/NCT03290313"
       },
       {
-        "id": "clinicaltrials-gov-can-acupoint-low-intensity-shockwave-therapy-improve-bladder-voiding-e",
-        "publishedAt": "2024-03-05",
-        "ageDays": 986,
-        "title": "Can Acupoint Low Intensity Shockwave Therapy Improve Bladder Voiding Efficiency",
-        "url": "https://clinicaltrials.gov/study/NCT06020963"
+        "id": "clinicaltrials-gov-evaluation-of-the-curative-effect-of-ru-yi-jin-huang-saan",
+        "publishedAt": "2025-03-19",
+        "ageDays": 614,
+        "title": "Evaluation of the Curative Effect of Ru-Yi-Jin-Huang-Saan",
+        "url": "https://clinicaltrials.gov/study/NCT05638360"
       },
       {
-        "id": "clinicaltrials-gov-extremely-early-onset-type-1-diabetes-extremely-early-onset-type-1-dia",
-        "publishedAt": "2025-12-19",
-        "ageDays": 332,
-        "title": "EXtremely Early-onset Type 1 Diabetes EXtremely Early-onset Type 1 Diabetes (A Musketeers' Memorandum Study)",
-        "url": "https://clinicaltrials.gov/study/NCT03369821"
+        "id": "pubmed-the-neurocognitive-basis-of-healthy-longevity-an-integrative-review-o",
+        "publishedAt": "2026-Nov-22",
+        "ageDays": 21,
+        "title": "The Neurocognitive Basis of Healthy Longevity: An Integrative Review of Brain Aging and Longevity Mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43068747/"
       },
       {
-        "id": "clinicaltrials-gov-geriatric-assessment-ga-for-elderly-patients-undergoing-allo-hsct",
-        "publishedAt": "2026-09-15",
-        "ageDays": 62,
-        "title": "Geriatric Assessment (GA) for Elderly Patients Undergoing Allo-HSCT",
-        "url": "https://clinicaltrials.gov/study/NCT06946654"
+        "id": "pubmed-lactate-lactylation-signaling-at-the-macrophage-disc-cell-interface-i",
+        "publishedAt": "2026-Nov-21",
+        "ageDays": 21,
+        "title": "Lactate-Lactylation Signaling at the Macrophage-Disc Cell Interface: Immunometabolic Mechanisms and Therapeutic Opportunities in Intervertebral Disc Degeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43066882/"
       }
     ]
   },

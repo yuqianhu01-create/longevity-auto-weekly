@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T08:21:29.465921+00:00",
+  "generatedAt": "2026-11-23T09:31:44.265728+00:00",
   "reports": [
     {
       "entry": {
@@ -20071,6 +20071,1078 @@
           }
         ],
         "publishedAt": "2026-11-16T08:21:29.465921+00:00"
+      }
+    },
+    {
+      "entry": {
+        "id": "2026-W48-auto-202611230931",
+        "week": "2026-W48",
+        "issue": 48,
+        "issueLabel": "第48期",
+        "status": "published",
+        "path": "published/2026-W48-auto-202611230931.json",
+        "generatedAt": "2026-11-23T09:31:44.265728+00:00",
+        "publishedAt": "2026-11-23T09:31:44.265728+00:00"
+      },
+      "report": {
+        "schemaVersion": 1,
+        "week": "2026-W48",
+        "issue": 48,
+        "issueLabel": "第48期",
+        "status": "published",
+        "period": {
+          "from": "2026-11-23",
+          "to": "2026-11-29"
+        },
+        "generatedAt": "2026-11-23T09:31:44.265728+00:00",
+        "judgement": "自动采集、自动去重、自动分类和自动发布；读者只需浏览正式周报并提取有用信息。",
+        "opportunities": [],
+        "risks": [],
+        "actions": [],
+        "moduleOrder": [
+          "academic-frontier",
+          "industry-progress",
+          "health-food-competitors",
+          "food-ingredients",
+          "ai-applications"
+        ],
+        "items": [
+          {
+            "id": "crossref-letters-from-the-wild-reimagining-human-animal-relations-through-geor",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Letters from the Wild: Reimagining Human-Animal Relations Through George Saunders’\n                    <i>Fox 8</i>",
+            "titleZh": "Letters from the Wild: Reimagining Human-Animal Relations Through George Saunders’\n                    <i>Fox 8</i>",
+            "url": "https://doi.org/10.1515/9783112260593-009",
+            "publishedAt": "2026-11-23T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1515/9783112260593-009"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-23 收录/发布：Letters from the Wild: Reimagining Human-Animal Relations Through George Saunders’\n                    <i>Fox 8</i>",
+            "evidence": {
+              "stage": "animal",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Letters from the Wild: Reimagining Human-Animal Relations Through George Saunders’\n                    <i>Fox 8</i>",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1515/9783112260593-009",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-23T09:31:44.283385+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-the-tetranucleotide-sequence-of-premature-termination-codons-influence",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "The tetranucleotide sequence of premature termination codons influences AntiCodon-Edited tRNA suppression efficiency in mechanistic luminescence-based and translational human disease models",
+            "titleZh": "The tetranucleotide sequence of premature termination codons influences AntiCodon-Edited tRNA suppression efficiency in mechanistic luminescence-based and translational human disease models",
+            "url": "https://doi.org/10.1186/s43556-026-00661-8",
+            "publishedAt": "2026-11-23T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1186/s43556-026-00661-8"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-23 收录/发布：The tetranucleotide sequence of premature termination codons influences AntiCodon-Edited tRNA suppression efficiency in mechanistic luminescence-based and translational human disease models",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：The tetranucleotide sequence of premature termination codons influences AntiCodon-Edited tRNA suppression efficiency in mechanistic luminescence-based and translational human disease models",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1186/s43556-026-00661-8",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-23T09:31:44.283696+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-ambient-air-pollution-and-the-sex-ratio-at-birth-a-systematic-review",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Ambient air pollution and the sex ratio at birth: a systematic review and narrative synthesis",
+            "titleZh": "Ambient air pollution and the sex ratio at birth: a systematic review and narrative synthesis",
+            "url": "https://doi.org/10.1007/s11111-026-00545-7",
+            "publishedAt": "2026-11-23T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1007/s11111-026-00545-7"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-23 收录/发布：Ambient air pollution and the sex ratio at birth: a systematic review and narrative synthesis",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Ambient air pollution and the sex ratio at birth: a systematic review and narrative synthesis",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1007/s11111-026-00545-7",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-23T09:31:44.283749+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-correction-to-beyond-tools-and-techniques-situated-mediation-human",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Correction to: Beyond Tools and Techniques: Situated Mediation, Human Judgment, and Agency in Language Education",
+            "titleZh": "Correction to: Beyond Tools and Techniques: Situated Mediation, Human Judgment, and Agency in Language Education",
+            "url": "https://doi.org/10.1007/s42321-026-00260-4",
+            "publishedAt": "2026-11-23T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1007/s42321-026-00260-4"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-23 收录/发布：Correction to: Beyond Tools and Techniques: Situated Mediation, Human Judgment, and Agency in Language Education",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Correction to: Beyond Tools and Techniques: Situated Mediation, Human Judgment, and Agency in Language Education",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1007/s42321-026-00260-4",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-23T09:31:44.283790+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-ep03-28-predicting-the-postoperative-cognitive-risk-of-neurosurgical-i",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "EP03.28 Predicting the postoperative cognitive risk of neurosurgical intervention estimating patient-specific functional indirect disconnection",
+            "titleZh": "EP03.28 Predicting the postoperative cognitive risk of neurosurgical intervention estimating patient-specific functional indirect disconnection",
+            "url": "https://doi.org/10.1093/neuonc/noag245.512",
+            "publishedAt": "2026-11-23T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1093/neuonc/noag245.512"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-23 收录/发布：EP03.28 Predicting the postoperative cognitive risk of neurosurgical intervention estimating patient-specific functional indirect disconnection",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：EP03.28 Predicting the postoperative cognitive risk of neurosurgical intervention estimating patient-specific functional indirect disconnection",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1093/neuonc/noag245.512",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-23T09:31:44.283842+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-from-resistance-to-resilience-towards-an-age-sensitive-digital-litera",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "From Resistance to Resilience: Towards an Age-Sensitive Digital Literacy Acceptance Model",
+            "titleZh": "From Resistance to Resilience: Towards an Age-Sensitive Digital Literacy Acceptance Model",
+            "url": "https://doi.org/10.1108/978-1-83742-007-020261003",
+            "publishedAt": "2026-11-23T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1108/978-1-83742-007-020261003"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-23 收录/发布：From Resistance to Resilience: Towards an Age-Sensitive Digital Literacy Acceptance Model",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：From Resistance to Resilience: Towards an Age-Sensitive Digital Literacy Acceptance Model",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1108/978-1-83742-007-020261003",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-23T09:31:44.284021+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-veupathdb-2026-update-on-data-tools-and-infrastructure-for-eukaryot",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "VEuPathDB: 2026 update on data, tools, and infrastructure for eukaryotic pathogens, vectors, and hosts",
+            "titleZh": "VEuPathDB: 2026 update on data, tools, and infrastructure for eukaryotic pathogens, vectors, and hosts",
+            "url": "https://doi.org/10.1093/nar/gkag1245",
+            "publishedAt": "2026-11-23T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.1093/nar/gkag1245"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-23 收录/发布：VEuPathDB: 2026 update on data, tools, and infrastructure for eukaryotic pathogens, vectors, and hosts",
+            "evidence": {
+              "stage": "unclassified",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：VEuPathDB: 2026 update on data, tools, and infrastructure for eukaryotic pathogens, vectors, and hosts",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.1093/nar/gkag1245",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-23T09:31:44.284060+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "crossref-time-varying-association-between-quadriceps-strength-recovery-and-pain",
+            "sourceId": "crossref",
+            "sourceKind": "research",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Time-varying association between quadriceps strength recovery and pain relief following patellofemoral joint replacement: a longitudinal cohort study",
+            "titleZh": "Time-varying association between quadriceps strength recovery and pain relief following patellofemoral joint replacement: a longitudinal cohort study",
+            "url": "https://doi.org/10.3389/fphys.2026.1967759",
+            "publishedAt": "2026-11-23T00:00:00+00:00",
+            "identifiers": {
+              "doi": "10.3389/fphys.2026.1967759"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "crossref 在 2026-11-23 收录/发布：Time-varying association between quadriceps strength recovery and pain relief following patellofemoral joint replacement: a longitudinal cohort study",
+            "evidence": {
+              "stage": "human-observational",
+              "quality": "moderate"
+            },
+            "sourceAssessment": {
+              "credibility": "primary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.2,
+              "novelty": 9.2,
+              "actionability": 7.6
+            },
+            "significance": "从机制、模型和证据阶段判断其是否能转化为延衰指标、实验设计或证据缺口：Time-varying association between quadriceps strength recovery and pain relief following patellofemoral joint replacement: a longitudinal cohort study",
+            "recommendedAction": "阅读原文摘要和方法，优先提取机制轴、模型类型、人体相关性和下一步验证缺口。",
+            "provenance": [
+              {
+                "sourceId": "crossref",
+                "url": "https://doi.org/10.3389/fphys.2026.1967759",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-23T09:31:44.284099+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "academic-frontier"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-virtual-testis-cancer-lay-support-and-survivorship-aim-2",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "industry-progress"
+            ],
+            "primaryModuleId": "industry-progress",
+            "titleOriginal": "Virtual Testis Cancer Lay Support and Survivorship Aim 2",
+            "titleZh": "Virtual Testis Cancer Lay Support and Survivorship Aim 2",
+            "url": "https://clinicaltrials.gov/study/NCT06702592",
+            "publishedAt": "2026-11-12T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT06702592"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-11-12 收录/发布：Virtual Testis Cancer Lay Support and Survivorship Aim 2",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.5,
+              "actionability": 8.4
+            },
+            "significance": "提取原料名称、剂量、规范、安全性和人体证据设计，判断是否值得进入原料库：Virtual Testis Cancer Lay Support and Survivorship Aim 2",
+            "recommendedAction": "整理原料名、适用人群、剂量、法规状态和证据设计，标注是否可进入后续深挖。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT06702592",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-23T09:31:44.285083+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "food-ingredients"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-mix-and-match-of-the-covid-19-vaccine-for-safety-and-immunogenicity",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "industry-progress"
+            ],
+            "primaryModuleId": "industry-progress",
+            "titleOriginal": "Mix and Match of the COVID-19 Vaccine for Safety and Immunogenicity",
+            "titleZh": "Mix and Match of the COVID-19 Vaccine for Safety and Immunogenicity",
+            "url": "https://clinicaltrials.gov/study/NCT04894435",
+            "publishedAt": "2026-11-10T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT04894435"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-11-10 收录/发布：Mix and Match of the COVID-19 Vaccine for Safety and Immunogenicity",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.3,
+              "actionability": 8.4
+            },
+            "significance": "提取原料名称、剂量、规范、安全性和人体证据设计，判断是否值得进入原料库：Mix and Match of the COVID-19 Vaccine for Safety and Immunogenicity",
+            "recommendedAction": "整理原料名、适用人群、剂量、法规状态和证据设计，标注是否可进入后续深挖。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT04894435",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-23T09:31:44.285758+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": [
+              "food-ingredients"
+            ]
+          },
+          {
+            "id": "clinicaltrials-gov-sepsis-in-critically-ill-patients",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Sepsis in Critically Ill Patients",
+            "titleZh": "Sepsis in Critically Ill Patients",
+            "url": "https://clinicaltrials.gov/study/NCT07707622",
+            "publishedAt": "2026-11-18T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07707622"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-11-18 收录/发布：Sepsis in Critically Ill Patients",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.9,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Sepsis in Critically Ill Patients",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07707622",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-23T09:31:44.284673+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-creatine-and-muscle-health-in-madrid-s-walking-footballers",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Creatine and Muscle Health in Madrid's Walking Footballers.",
+            "titleZh": "Creatine and Muscle Health in Madrid's Walking Footballers.",
+            "url": "https://clinicaltrials.gov/study/NCT07891936",
+            "publishedAt": "2026-11-16T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07891936"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-11-16 收录/发布：Creatine and Muscle Health in Madrid's Walking Footballers.",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.7,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Creatine and Muscle Health in Madrid's Walking Footballers.",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07891936",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-23T09:31:44.285160+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "clinicaltrials-gov-effect-of-exergaming-program-versus-neuromuscular-exercise-in-elderly",
+            "sourceId": "clinicaltrials-gov",
+            "sourceKind": "clinical-registry",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Effect of Exergaming Program Versus Neuromuscular Exercise in Elderly People With Motor Cognitive Risk Syndrome",
+            "titleZh": "Effect of Exergaming Program Versus Neuromuscular Exercise in Elderly People With Motor Cognitive Risk Syndrome",
+            "url": "https://clinicaltrials.gov/study/NCT07045259",
+            "publishedAt": "2026-11-12T00:00:00+00:00",
+            "identifiers": {
+              "nctId": "NCT07045259"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "clinicaltrials-gov 在 2026-11-12 收录/发布：Effect of Exergaming Program Versus Neuromuscular Exercise in Elderly People With Motor Cognitive Risk Syndrome",
+            "evidence": {
+              "stage": "human-intervention",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "official",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 8.0,
+              "novelty": 8.5,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Effect of Exergaming Program Versus Neuromuscular Exercise in Elderly People With Motor Cognitive Risk Syndrome",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "clinicaltrials-gov",
+                "url": "https://clinicaltrials.gov/study/NCT07045259",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-23T09:31:44.284974+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-explicational-statistics-research-for-an-ai-age",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Explicational statistics: research for an AI age",
+            "titleZh": "Explicational statistics: research for an AI age",
+            "url": "http://arxiv.org/abs/2611.27961v1",
+            "publishedAt": "2026-11-20T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2611.27961v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-11-20 收录/发布：Explicational statistics: research for an AI age",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Explicational statistics: research for an AI age",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2611.27961v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-23T09:31:44.283874+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-receptor-abundance-alone-underpredicts-red-blood-cell-adhesion-in-gauc",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Receptor Abundance Alone Underpredicts Red Blood Cell Adhesion in Gaucher Disease",
+            "titleZh": "Receptor Abundance Alone Underpredicts Red Blood Cell Adhesion in Gaucher Disease",
+            "url": "http://arxiv.org/abs/2611.27960v1",
+            "publishedAt": "2026-11-20T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2611.27960v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-11-20 收录/发布：Receptor Abundance Alone Underpredicts Red Blood Cell Adhesion in Gaucher Disease",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Receptor Abundance Alone Underpredicts Red Blood Cell Adhesion in Gaucher Disease",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2611.27960v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-23T09:31:44.283906+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-cluster-editing-in-subexponential-fixed-parameter-time",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Cluster Editing in Subexponential Fixed-Parameter Time",
+            "titleZh": "Cluster Editing in Subexponential Fixed-Parameter Time",
+            "url": "http://arxiv.org/abs/2611.27956v1",
+            "publishedAt": "2026-11-20T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2611.27956v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-11-20 收录/发布：Cluster Editing in Subexponential Fixed-Parameter Time",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Cluster Editing in Subexponential Fixed-Parameter Time",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2611.27956v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-23T09:31:44.283932+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-mammalian-gonadal-development-origins-specification-and-differentiat",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "Mammalian gonadal development: origins, specification and differentiation of ovary and testis cell lineages",
+            "titleZh": "Mammalian gonadal development: origins, specification and differentiation of ovary and testis cell lineages",
+            "url": "http://arxiv.org/abs/2611.27933v1",
+            "publishedAt": "2026-11-20T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2611.27933v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-11-20 收录/发布：Mammalian gonadal development: origins, specification and differentiation of ovary and testis cell lineages",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：Mammalian gonadal development: origins, specification and differentiation of ovary and testis cell lineages",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2611.27933v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-23T09:31:44.283963+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          },
+          {
+            "id": "arxiv-bioemu2-scalable-emulation-of-biomolecular-dynamics",
+            "sourceId": "arxiv",
+            "sourceKind": "preprint",
+            "moduleIds": [
+              "ai-applications"
+            ],
+            "primaryModuleId": "ai-applications",
+            "titleOriginal": "BioEmu2: Scalable Emulation of Biomolecular Dynamics",
+            "titleZh": "BioEmu2: Scalable Emulation of Biomolecular Dynamics",
+            "url": "http://arxiv.org/abs/2611.27924v1",
+            "publishedAt": "2026-11-20T00:00:00+00:00",
+            "identifiers": {
+              "arxivId": "2611.27924v1"
+            },
+            "verified": true,
+            "verificationMode": "automated_source_date_link_gate",
+            "fact": "arxiv 在 2026-11-20 收录/发布：BioEmu2: Scalable Emulation of Biomolecular Dynamics",
+            "evidence": {
+              "stage": "computational",
+              "quality": "low"
+            },
+            "sourceAssessment": {
+              "credibility": "secondary",
+              "impact": "medium"
+            },
+            "scoreComponents": {
+              "strategicRelevance": 8.8,
+              "credibility": 6.8,
+              "novelty": 9.0,
+              "actionability": 8.4
+            },
+            "significance": "判断其属于AI产业平台、产品工具、访谈信号还是抗衰模型，并记录可复用能力：BioEmu2: Scalable Emulation of Biomolecular Dynamics",
+            "recommendedAction": "区分AI产业应用与AI抗衰研究，记录公司/平台、模型能力、访谈观点和可落地场景。",
+            "provenance": [
+              {
+                "sourceId": "arxiv",
+                "url": "http://arxiv.org/abs/2611.27924v1",
+                "trust": "automated-trusted-source",
+                "contentScope": "metadata-record",
+                "checkedAt": "2026-11-23T09:31:44.283986+00:00"
+              }
+            ],
+            "tags": {
+              "mechanisms": [],
+              "ingredients": [],
+              "competitors": [],
+              "applicants": [],
+              "statuses": [
+                "自动发布",
+                "待阅读"
+              ]
+            },
+            "relatedModuleIds": []
+          }
+        ],
+        "topItemIds": [
+          "clinicaltrials-gov-sepsis-in-critically-ill-patients",
+          "crossref-letters-from-the-wild-reimagining-human-animal-relations-through-geor",
+          "crossref-the-tetranucleotide-sequence-of-premature-termination-codons-influence",
+          "crossref-ambient-air-pollution-and-the-sex-ratio-at-birth-a-systematic-review",
+          "crossref-correction-to-beyond-tools-and-techniques-situated-mediation-human",
+          "crossref-ep03-28-predicting-the-postoperative-cognitive-risk-of-neurosurgical-i",
+          "crossref-from-resistance-to-resilience-towards-an-age-sensitive-digital-litera",
+          "crossref-veupathdb-2026-update-on-data-tools-and-infrastructure-for-eukaryot",
+          "crossref-time-varying-association-between-quadriceps-strength-recovery-and-pain",
+          "clinicaltrials-gov-creatine-and-muscle-health-in-madrid-s-walking-footballers"
+        ],
+        "coverage": [
+          {
+            "sourceId": "automated-weekly-pipeline",
+            "status": "ok",
+            "attempts": 1,
+            "checkedAt": "2026-11-23T09:31:44.265728+00:00",
+            "itemCount": 18,
+            "recordErrors": 0,
+            "pageErrors": 0,
+            "recencyWindowDays": 14
+          }
+        ],
+        "publishedAt": "2026-11-23T09:31:44.265728+00:00"
       }
     }
   ]
